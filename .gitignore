@@ -17,6 +17,7 @@ build/
 
 # API Keys and sensitive data
 config.js
+config.js.backup.local
 
 # IDE files
 .vscode/
@@ -44,3 +45,15 @@ coverage/
 # Temporary files
 tmp/
 temp/
+
+# Shell scripts with sensitive data
+*.sh
+!start.sh
+!start.bat
+
+# Backup files
+*.backup
+*.backup_*
+
+# Uploads directory (may contain sensitive files)
+uploads/

@@ -1,0 +1,27 @@
+// API Keys - Single OpenRouter API untuk semua model
+const OPENROUTER_API_KEY = process.env.OPENROUTER_API_KEY || 'YOUR_OPENROUTER_API_KEY';
+
+// Configuration untuk API via OpenRouter
+const config = {
+  // OpenRouter API Key (digunakan untuk semua model)
+  OPENROUTER_API_KEY: OPENROUTER_API_KEY,
+
+  // Model untuk extract kata-kata (DeepSeek via OpenRouter)
+  EXTRACT_MODEL: 'deepseek/deepseek-chat-v3-0324',
+
+  // Model untuk terjemahan (OpenAI via OpenRouter)
+  TRANSLATE_MODEL: 'openai/gpt-4o-mini',
+
+  // Base URL - Semua melalui OpenRouter
+  OPENROUTER_BASE_URL: 'https://openrouter.ai/api/v1',
+
+  // Headers untuk OpenRouter API (digunakan untuk semua request)
+  OPENROUTER_HEADERS: {
+    'Content-Type': 'application/json',
+    'HTTP-Referer': 'https://localhost:3000',
+    'X-Title': 'Japanese Text Parser',
+    'Authorization': `Bearer ${OPENROUTER_API_KEY}`
+  }
+};
+
+module.exports = config;
