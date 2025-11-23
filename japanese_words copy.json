@@ -1,0 +1,1964 @@
+[
+  {
+    "japanese": "あったかい",
+    "romaji": "attakai",
+    "english": "warm",
+    "indonesian": "hangat"
+  },
+  {
+    "japanese": "あんまり",
+    "romaji": "anmari",
+    "english": "not very; not much",
+    "indonesian": "tidak terlalu; tidak banyak"
+  },
+  {
+    "japanese": "い",
+    "romaji": "i",
+    "english": "to be",FProcessing batch
+    "indonesian": "ada"
+  },
+  {
+    "japanese": "いい",
+    "romaji": "ii",
+    "english": "good",
+    "indonesian": "baik"
+  },
+  {
+    "japanese": "いいです",
+    "romaji": "ii desu",
+    "english": "it's good",
+    "indonesian": "itu baik"
+  },
+  {
+    "japanese": "いきましょう",
+    "romaji": "ikimashou",
+    "english": "Let's go",
+    "indonesian": "Ayo pergi"
+  },
+  {
+    "japanese": "いきます",
+    "romaji": "ikimasu",
+    "english": "to go",
+    "indonesian": "pergi"
+  },
+  {
+    "japanese": "いくつ",
+    "romaji": "ikutsu",
+    "english": "how many",
+    "indonesian": "berapa banyak"
+  },
+  {
+    "japanese": "いった",
+    "romaji": "itta",
+    "english": "went",
+    "indonesian": "pergi"
+  },
+  {
+    "japanese": "いったこと",
+    "romaji": "itta koto",
+    "english": "what I said",
+    "indonesian": "apa yang saya katakan"
+  },
+  {
+    "japanese": "いったことがあります",
+    "romaji": "ittakoto ga arimasu",
+    "english": "I have been (to)",
+    "indonesian": "saya pernah pergi (ke)"
+  },
+  {
+    "japanese": "いったことがありますか",
+    "romaji": "ittakoto ga arimasu ka",
+    "english": "Have you ever been?",
+    "indonesian": "Apakah Anda pernah pergi?"
+  },
+  {
+    "japanese": "いつも",
+    "romaji": "itsumo",
+    "english": "always",
+    "indonesian": "selalu"
+  },
+  {
+    "japanese": "いません",
+    "romaji": "unknown",
+    "english": "unknown",
+    "indonesian": "unknown"
+  },
+  {
+    "japanese": "いる",
+    "romaji": "iru",
+    "english": "to exist (animate)",
+    "indonesian": "ada (makhluk hidup)"
+  },
+  {
+    "japanese": "いるかもしれません",
+    "romaji": "irukamoshiremasen",
+    "english": "might be",
+    "indonesian": "mungkin"
+  },
+  {
+    "japanese": "いろいろ",
+    "romaji": "iroiro",
+    "english": "various",
+    "indonesian": "berbagai"
+  },
+  {
+    "japanese": "いろんな",
+    "romaji": "ironna",
+    "english": "various",
+    "indonesian": "bermacam-macam"
+  },
+  {
+    "japanese": "う",
+    "romaji": "u",
+    "english": "u (a vowel sound)",
+    "indonesian": "u (suara vokal)"
+  },
+  {
+    "japanese": "うち",
+    "romaji": "uchi",
+    "english": "home; inside; we (pronoun)",
+    "indonesian": "rumah; di dalam; kami (kata ganti)"
+  },
+  {
+    "japanese": "うどん",
+    "romaji": "udon",
+    "english": "thick noodles",
+    "indonesian": "mi tebal"
+  },
+  {
+    "japanese": "ええ",
+    "romaji": "ee",
+    "english": "yes",
+    "indonesian": "iya"
+  },
+  {
+    "japanese": "えっ",
+    "romaji": "e",
+    "english": "Eh? / What?",
+    "indonesian": "Eh? / Apa?"
+  },
+  {
+    "japanese": "お",
+    "romaji": "o",
+    "english": "honorific prefix",
+    "indonesian": "prefiks kehormatan"
+  },
+  {
+    "japanese": "おかえり",
+    "romaji": "okaeri",
+    "english": "welcome home",
+    "indonesian": "selamat datang di rumah"
+  },
+  {
+    "japanese": "おすすめ",
+    "romaji": "osusume",
+    "english": "recommendation",
+    "indonesian": "rekomendasi"
+  },
+  {
+    "japanese": "お会計",
+    "romaji": "okaikei",
+    "english": "bill",
+    "indonesian": "tagihan"
+  },
+  {
+    "japanese": "お店",
+    "romaji": "o-mise",
+    "english": "shop",
+    "indonesian": "toko"
+  },
+  {
+    "japanese": "お店で",
+    "romaji": "omise de",
+    "english": "at the store",
+    "indonesian": "di toko"
+  },
+  {
+    "japanese": "お腹",
+    "romaji": "onaka",
+    "english": "belly",
+    "indonesian": "perut"
+  },
+  {
+    "japanese": "お辞儀",
+    "romaji": "ojigi",
+    "english": "bow",
+    "indonesian": "salam"
+  },
+  {
+    "japanese": "お辞儀します",
+    "romaji": "ojigi shimasu",
+    "english": "to bow",
+    "indonesian": "menganggukkan kepala"
+  },
+  {
+    "japanese": "お金",
+    "romaji": "okane",
+    "english": "money",
+    "indonesian": "uang"
+  },
+  {
+    "japanese": "お金を払います",
+    "romaji": "okane o haraimasu",
+    "english": "I will pay money",
+    "indonesian": "Saya akan membayar uang"
+  },
+  {
+    "japanese": "お願い",
+    "romaji": "onegai",
+    "english": "request; favor",
+    "indonesian": "permohonan"
+  },
+  {
+    "japanese": "お願いします",
+    "romaji": "onegai shimasu",
+    "english": "please",
+    "indonesian": "tolong"
+  },
+  {
+    "japanese": "か",
+    "romaji": "ka",
+    "english": "or",
+    "indonesian": "atau"
+  },
+  {
+    "japanese": "から",
+    "romaji": "kara",
+    "english": "from",
+    "indonesian": "dari"
+  },
+  {
+    "japanese": "き",
+    "romaji": "ki",
+    "english": "tree",
+    "indonesian": "pohon"
+  },
+  {
+    "japanese": "きれい",
+    "romaji": "kirei",
+    "english": "clean; beautiful",
+    "indonesian": "bersih; cantik"
+  },
+  {
+    "japanese": "く",
+    "romaji": "ku",
+    "english": "nine",
+    "indonesian": "sembilan"
+  },
+  {
+    "japanese": "くま",
+    "romaji": "kuma",
+    "english": "bear",
+    "indonesian": "beruang"
+  },
+  {
+    "japanese": "くらい",
+    "romaji": "kurai",
+    "english": "about; approximately; around",
+    "indonesian": "sekitar"
+  },
+  {
+    "japanese": "けん",
+    "romaji": "ken",
+    "english": "sword",
+    "indonesian": "pedang"
+  },
+  {
+    "japanese": "ここ",
+    "romaji": "koko",
+    "english": "here",
+    "indonesian": "sini"
+  },
+  {
+    "japanese": "ここはどこですか",
+    "romaji": "koko wa doko desu ka",
+    "english": "Where is this place?",
+    "indonesian": "Di mana tempat ini?"
+  },
+  {
+    "japanese": "ここは日本ですけど",
+    "romaji": "koko wa nippon desu kedo",
+    "english": "This is Japan, but...",
+    "indonesian": "Ini adalah Jepang, tapi..."
+  },
+  {
+    "japanese": "こと",
+    "romaji": "koto",
+    "english": "thing; matter; fact",
+    "indonesian": "hal; perkara"
+  },
+  {
+    "japanese": "この",
+    "romaji": "kono",
+    "english": "this",
+    "indonesian": "ini"
+  },
+  {
+    "japanese": "この場所",
+    "romaji": "kono basho",
+    "english": "this place",
+    "indonesian": "tempat ini"
+  },
+  {
+    "japanese": "この場所に行きたいです",
+    "romaji": "kono basho ni ikitai desu",
+    "english": "I want to go to this place",
+    "indonesian": "Saya ingin pergi ke tempat ini"
+  },
+  {
+    "japanese": "この場所の日本語は特別です",
+    "romaji": "kono basho no nihongo wa tokubetsu desu",
+    "english": "The Japanese language in this place is special.",
+    "indonesian": "Bahasa Jepang di tempat ini istimewa."
+  },
+  {
+    "japanese": "これ",
+    "romaji": "kore",
+    "english": "this",
+    "indonesian": "ini"
+  },
+  {
+    "japanese": "これで",
+    "romaji": "kore de",
+    "english": "with this",
+    "indonesian": "dengan ini"
+  },
+  {
+    "japanese": "これですね",
+    "romaji": "kore desu ne",
+    "english": "This is it, isn't it?",
+    "indonesian": "Ini kan?"
+  },
+  {
+    "japanese": "これは",
+    "romaji": "kore wa",
+    "english": "this is",
+    "indonesian": "ini adalah"
+  },
+  {
+    "japanese": "これは場所です",
+    "romaji": "kore wa basho desu",
+    "english": "This is a place",
+    "indonesian": "Ini adalah tempat"
+  },
+  {
+    "japanese": "これは挨拶です",
+    "romaji": "kore wa aisatsu desu",
+    "english": "This is a greeting.",
+    "indonesian": "Ini adalah sapaan."
+  },
+  {
+    "japanese": "これを",
+    "romaji": "kore o",
+    "english": "this (object)",
+    "indonesian": "ini (objek)"
+  },
+  {
+    "japanese": "これをして",
+    "romaji": "kore o shite",
+    "english": "do this",
+    "indonesian": "lakukan ini"
+  },
+  {
+    "japanese": "これをしました",
+    "romaji": "kore o shimashita",
+    "english": "I did this",
+    "indonesian": "Saya melakukan ini"
+  },
+  {
+    "japanese": "これをしましょう",
+    "romaji": "kore o shimashou",
+    "english": "Let's do this",
+    "indonesian": "Mari lakukan ini"
+  },
+  {
+    "japanese": "これをします",
+    "romaji": "kore o shimasu",
+    "english": "I will do this",
+    "indonesian": "Saya akan melakukan ini"
+  },
+  {
+    "japanese": "ころ",
+    "romaji": "koro",
+    "english": "around; about; time",
+    "indonesian": "sekitar; tentang; waktu"
+  },
+  {
+    "japanese": "こんにちは",
+    "romaji": "konnichiwa",
+    "english": "hello",
+    "indonesian": "halo"
+  },
+  {
+    "japanese": "さ",
+    "romaji": "sa",
+    "english": "sa (phonetic character used in writing)",
+    "indonesian": "sa (karakter fonetik yang digunakan dalam penulisan)"
+  },
+  {
+    "japanese": "さあ",
+    "romaji": "saa",
+    "english": "come on; well; now",
+    "indonesian": "ayo; baiklah; sekarang"
+  },
+  {
+    "japanese": "さい",
+    "romaji": "sai",
+    "english": "age; years old",
+    "indonesian": "usia"
+  },
+  {
+    "japanese": "さようなら",
+    "romaji": "sayōnara",
+    "english": "goodbye",
+    "indonesian": "selamat tinggal"
+  },
+  {
+    "japanese": "さん",
+    "romaji": "san",
+    "english": "Mr./Ms./Mrs. (a respectful honorific)",
+    "indonesian": "Tuan/Ny. (sebutan hormat)"
+  },
+  {
+    "japanese": "しない",
+    "romaji": "shinai",
+    "english": "do not do",
+    "indonesian": "tidak melakukan"
+  },
+  {
+    "japanese": "しました",
+    "romaji": "shimashita",
+    "english": "did",
+    "indonesian": "melakukan"
+  },
+  {
+    "japanese": "すいません",
+    "romaji": "suimasen",
+    "english": "excuse me / I'm sorry",
+    "indonesian": "maaf"
+  },
+  {
+    "japanese": "すぎ",
+    "romaji": "sugi",
+    "english": "cedar",
+    "indonesian": "sugi"
+  },
+  {
+    "japanese": "すぐ",
+    "romaji": "sugu",
+    "english": "immediately",
+    "indonesian": "segera"
+  },
+  {
+    "japanese": "すごく",
+    "romaji": "sugoku",
+    "english": "very",
+    "indonesian": "sangat"
+  },
+  {
+    "japanese": "ぜひ",
+    "romaji": "zehi",
+    "english": "by all means",
+    "indonesian": "silakan"
+  },
+  {
+    "japanese": "そう",
+    "romaji": "sou",
+    "english": "like that",
+    "indonesian": "begitu"
+  },
+  {
+    "japanese": "そうですね",
+    "romaji": "sō desu ne",
+    "english": "That's right / I see",
+    "indonesian": "Benar ya"
+  },
+  {
+    "japanese": "た",
+    "romaji": "ta",
+    "english": "ta",
+    "indonesian": "ta"
+  },
+  {
+    "japanese": "たくさん",
+    "romaji": "takusan",
+    "english": "a lot",
+    "indonesian": "banyak"
+  },
+  {
+    "japanese": "たぶん",
+    "romaji": "tabun",
+    "english": "probably",
+    "indonesian": "mungkin"
+  },
+  {
+    "japanese": "たべます",
+    "romaji": "tabemasu",
+    "english": "eat",
+    "indonesian": "makan"
+  },
+  {
+    "japanese": "たべもの",
+    "romaji": "tabemono",
+    "english": "food",
+    "indonesian": "makanan"
+  },
+  {
+    "japanese": "たら",
+    "romaji": "tara",
+    "english": "if (used in conditional statements)",
+    "indonesian": "jika"
+  },
+  {
+    "japanese": "た後",
+    "romaji": "ta ato",
+    "english": "after",
+    "indonesian": "setelah"
+  },
+  {
+    "japanese": "だから",
+    "romaji": "dakara",
+    "english": "therefore",
+    "indonesian": "oleh karena itu"
+  },
+  {
+    "japanese": "だけど",
+    "romaji": "dakedo",
+    "english": "but",
+    "indonesian": "tapi"
+  },
+  {
+    "japanese": "ち",
+    "romaji": "chi",
+    "english": "blood",
+    "indonesian": "darah"
+  },
+  {
+    "japanese": "ちゃん",
+    "romaji": "chan",
+    "english": "a diminutive or affectionate suffix used for children, pets, or close friends",
+    "indonesian": "akhiran yang menunjukkan keakraban atau kasih sayang, biasanya untuk anak-anak, hewan peliharaan, atau teman dekat"
+  },
+  {
+    "japanese": "ちょっと",
+    "romaji": "chotto",
+    "english": "a little",
+    "indonesian": "sedikit"
+  },
+  {
+    "japanese": "って",
+    "romaji": "tte",
+    "english": "quote marker / informal topic marker",
+    "indonesian": "tanda kutip / penanda topik informal"
+  },
+  {
+    "japanese": "つかう",
+    "romaji": "tsukau",
+    "english": "to use",
+    "indonesian": "menggunakan"
+  },
+  {
+    "japanese": "つかって",
+    "romaji": "tsukatte",
+    "english": "using",
+    "indonesian": "menggunakan"
+  },
+  {
+    "japanese": "つま",
+    "romaji": "tsuma",
+    "english": "wife",
+    "indonesian": "istri"
+  },
+  {
+    "japanese": "つもり",
+    "romaji": "tsumori",
+    "english": "intention",
+    "indonesian": "niat"
+  },
+  {
+    "japanese": "て",
+    "romaji": "te",
+    "english": "hand",
+    "indonesian": "tangan"
+  },
+  {
+    "japanese": "てから",
+    "romaji": "te kara",
+    "english": "after doing",
+    "indonesian": "setelah"
+  },
+  {
+    "japanese": "ても",
+    "romaji": "temo",
+    "english": "even if",
+    "indonesian": "meskipun"
+  },
+  {
+    "japanese": "で",
+    "romaji": "de",
+    "english": "at; in; on; by",
+    "indonesian": "di; dengan"
+  },
+  {
+    "japanese": "です",
+    "romaji": "desu",
+    "english": "is",
+    "indonesian": "adalah"
+  },
+  {
+    "japanese": "と",
+    "romaji": "to",
+    "english": "and",
+    "indonesian": "dan"
+  },
+  {
+    "japanese": "とか",
+    "romaji": "toka",
+    "english": "such as",
+    "indonesian": "seperti"
+  },
+  {
+    "japanese": "とも",
+    "romaji": "tomo",
+    "english": "friend",
+    "indonesian": "teman"
+  },
+  {
+    "japanese": "どう",
+    "romaji": "dou",
+    "english": "how",
+    "indonesian": "bagaimana"
+  },
+  {
+    "japanese": "どれ",
+    "romaji": "dore",
+    "english": "which",
+    "indonesian": "yang mana"
+  },
+  {
+    "japanese": "どれぐらい",
+    "romaji": "doregurai",
+    "english": "how much",
+    "indonesian": "seberapa banyak"
+  },
+  {
+    "japanese": "な",
+    "romaji": "na",
+    "english": "a part of speech used for emphasis or to indicate a desire",
+    "indonesian": "sebuah bagian dari ucapan yang digunakan untuk penekanan atau menunjukkan keinginan"
+  },
+  {
+    "japanese": "ない",
+    "romaji": "nai",
+    "english": "not exist",
+    "indonesian": "tidak ada"
+  },
+  {
+    "japanese": "なの",
+    "romaji": "nano",
+    "english": "it is",
+    "indonesian": "itu adalah"
+  },
+  {
+    "japanese": "なる",
+    "romaji": "naru",
+    "english": "to become",
+    "indonesian": "menjadi"
+  },
+  {
+    "japanese": "なん",
+    "romaji": "nan",
+    "english": "what",
+    "indonesian": "apa"
+  },
+  {
+    "japanese": "なんでも",
+    "romaji": "nandemo",
+    "english": "anything",
+    "indonesian": "apa saja"
+  },
+  {
+    "japanese": "に",
+    "romaji": "ni",
+    "english": "at, in, on (direction, time, or place marker)",
+    "indonesian": "di, ke"
+  },
+  {
+    "japanese": "ね",
+    "romaji": "ne",
+    "english": "isn't it? / right?",
+    "indonesian": "kan?"
+  },
+  {
+    "japanese": "の",
+    "romaji": "no",
+    "english": "of",
+    "indonesian": "dari"
+  },
+  {
+    "japanese": "は",
+    "romaji": "ha",
+    "english": "topic marker",
+    "indonesian": "penanda topik"
+  },
+  {
+    "japanese": "はあ",
+    "romaji": "haa",
+    "english": "sigh",
+    "indonesian": "helaan napas"
+  },
+  {
+    "japanese": "はい",
+    "romaji": "hai",
+    "english": "yes",
+    "indonesian": "ya"
+  },
+  {
+    "japanese": "はない",
+    "romaji": "hanai",
+    "english": "flower",
+    "indonesian": "bunga"
+  },
+  {
+    "japanese": "ぱすた",
+    "romaji": "pasuta",
+    "english": "pasta",
+    "indonesian": "pasta"
+  },
+  {
+    "japanese": "ひ",
+    "romaji": "hi",
+    "english": "fire/sun/day",
+    "indonesian": "api/sinar/hari"
+  },
+  {
+    "japanese": "ひとつ",
+    "romaji": "hitotsu",
+    "english": "one",
+    "indonesian": "satu"
+  },
+  {
+    "japanese": "ふつう",
+    "romaji": "futsuu",
+    "english": "normal",
+    "indonesian": "normal"
+  },
+  {
+    "japanese": "ほ",
+    "romaji": "ho",
+    "english": "ho (part of the hiragana syllabary)",
+    "indonesian": "ho (bagian dari hiragana)"
+  },
+  {
+    "japanese": "ま",
+    "romaji": "ma",
+    "english": "space; interval; room",
+    "indonesian": "ruang; interval"
+  },
+  {
+    "japanese": "まあ",
+    "romaji": "maa",
+    "english": "well",
+    "indonesian": "baiklah"
+  },
+  {
+    "japanese": "ます",
+    "romaji": "masu",
+    "english": "to do (polite form)",
+    "indonesian": "melakukan (bentuk sopan)"
+  },
+  {
+    "japanese": "まる",
+    "romaji": "maru",
+    "english": "circle",
+    "indonesian": "lingkaran"
+  },
+  {
+    "japanese": "み",
+    "romaji": "mi",
+    "english": "fruit; body; self",
+    "indonesian": "buah; tubuh; diri"
+  },
+  {
+    "japanese": "みなさん",
+    "romaji": "minasan",
+    "english": "everyone",
+    "indonesian": "semua orang"
+  },
+  {
+    "japanese": "む",
+    "romaji": "mu",
+    "english": "none",
+    "indonesian": "tidak ada"
+  },
+  {
+    "japanese": "も",
+    "romaji": "mo",
+    "english": "also",
+    "indonesian": "juga"
+  },
+  {
+    "japanese": "もう",
+    "romaji": "mou",
+    "english": "already",
+    "indonesian": "sudah"
+  },
+  {
+    "japanese": "もちろん",
+    "romaji": "mochiron",
+    "english": "of course",
+    "indonesian": "tentu saja"
+  },
+  {
+    "japanese": "もっと",
+    "romaji": "motto",
+    "english": "more",
+    "indonesian": "lebih"
+  },
+  {
+    "japanese": "もらいます",
+    "romaji": "moraimasu",
+    "english": "to receive",
+    "indonesian": "menerima"
+  },
+  {
+    "japanese": "や",
+    "romaji": "ya",
+    "english": "and (used for listing items)",
+    "indonesian": "dan (digunakan untuk menyebutkan beberapa item)"
+  },
+  {
+    "japanese": "やって",
+    "romaji": "yatte",
+    "english": "do",
+    "indonesian": "melakukan"
+  },
+  {
+    "japanese": "よ",
+    "romaji": "yo",
+    "english": "a sentence-ending particle used for emphasis or to convey information",
+    "indonesian": "partikel akhir kalimat yang digunakan untuk penekanan atau menyampaikan informasi"
+  },
+  {
+    "japanese": "ように",
+    "romaji": "you ni",
+    "english": "in order to; so that; like",
+    "indonesian": "agar; sehingga; seperti"
+  },
+  {
+    "japanese": "よく",
+    "romaji": "yoku",
+    "english": "well",
+    "indonesian": "baik"
+  },
+  {
+    "japanese": "よくしますか",
+    "romaji": "yoku shimasu ka",
+    "english": "Do you often do it?",
+    "indonesian": "Apakah Anda sering melakukannya?"
+  },
+  {
+    "japanese": "ら",
+    "romaji": "ra",
+    "english": "ra (a phonetic character)",
+    "indonesian": "ra (karakter fonetik)"
+  },
+  {
+    "japanese": "を",
+    "romaji": "o",
+    "english": "particle marker for the direct object of a verb",
+    "indonesian": "partikel penanda objek langsung"
+  },
+  {
+    "japanese": "イタリア",
+    "romaji": "Itaria",
+    "english": "Italy",
+    "indonesian": "Italia"
+  },
+  {
+    "japanese": "ウ",
+    "romaji": "u",
+    "english": "u",
+    "indonesian": "u"
+  },
+  {
+    "japanese": "カタカナ",
+    "romaji": "katakana",
+    "english": "katakana",
+    "indonesian": "katakana"
+  },
+  {
+    "japanese": "カリフォルニア",
+    "romaji": "Kariforunia",
+    "english": "California",
+    "indonesian": "California"
+  },
+  {
+    "japanese": "カード",
+    "romaji": "kaado",
+    "english": "card",
+    "indonesian": "kartu"
+  },
+  {
+    "japanese": "サイン",
+    "romaji": "sain",
+    "english": "sign",
+    "indonesian": "tanda"
+  },
+  {
+    "japanese": "システム",
+    "romaji": "shisutemu",
+    "english": "system",
+    "indonesian": "sistem"
+  },
+  {
+    "japanese": "タブレット",
+    "romaji": "taburetto",
+    "english": "tablet",
+    "indonesian": "tablet"
+  },
+  {
+    "japanese": "チーズ",
+    "romaji": "chīzu",
+    "english": "cheese",
+    "indonesian": "keju"
+  },
+  {
+    "japanese": "テーブル",
+    "romaji": "teeburu",
+    "english": "table",
+    "indonesian": "meja"
+  },
+  {
+    "japanese": "ピザ",
+    "romaji": "piza",
+    "english": "pizza",
+    "indonesian": "pizza"
+  },
+  {
+    "japanese": "レジ",
+    "romaji": "reji",
+    "english": "cash register",
+    "indonesian": "kasir"
+  },
+  {
+    "japanese": "一つ",
+    "romaji": "hitotsu",
+    "english": "one",
+    "indonesian": "satu"
+  },
+  {
+    "japanese": "一つの手を出します",
+    "romaji": "hitotsu no te o dashimasu",
+    "english": "I will lend a hand",
+    "indonesian": "Saya akan memberikan bantuan"
+  },
+  {
+    "japanese": "一人",
+    "romaji": "hitori",
+    "english": "one person",
+    "indonesian": "satu orang"
+  },
+  {
+    "japanese": "丁寧",
+    "romaji": "teinei",
+    "english": "polite",
+    "indonesian": "sopan"
+  },
+  {
+    "japanese": "中",
+    "romaji": "naka",
+    "english": "middle, inside",
+    "indonesian": "di dalam"
+  },
+  {
+    "japanese": "中古",
+    "romaji": "chūko",
+    "english": "secondhand",
+    "indonesian": "bekas"
+  },
+  {
+    "japanese": "人",
+    "romaji": "hito",
+    "english": "person",
+    "indonesian": "orang"
+  },
+  {
+    "japanese": "人と",
+    "romaji": "hito to",
+    "english": "and people",
+    "indonesian": "dan orang"
+  },
+  {
+    "japanese": "今",
+    "romaji": "ima",
+    "english": "now",
+    "indonesian": "sekarang"
+  },
+  {
+    "japanese": "今は",
+    "romaji": "ima wa",
+    "english": "as for now",
+    "indonesian": "sekarang"
+  },
+  {
+    "japanese": "今日は",
+    "romaji": "kyou wa",
+    "english": "Today (is)",
+    "indonesian": "Hari ini (adalah)"
+  },
+  {
+    "japanese": "仕事",
+    "romaji": "shigoto",
+    "english": "work",
+    "indonesian": "pekerjaan"
+  },
+  {
+    "japanese": "他の",
+    "romaji": "hoka no",
+    "english": "other",
+    "indonesian": "lain"
+  },
+  {
+    "japanese": "以上",
+    "romaji": "ijou",
+    "english": "above; more than; that is all",
+    "indonesian": "lebih dari; semua itu"
+  },
+  {
+    "japanese": "仲良くなりましょう",
+    "romaji": "nakayoku narimashou",
+    "english": "Let's get along",
+    "indonesian": "Mari akur"
+  },
+  {
+    "japanese": "仲間",
+    "romaji": "nakama",
+    "english": "companion / associate",
+    "indonesian": "rekannya"
+  },
+  {
+    "japanese": "会社",
+    "romaji": "kaisha",
+    "english": "company",
+    "indonesian": "perusahaan"
+  },
+  {
+    "japanese": "会社の",
+    "romaji": "kaisha no",
+    "english": "company's",
+    "indonesian": "perusahaan"
+  },
+  {
+    "japanese": "会社員",
+    "romaji": "kaishain",
+    "english": "company employee",
+    "indonesian": "karyawan"
+  },
+  {
+    "japanese": "伝票",
+    "romaji": "denpyou",
+    "english": "invoice",
+    "indonesian": "faktur"
+  },
+  {
+    "japanese": "伝票が",
+    "romaji": "denpyou ga",
+    "english": "slip (receipt)",
+    "indonesian": "bukti (struk)"
+  },
+  {
+    "japanese": "何",
+    "romaji": "nani",
+    "english": "what",
+    "indonesian": "apa"
+  },
+  {
+    "japanese": "何か",
+    "romaji": "nanika",
+    "english": "something",
+    "indonesian": "sesuatu"
+  },
+  {
+    "japanese": "何について",
+    "romaji": "nani ni tsuite",
+    "english": "about what",
+    "indonesian": "tentang apa"
+  },
+  {
+    "japanese": "使います",
+    "romaji": "tsukaimasu",
+    "english": "to use",
+    "indonesian": "menggunakan"
+  },
+  {
+    "japanese": "使う",
+    "romaji": "tsukau",
+    "english": "to use",
+    "indonesian": "menggunakan"
+  },
+  {
+    "japanese": "使えない",
+    "romaji": "tsukaenai",
+    "english": "useless",
+    "indonesian": "tidak berguna"
+  },
+  {
+    "japanese": "僕",
+    "romaji": "boku",
+    "english": "I (used by males)",
+    "indonesian": "saya (digunakan oleh laki-laki)"
+  },
+  {
+    "japanese": "僕は",
+    "romaji": "boku wa",
+    "english": "I (used by males)",
+    "indonesian": "saya (digunakan oleh laki-laki)"
+  },
+  {
+    "japanese": "僕は息子がいます",
+    "romaji": "Boku wa musuko ga imasu",
+    "english": "I have a son",
+    "indonesian": "Saya memiliki seorang anak laki-laki"
+  },
+  {
+    "japanese": "僕は沖縄に行ったことがあります",
+    "romaji": "Boku wa Okinawa ni itta koto ga arimasu",
+    "english": "I have been to Okinawa",
+    "indonesian": "Saya telah pergi ke Okinawa"
+  },
+  {
+    "japanese": "僕も",
+    "romaji": "boku mo",
+    "english": "me too",
+    "indonesian": "saya juga"
+  },
+  {
+    "japanese": "僕もまた行きたいです",
+    "romaji": "Boku mo mata ikitai desu",
+    "english": "I also want to go again",
+    "indonesian": "Saya juga ingin pergi lagi"
+  },
+  {
+    "japanese": "全然",
+    "romaji": "zenzen",
+    "english": "not at all",
+    "indonesian": "sama sekali"
+  },
+  {
+    "japanese": "写真",
+    "romaji": "shashin",
+    "english": "photo",
+    "indonesian": "foto"
+  },
+  {
+    "japanese": "冬",
+    "romaji": "fuyu",
+    "english": "winter",
+    "indonesian": "musim dingin"
+  },
+  {
+    "japanese": "冬はあんまり寒くないと思います",
+    "romaji": "Fuyu wa anmari samukunai to omoimasu",
+    "english": "I don't think winter is very cold",
+    "indonesian": "Saya tidak pikir musim dingin sangat dingin"
+  },
+  {
+    "japanese": "分かりました",
+    "romaji": "wakarimashita",
+    "english": "I understand",
+    "indonesian": "Saya mengerti"
+  },
+  {
+    "japanese": "分かります",
+    "romaji": "wakarimasu",
+    "english": "to understand",
+    "indonesian": "mengerti"
+  },
+  {
+    "japanese": "切",
+    "romaji": "ki",
+    "english": "cut",
+    "indonesian": "potong"
+  },
+  {
+    "japanese": "半分",
+    "romaji": "hanbun",
+    "english": "half",
+    "indonesian": "setengah"
+  },
+  {
+    "japanese": "友達",
+    "romaji": "tomodachi",
+    "english": "friend",
+    "indonesian": "teman"
+  },
+  {
+    "japanese": "取引",
+    "romaji": "torihiki",
+    "english": "transaction",
+    "indonesian": "transaksi"
+  },
+  {
+    "japanese": "右手",
+    "romaji": "migi te",
+    "english": "right hand",
+    "indonesian": "tangan kanan"
+  },
+  {
+    "japanese": "四",
+    "romaji": "shi",
+    "english": "four",
+    "indonesian": "empat"
+  },
+  {
+    "japanese": "回",
+    "romaji": "kai",
+    "english": "time (occurrence)",
+    "indonesian": "kali"
+  },
+  {
+    "japanese": "回ぐらいかな",
+    "romaji": "kai gurai kana",
+    "english": "about (number of) times",
+    "indonesian": "sekitar (jumlah) kali"
+  },
+  {
+    "japanese": "回して",
+    "romaji": "mawasete",
+    "english": "to turn",
+    "indonesian": "memutar"
+  },
+  {
+    "japanese": "変",
+    "romaji": "hen",
+    "english": "strange",
+    "indonesian": "aneh"
+  },
+  {
+    "japanese": "夏",
+    "romaji": "natsu",
+    "english": "summer",
+    "indonesian": "musim panas"
+  },
+  {
+    "japanese": "夏はちょっと暑いです",
+    "romaji": "unknown",
+    "english": "unknown",
+    "indonesian": "unknown"
+  },
+  {
+    "japanese": "外",
+    "romaji": "soto",
+    "english": "outside",
+    "indonesian": "luar"
+  },
+  {
+    "japanese": "外で",
+    "romaji": "soto de",
+    "english": "outside",
+    "indonesian": "di luar"
+  },
+  {
+    "japanese": "多い",
+    "romaji": "oo i",
+    "english": "many; numerous",
+    "indonesian": "banyak"
+  },
+  {
+    "japanese": "大きい",
+    "romaji": "ookii",
+    "english": "big",
+    "indonesian": "besar"
+  },
+  {
+    "japanese": "好き",
+    "romaji": "suki",
+    "english": "like",
+    "indonesian": "suka"
+  },
+  {
+    "japanese": "妻",
+    "romaji": "tsuma",
+    "english": "wife",
+    "indonesian": "istri"
+  },
+  {
+    "japanese": "妻と人で行きました",
+    "romaji": "tsuma to hito de ikimashita",
+    "english": "I went with my wife and another person",
+    "indonesian": "Saya pergi dengan istri saya dan orang lain"
+  },
+  {
+    "japanese": "宿題",
+    "romaji": "shukudai",
+    "english": "homework",
+    "indonesian": "PR (pekerjaan rumah)"
+  },
+  {
+    "japanese": "対策",
+    "romaji": "taisaku",
+    "english": "countermeasure",
+    "indonesian": "langkah pemecahan"
+  },
+  {
+    "japanese": "届いたら",
+    "romaji": "todoitara",
+    "english": "if (it) arrives",
+    "indonesian": "jika (itu) tiba"
+  },
+  {
+    "japanese": "左手",
+    "romaji": "hidarite",
+    "english": "left hand",
+    "indonesian": "tangan kiri"
+  },
+  {
+    "japanese": "店員さん",
+    "romaji": "ten'in-san",
+    "english": "store clerk",
+    "indonesian": "pegawai toko"
+  },
+  {
+    "japanese": "役に",
+    "romaji": "yaku ni",
+    "english": "useful; helpful",
+    "indonesian": "berguna; membantu"
+  },
+  {
+    "japanese": "待って",
+    "romaji": "matte",
+    "english": "wait",
+    "indonesian": "tunggu"
+  },
+  {
+    "japanese": "後",
+    "romaji": "ato",
+    "english": "after",
+    "indonesian": "setelah"
+  },
+  {
+    "japanese": "慣れ",
+    "romaji": "nare",
+    "english": "familiarity",
+    "indonesian": "kebiasaan"
+  },
+  {
+    "japanese": "手を使います",
+    "romaji": "te o tsukaimasu",
+    "english": "to use hands",
+    "indonesian": "menggunakan tangan"
+  },
+  {
+    "japanese": "手を握ります",
+    "romaji": "te o nigi rimasu",
+    "english": "to hold hands",
+    "indonesian": "menggenggam tangan"
+  },
+  {
+    "japanese": "払います",
+    "romaji": "haraimasu",
+    "english": "to pay",
+    "indonesian": "membayar"
+  },
+  {
+    "japanese": "払いますか",
+    "romaji": "haraimasu ka",
+    "english": "Will you pay?",
+    "indonesian": "Apakah Anda akan membayar?"
+  },
+  {
+    "japanese": "持っていきます",
+    "romaji": "motte ikimasu",
+    "english": "to take (something)",
+    "indonesian": "mengambil (sesuatu)"
+  },
+  {
+    "japanese": "挨拶",
+    "romaji": "aisatsu",
+    "english": "greeting",
+    "indonesian": "salam"
+  },
+  {
+    "japanese": "握手",
+    "romaji": "akushu",
+    "english": "handshake",
+    "indonesian": "jabat tangan"
+  },
+  {
+    "japanese": "握手する人",
+    "romaji": "akushu suru hito",
+    "english": "person who shakes hands",
+    "indonesian": "orang yang berjabat tangan"
+  },
+  {
+    "japanese": "文化",
+    "romaji": "bunka",
+    "english": "culture",
+    "indonesian": "budaya"
+  },
+  {
+    "japanese": "文化が違います",
+    "romaji": "bunka ga chigaimasu",
+    "english": "The culture is different",
+    "indonesian": "Budaya berbeda"
+  },
+  {
+    "japanese": "方法",
+    "romaji": "hōhō",
+    "english": "method",
+    "indonesian": "metode"
+  },
+  {
+    "japanese": "旅行",
+    "romaji": "ryokō",
+    "english": "travel",
+    "indonesian": "perjalanan"
+  },
+  {
+    "japanese": "日本",
+    "romaji": "Nihon",
+    "english": "Japan",
+    "indonesian": "Jepang"
+  },
+  {
+    "japanese": "日本で",
+    "romaji": "Nihon de",
+    "english": "in Japan",
+    "indonesian": "di Jepang"
+  },
+  {
+    "japanese": "日本の",
+    "romaji": "Nihon no",
+    "english": "of Japan",
+    "indonesian": "dari Jepang"
+  },
+  {
+    "japanese": "日本のお店",
+    "romaji": "Nihon no mise",
+    "english": "Japanese store",
+    "indonesian": "toko Jepang"
+  },
+  {
+    "japanese": "日本の寿司屋",
+    "romaji": "Nihon no sushiya",
+    "english": "Japanese sushi restaurant",
+    "indonesian": "restoran sushi Jepang"
+  },
+  {
+    "japanese": "日本の田舎",
+    "romaji": "Nihon no inaka",
+    "english": "Japanese countryside",
+    "indonesian": "pedesaan Jepang"
+  },
+  {
+    "japanese": "日本人",
+    "romaji": "Nihonjin",
+    "english": "Japanese person",
+    "indonesian": "orang Jepang"
+  },
+  {
+    "japanese": "日本人は",
+    "romaji": "Nihonjin wa",
+    "english": "Japanese people",
+    "indonesian": "Orang Jepang"
+  },
+  {
+    "japanese": "日本語",
+    "romaji": "nihongo",
+    "english": "Japanese (language)",
+    "indonesian": "bahasa Jepang"
+  },
+  {
+    "japanese": "時",
+    "romaji": "toki",
+    "english": "time",
+    "indonesian": "waktu"
+  },
+  {
+    "japanese": "時に",
+    "romaji": "toki ni",
+    "english": "at times",
+    "indonesian": "kadang-kadang"
+  },
+  {
+    "japanese": "時間",
+    "romaji": "jikan",
+    "english": "time",
+    "indonesian": "waktu"
+  },
+  {
+    "japanese": "普通",
+    "romaji": "futsū",
+    "english": "normal",
+    "indonesian": "biasa"
+  },
+  {
+    "japanese": "書きます",
+    "romaji": "kakimasu",
+    "english": "to write",
+    "indonesian": "menulis"
+  },
+  {
+    "japanese": "最初",
+    "romaji": "saisho",
+    "english": "first; beginning",
+    "indonesian": "pertama; awal"
+  },
+  {
+    "japanese": "最近",
+    "romaji": "saikin",
+    "english": "recently",
+    "indonesian": "baru-baru ini"
+  },
+  {
+    "japanese": "月",
+    "romaji": "tsuki",
+    "english": "moon",
+    "indonesian": "bulan"
+  },
+  {
+    "japanese": "未来",
+    "romaji": "mirai",
+    "english": "future",
+    "indonesian": "masa depan"
+  },
+  {
+    "japanese": "来た",
+    "romaji": "kita",
+    "english": "came",
+    "indonesian": "datang"
+  },
+  {
+    "japanese": "来たら",
+    "romaji": "kitara",
+    "english": "when (someone) comes",
+    "indonesian": "ketika (seseorang) datang"
+  },
+  {
+    "japanese": "来る",
+    "romaji": "kuru",
+    "english": "to come",
+    "indonesian": "datang"
+  },
+  {
+    "japanese": "楽しい",
+    "romaji": "tanoshii",
+    "english": "fun",
+    "indonesian": "menyenangkan"
+  },
+  {
+    "japanese": "楽しく",
+    "romaji": "tanoshiku",
+    "english": "happily",
+    "indonesian": "dengan bahagia"
+  },
+  {
+    "japanese": "機会",
+    "romaji": "kikai",
+    "english": "opportunity",
+    "indonesian": "kesempatan"
+  },
+  {
+    "japanese": "次",
+    "romaji": "ji",
+    "english": "next",
+    "indonesian": "selanjutnya"
+  },
+  {
+    "japanese": "次のカード",
+    "romaji": "tsugi no kaado",
+    "english": "next card",
+    "indonesian": "kartu berikutnya"
+  },
+  {
+    "japanese": "次のカードいきましょう",
+    "romaji": "tsugi no kādo ikimashou",
+    "english": "Let's move on to the next card",
+    "indonesian": "Mari kita lanjut ke kartu berikutnya"
+  },
+  {
+    "japanese": "次のカードはこれです",
+    "romaji": "tsugi no kaado wa kore desu",
+    "english": "The next card is this one",
+    "indonesian": "Kartu selanjutnya adalah ini"
+  },
+  {
+    "japanese": "正解",
+    "romaji": "seikai",
+    "english": "correct answer",
+    "indonesian": "jawaban benar"
+  },
+  {
+    "japanese": "正解いきます",
+    "romaji": "seikai ikimasu",
+    "english": "I will go with the correct answer",
+    "indonesian": "Saya akan pergi dengan jawaban yang benar"
+  },
+  {
+    "japanese": "決まる",
+    "romaji": "kimaru",
+    "english": "to be decided",
+    "indonesian": "ditentukan"
+  },
+  {
+    "japanese": "海",
+    "romaji": "umi",
+    "english": "sea",
+    "indonesian": "laut"
+  },
+  {
+    "japanese": "海がきれい",
+    "romaji": "umi ga kirei",
+    "english": "The sea is beautiful",
+    "indonesian": "Lautnya indah"
+  },
+  {
+    "japanese": "海がめっちゃきれいです",
+    "romaji": "Umi ga meccha kirei desu",
+    "english": "The sea is very beautiful",
+    "indonesian": "Lautnya sangat indah"
+  },
+  {
+    "japanese": "海でたくさん写真を撮ってください",
+    "romaji": "Umi de takusan shashin o totte kudasai",
+    "english": "Please take a lot of photos at the sea",
+    "indonesian": "Tolong ambil banyak foto di laut"
+  },
+  {
+    "japanese": "海外",
+    "romaji": "kaigai",
+    "english": "overseas",
+    "indonesian": "luar negeri"
+  },
+  {
+    "japanese": "焼き",
+    "romaji": "yaki",
+    "english": "grilling/baking",
+    "indonesian": "panggang"
+  },
+  {
+    "japanese": "物",
+    "romaji": "mono",
+    "english": "thing",
+    "indonesian": "barang"
+  },
+  {
+    "japanese": "特に",
+    "romaji": "toku ni",
+    "english": "especially",
+    "indonesian": "terutama"
+  },
+  {
+    "japanese": "特別",
+    "romaji": "tokubetsu",
+    "english": "special",
+    "indonesian": "khusus"
+  },
+  {
+    "japanese": "現金",
+    "romaji": "genkin",
+    "english": "cash",
+    "indonesian": "uang tunai"
+  },
+  {
+    "japanese": "現金しか",
+    "romaji": "genkin shika",
+    "english": "only cash",
+    "indonesian": "hanya tunai"
+  },
+  {
+    "japanese": "現金で",
+    "romaji": "genkin de",
+    "english": "in cash",
+    "indonesian": "dalam tunai"
+  },
+  {
+    "japanese": "現金でも",
+    "romaji": "genkin demo",
+    "english": "even in cash",
+    "indonesian": "bahkan dengan uang tunai"
+  },
+  {
+    "japanese": "皆",
+    "romaji": "minna",
+    "english": "everyone",
+    "indonesian": "semua"
+  },
+  {
+    "japanese": "皆さん",
+    "romaji": "minasan",
+    "english": "everyone",
+    "indonesian": "semua orang"
+  },
+  {
+    "japanese": "皆さんが",
+    "romaji": "minasan ga",
+    "english": "everyone",
+    "indonesian": "semua orang"
+  },
+  {
+    "japanese": "皆さんは",
+    "romaji": "minasan wa",
+    "english": "everyone",
+    "indonesian": "semua orang"
+  },
+  {
+    "japanese": "皆さんはどうですか",
+    "romaji": "Minasan wa dō desu ka",
+    "english": "How are you all?",
+    "indonesian": "Bagaimana kabar kalian semua?"
+  },
+  {
+    "japanese": "皆さんはよく旅行で行きます",
+    "romaji": "Minasan wa yoku ryokou de ikimasu",
+    "english": "Everyone often goes on trips",
+    "indonesian": "Semua orang sering pergi berlibur"
+  },
+  {
+    "japanese": "皆さんも",
+    "romaji": "minasan mo",
+    "english": "everyone too",
+    "indonesian": "semua orang juga"
+  },
+  {
+    "japanese": "皆さんもよく散歩しますか",
+    "romaji": "Minasan mo yoku sanpo shimasu ka",
+    "english": "Do you all often take walks?",
+    "indonesian": "Apakah kalian semua sering berjalan-jalan?"
+  },
+  {
+    "japanese": "目",
+    "romaji": "me",
+    "english": "eye",
+    "indonesian": "mata"
+  },
+  {
+    "japanese": "真実",
+    "romaji": "shinjitsu",
+    "english": "truth",
+    "indonesian": "kebenaran"
+  },
+  {
+    "japanese": "社",
+    "romaji": "sha",
+    "english": "company",
+    "indonesian": "perusahaan"
+  },
+  {
+    "japanese": "精算",
+    "romaji": "seisan",
+    "english": "settlement; adjustment",
+    "indonesian": "penyelesaian; penyesuaian"
+  },
+  {
+    "japanese": "紙",
+    "romaji": "kami",
+    "english": "paper",
+    "indonesian": "kertas"
+  },
+  {
+    "japanese": "細かい",
+    "romaji": "komakai",
+    "english": "fine, detailed",
+    "indonesian": "halus, rinci"
+  },
+  {
+    "japanese": "結果",
+    "romaji": "kekka",
+    "english": "result",
+    "indonesian": "hasil"
+  },
+  {
+    "japanese": "聞かせて",
+    "romaji": "kikasete",
+    "english": "let me hear (it)",
+    "indonesian": "biarkan saya mendengarnya"
+  },
+  {
+    "japanese": "肉",
+    "romaji": "niku",
+    "english": "meat",
+    "indonesian": "daging"
+  },
+  {
+    "japanese": "良い",
+    "romaji": "yoi",
+    "english": "good",
+    "indonesian": "baik"
+  },
+  {
+    "japanese": "若い",
+    "romaji": "wakai",
+    "english": "young",
+    "indonesian": "muda"
+  },
+  {
+    "japanese": "行ったこと",
+    "romaji": "itta koto",
+    "english": "having been",
+    "indonesian": "pernah pergi"
+  },
+  {
+    "japanese": "行って",
+    "romaji": "itte",
+    "english": "go",
+    "indonesian": "pergi"
+  },
+  {
+    "japanese": "見せて",
+    "romaji": "misete",
+    "english": "show (me)",
+    "indonesian": "tunjukkan"
+  },
+  {
+    "japanese": "見る",
+    "romaji": "miru",
+    "english": "to see",
+    "indonesian": "melihat"
+  },
+  {
+    "japanese": "言う",
+    "romaji": "iu",
+    "english": "to say",
+    "indonesian": "mengatakan"
+  },
+  {
+    "japanese": "言葉",
+    "romaji": "kotoba",
+    "english": "word",
+    "indonesian": "kata"
+  },
+  {
+    "japanese": "話",
+    "romaji": "hanashi",
+    "english": "talk; story",
+    "indonesian": "cerita; pembicaraan"
+  },
+  {
+    "japanese": "話しています",
+    "romaji": "hanashiteimasu",
+    "english": "is talking",
+    "indonesian": "sedang berbicara"
+  },
+  {
+    "japanese": "話してください",
+    "romaji": "hanashitokudasa",
+    "english": "Please speak",
+    "indonesian": "Tolong bicaralah"
+  },
+  {
+    "japanese": "話し合い",
+    "romaji": "hanashiai",
+    "english": "discussion",
+    "indonesian": "diskusi"
+  },
+  {
+    "japanese": "説明",
+    "romaji": "setsumei",
+    "english": "explanation",
+    "indonesian": "penjelasan"
+  },
+  {
+    "japanese": "趣味",
+    "romaji": "shumi",
+    "english": "hobby",
+    "indonesian": "hobi"
+  },
+  {
+    "japanese": "途中",
+    "romaji": "tochuu",
+    "english": "on the way",
+    "indonesian": "dalam perjalanan"
+  },
+  {
+    "japanese": "連絡",
+    "romaji": "renraku",
+    "english": "contact",
+    "indonesian": "kontak"
+  },
+  {
+    "japanese": "過去",
+    "romaji": "kako",
+    "english": "past",
+    "indonesian": "masa lalu"
+  },
+  {
+    "japanese": "道",
+    "romaji": "michi",
+    "english": "road",
+    "indonesian": "jalan"
+  },
+  {
+    "japanese": "違います",
+    "romaji": "chigaimasu",
+    "english": "to be different",
+    "indonesian": "berbeda"
+  },
+  {
+    "japanese": "違いますね",
+    "romaji": "chigaimasune",
+    "english": "That is not correct",
+    "indonesian": "Itu tidak benar"
+  },
+  {
+    "japanese": "間",
+    "romaji": "ma",
+    "english": "space; interval; between",
+    "indonesian": "ruang; interval; antara"
+  },
+  {
+    "japanese": "面倒",
+    "romaji": "mendou",
+    "english": "trouble; fuss",
+    "indonesian": "masalah; kesulitan"
+  },
+  {
+    "japanese": "音楽",
+    "romaji": "ongaku",
+    "english": "music",
+    "indonesian": "musik"
+  },
+  {
+    "japanese": "音楽が",
+    "romaji": "ongaku ga",
+    "english": "music (subject marker)",
+    "indonesian": "musik (penanda subjek)"
+  },
+  {
+    "japanese": "音楽を",
+    "romaji": "ongaku o",
+    "english": "music",
+    "indonesian": "musik"
+  },
+  {
+    "japanese": "風景",
+    "romaji": "fuukei",
+    "english": "scenery",
+    "indonesian": "pemandangan"
+  },
+  {
+    "japanese": "食べ",
+    "romaji": "tabe",
+    "english": "eat",
+    "indonesian": "makan"
+  },
+  {
+    "japanese": "食べたら",
+    "romaji": "tabetara",
+    "english": "if (you) eat",
+    "indonesian": "jika (kamu) makan"
+  },
+  {
+    "japanese": "食べ物",
+    "romaji": "tabemono",
+    "english": "food",
+    "indonesian": "makanan"
+  },
+  {
+    "japanese": "高くない",
+    "romaji": "takakunai",
+    "english": "not high",
+    "indonesian": "tidak tinggi"
+  }
+]

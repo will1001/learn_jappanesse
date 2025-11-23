@@ -1,0 +1,92 @@
+[
+  {
+    "japanese": "こんにちは",
+    "romaji": "konnichiwa",
+    "english": "hello",
+    "indonesian": "halo"
+  },
+  {
+    "japanese": "みなさん",
+    "romaji": "minasan",
+    "english": "everyone",
+    "indonesian": "semua orang"
+  },
+  {
+    "japanese": "日本語",
+    "romaji": "nihongo",
+    "english": "Japanese language",
+    "indonesian": "bahasa Jepang"
+  },
+  {
+    "japanese": "ピザ",
+    "romaji": "piza",
+    "english": "pizza",
+    "indonesian": "pizza"
+  },
+  {
+    "japanese": "散歩",
+    "romaji": "sanpo",
+    "english": "walk",
+    "indonesian": "jalan kaki"
+  },
+  {
+    "japanese": "沖縄",
+    "romaji": "okinawa",
+    "english": "Okinawa",
+    "indonesian": "Okinawa"
+  },
+  {
+    "japanese": "握手",
+    "romaji": "akushu",
+    "english": "handshake",
+    "indonesian": "jabat tangan"
+  },
+  {
+    "japanese": "お会計",
+    "romaji": "o-kaikei",
+    "english": "bill",
+    "indonesian": "tagihan"
+  },
+  {
+    "japanese": "カード",
+    "romaji": "kaado",
+    "english": "card",
+    "indonesian": "kartu"
+  },
+  {
+    "japanese": "食べ物",
+    "romaji": "tabemono",
+    "english": "food",
+    "indonesian": "makanan"
+  },
+  {
+    "japanese": "美味しい",
+    "romaji": "oishii",
+    "english": "delicious",
+    "indonesian": "enak"
+  },
+  {
+    "japanese": "楽しい",
+    "romaji": "tanoshii",
+    "english": "fun",
+    "indonesian": "menyenangkan"
+  },
+  {
+    "japanese": "外",
+    "romaji": "soto",
+    "english": "outside",
+    "indonesian": "luar"
+  },
+  {
+    "japanese": "音楽",
+    "romaji": "ongaku",
+    "english": "music",
+    "indonesian": "musik"
+  },
+  {
+    "japanese": "趣味",
+    "romaji": "shumi",
+    "english": "hobby",
+    "indonesian": "hobi"
+  }
+]

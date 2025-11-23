@@ -1,0 +1,3302 @@
+[
+  {
+    "japanese": "あい",
+    "kanji": "愛",
+    "romaji": "ai",
+    "indonesian": "cinta"
+  },
+  {
+    "japanese": "あいさつ",
+    "kanji": "挨拶",
+    "romaji": "aisatsu",
+    "indonesian": "salam,sapaan"
+  },
+  {
+    "japanese": "あいじょう",
+    "kanji": "愛情",
+    "romaji": "aijou",
+    "indonesian": "cinta, kasih sayang"
+  },
+  {
+    "japanese": "あいず",
+    "kanji": "合図",
+    "romaji": "aizu",
+    "indonesian": "tanda, sinyal"
+  },
+  {
+    "japanese": "アイスクリーム",
+    "kanji": "",
+    "romaji": "aisukuriimu",
+    "indonesian": "es krim"
+  },
+  {
+    "japanese": "あいする",
+    "kanji": "愛する",
+    "romaji": "aisuru",
+    "indonesian": "mencintai"
+  },
+  {
+    "japanese": "あいて",
+    "kanji": "相手",
+    "romaji": "aite",
+    "indonesian": "teman, pasangan, rekan"
+  },
+  {
+    "japanese": "あいにく",
+    "kanji": "",
+    "romaji": "ainiku",
+    "indonesian": "sayangnya, maaf, tetapi..."
+  },
+  {
+    "japanese": "アイロン",
+    "kanji": "",
+    "romaji": "airon",
+    "indonesian": "(setrika) listrik"
+  },
+  {
+    "japanese": "アウト",
+    "kanji": "",
+    "romaji": "auto",
+    "indonesian": "keluar"
+  },
+  {
+    "japanese": "あかり",
+    "kanji": "明かり",
+    "romaji": "akari",
+    "indonesian": "cahaya lampu,cahaya (secara umum),kecerahan"
+  },
+  {
+    "japanese": "あき",
+    "kanji": "空き",
+    "romaji": "aki",
+    "indonesian": "ruang, waktu luang, kekosongan"
+  },
+  {
+    "japanese": "あきらか",
+    "kanji": "明らか",
+    "romaji": "akiraka",
+    "indonesian": "jelas, nyata, terang"
+  },
+  {
+    "japanese": "あきらめる",
+    "kanji": "諦める",
+    "romaji": "akirameru",
+    "indonesian": "menyerah, meninggalkan"
+  },
+  {
+    "japanese": "あきる",
+    "kanji": "飽きる",
+    "romaji": "akiru",
+    "indonesian": "bosan,kehilangan minat,punya cukup"
+  },
+  {
+    "japanese": "あくしゅ",
+    "kanji": "握手",
+    "romaji": "akushu",
+    "indonesian": "jabat tangan"
+  },
+  {
+    "japanese": "あっ",
+    "kanji": "",
+    "romaji": "Ah!, Oh!",
+    "indonesian": "Ah!,Oh!"
+  },
+  {
+    "japanese": "あら",
+    "kanji": "粗",
+    "romaji": "ara",
+    "indonesian": "cacat,kekurangan,noda,titik lemah"
+  },
+  {
+    "japanese": "あらし",
+    "kanji": "嵐",
+    "romaji": "arashi",
+    "indonesian": "badai, topan"
+  },
+  {
+    "japanese": "あらた",
+    "kanji": "新た",
+    "romaji": "arata",
+    "indonesian": "baru, segar, novel"
+  },
+  {
+    "japanese": "あらゆる",
+    "kanji": "",
+    "romaji": "arayuru",
+    "indonesian": "semua, setiap"
+  },
+  {
+    "japanese": "あらわす",
+    "kanji": "表す",
+    "romaji": "arawasu",
+    "indonesian": "mengekspresikan, menunjukkan, mengungkapkan"
+  },
+  {
+    "japanese": "あらわす",
+    "kanji": "現す",
+    "romaji": "arawasu",
+    "indonesian": "menunjukkan,menandakan,memperlihatkan"
+  },
+  {
+    "japanese": "あらわれ",
+    "kanji": "現れ",
+    "romaji": "araware",
+    "indonesian": "perwujudan, materialisasi"
+  },
+  {
+    "japanese": "あらわれる",
+    "kanji": "現れる",
+    "romaji": "arawareru",
+    "indonesian": "(1) muncul,menampakkan diri,menjadi terlihat,(2) mengekspresikan diri"
+  },
+  {
+    "japanese": "ありがとう",
+    "kanji": "",
+    "romaji": "arigatou",
+    "indonesian": "terima kasih"
+  },
+  {
+    "japanese": "ある",
+    "kanji": "有る",
+    "romaji": "aru",
+    "indonesian": "ada, memiliki"
+  },
+  {
+    "japanese": "ある",
+    "kanji": "或",
+    "romaji": "aru",
+    "indonesian": "sebuah tertentu...,beberapa..."
+  },
+  {
+    "japanese": "あるいは",
+    "kanji": "",
+    "romaji": "aruiwa",
+    "indonesian": "atau,kemungkinan"
+  },
+  {
+    "japanese": "アルバム",
+    "kanji": "",
+    "romaji": "arubamu",
+    "indonesian": "album"
+  },
+  {
+    "japanese": "あわ",
+    "kanji": "泡",
+    "romaji": "awa",
+    "indonesian": "gelembung,busa,krim,bagian atas bir"
+  },
+  {
+    "japanese": "あわせる",
+    "kanji": "合わせる",
+    "romaji": "awaseru",
+    "indonesian": "bergabung,menghadap,menghadapi,menyatukan"
+  },
+  {
+    "japanese": "あわれ",
+    "kanji": "哀れ",
+    "romaji": "aware",
+    "indonesian": "tak berdaya,kasihan,duka,cita"
+  },
+  {
+    "japanese": "あん",
+    "kanji": "案",
+    "romaji": "an",
+    "indonesian": "rencana,akhiran yang berarti draf"
+  },
+  {
+    "japanese": "あんき",
+    "kanji": "暗記",
+    "romaji": "anki",
+    "indonesian": "penghafalan,pelajaran dengan hati"
+  },
+  {
+    "japanese": "あんてい",
+    "kanji": "安定",
+    "romaji": "antei",
+    "indonesian": "stabilitas, keseimbangan"
+  },
+  {
+    "japanese": "あんない",
+    "kanji": "案内",
+    "romaji": "annai",
+    "indonesian": "informasi,panduan,pemimpin"
+  },
+  {
+    "japanese": "うばう",
+    "kanji": "奪う",
+    "romaji": "ubau",
+    "indonesian": "merebut, mengambil"
+  },
+  {
+    "japanese": "うま",
+    "kanji": "馬",
+    "romaji": "uma",
+    "indonesian": "(1) kuda,(2) uskup yang dipromosikan (shogi)"
+  },
+  {
+    "japanese": "うまい",
+    "kanji": "うまい",
+    "romaji": "umai",
+    "indonesian": "lezat"
+  },
+  {
+    "japanese": "うまれ",
+    "kanji": "生まれ",
+    "romaji": "umare",
+    "indonesian": "kelahiran, tempat lahir"
+  },
+  {
+    "japanese": "うめ",
+    "kanji": "梅",
+    "romaji": "ume",
+    "indonesian": "plum,pohon plum,terendah (dari sistem peringkat tiga tingkat)"
+  },
+  {
+    "japanese": "うらぎる",
+    "kanji": "裏切る",
+    "romaji": "uragiru",
+    "indonesian": "mengkhianati,membelot,mendua"
+  },
+  {
+    "japanese": "うるさい",
+    "kanji": "",
+    "romaji": "urusai",
+    "indonesian": "berisik,keras,rewel"
+  },
+  {
+    "japanese": "うれしい",
+    "kanji": "嬉しい",
+    "romaji": "ureshii",
+    "indonesian": "bahagia,senang,menyenangkan"
+  },
+  {
+    "japanese": "うれる",
+    "kanji": "売れる",
+    "romaji": "ureru",
+    "indonesian": "terjual"
+  },
+  {
+    "japanese": "うわさ",
+    "kanji": "噂",
+    "romaji": "uwasa",
+    "indonesian": "kabar,laporan,gosip,obrolan umum"
+  },
+  {
+    "japanese": "うん",
+    "kanji": "うん (感)",
+    "romaji": "un",
+    "indonesian": "nasib, keberuntungan"
+  },
+  {
+    "japanese": "うん",
+    "kanji": "運",
+    "romaji": "un",
+    "indonesian": "nasib, keberuntungan"
+  },
+  {
+    "japanese": "うんてん",
+    "kanji": "運転",
+    "romaji": "unten",
+    "indonesian": "operasi,gerakan,mengemudi"
+  },
+  {
+    "japanese": "うんどう",
+    "kanji": "運動",
+    "romaji": "undou",
+    "indonesian": "gerakan, olahraga"
+  },
+  {
+    "japanese": "え",
+    "kanji": "柄",
+    "romaji": "e",
+    "indonesian": "pegangan,genggaman"
+  },
+  {
+    "japanese": "えいえん",
+    "kanji": "永遠",
+    "romaji": "eien",
+    "indonesian": "keabadian,kekekalan,kekal,kepastian"
+  },
+  {
+    "japanese": "えいきゅう",
+    "kanji": "永久",
+    "romaji": "eikyuu",
+    "indonesian": "keabadian,kekekalan,kekal"
+  },
+  {
+    "japanese": "えいきょう",
+    "kanji": "影響",
+    "romaji": "eikyou",
+    "indonesian": "pengaruh, efek"
+  },
+  {
+    "japanese": "えいぎょう",
+    "kanji": "営業",
+    "romaji": "eigyou",
+    "indonesian": "bisnis, perdagangan, manajemen"
+  },
+  {
+    "japanese": "えいせい",
+    "kanji": "衛星",
+    "romaji": "eisei",
+    "indonesian": "satelit"
+  },
+  {
+    "japanese": "かげん",
+    "kanji": "加減",
+    "romaji": "kagen",
+    "indonesian": "penambahan dan pengurangan,alokasi untuk"
+  },
+  {
+    "japanese": "かこ",
+    "kanji": "過去",
+    "romaji": "kako",
+    "indonesian": "masa lalu,hari-hari yang telah berlalu,yang sebelumnya"
+  },
+  {
+    "japanese": "かご",
+    "kanji": "籠",
+    "romaji": "kago",
+    "indonesian": "keranjang, sangkar"
+  },
+  {
+    "japanese": "かこむ",
+    "kanji": "囲む",
+    "romaji": "kakomu",
+    "indonesian": "mengelilingi, mengepung"
+  },
+  {
+    "japanese": "かさい",
+    "kanji": "火災",
+    "romaji": "kasai",
+    "indonesian": "kebakaran,api"
+  },
+  {
+    "japanese": "かし",
+    "kanji": "貸し",
+    "romaji": "kashi",
+    "indonesian": "pinjaman, meminjamkan"
+  },
+  {
+    "japanese": "かし",
+    "kanji": "菓子",
+    "romaji": "kashi",
+    "indonesian": "kue"
+  },
+  {
+    "japanese": "かじ",
+    "kanji": "家事",
+    "romaji": "kajI",
+    "indonesian": "pekerjaan rumah, tugas domestik"
+  },
+  {
+    "japanese": "かしこい",
+    "kanji": "賢い",
+    "romaji": "kashikoi",
+    "indonesian": "bijaksana, cerdas, pintar"
+  },
+  {
+    "japanese": "かしゅ",
+    "kanji": "歌手",
+    "romaji": "kashu",
+    "indonesian": "penyanyi"
+  },
+  {
+    "japanese": "かず",
+    "kanji": "数",
+    "romaji": "kazu",
+    "indonesian": "angka, bilangan"
+  },
+  {
+    "japanese": "かせぐ",
+    "kanji": "稼ぐ",
+    "romaji": "kasegu",
+    "indonesian": "menghasilkan pendapatan, bekerja"
+  },
+  {
+    "japanese": "かぞえる",
+    "kanji": "数える",
+    "romaji": "kazoeru",
+    "indonesian": "menghitung"
+  },
+  {
+    "japanese": "かた",
+    "kanji": "型",
+    "romaji": "kata",
+    "indonesian": "cetakan, model, gaya, bentuk, tipe data"
+  },
+  {
+    "japanese": "かた",
+    "kanji": "肩",
+    "romaji": "kata",
+    "indonesian": "bahu"
+  },
+  {
+    "japanese": "かたい",
+    "kanji": "硬い",
+    "romaji": "katai",
+    "indonesian": "padat, keras (terutama logam, batu), tulisan yang belum dipoles"
+  },
+  {
+    "japanese": "かたがた",
+    "kanji": "方々",
+    "romaji": "katakata",
+    "indonesian": "orang-orang, ini dan itu, di sini dan di sana, di mana-mana"
+  },
+  {
+    "japanese": "かたな",
+    "kanji": "刀",
+    "romaji": "katan",
+    "indonesian": "pedang, sabre, pisau, alat ukir"
+  },
+  {
+    "japanese": "かたる",
+    "kanji": "語る",
+    "romaji": "kataru",
+    "indonesian": "berbicara, menceritakan, mengisahkan"
+  },
+  {
+    "japanese": "かち",
+    "kanji": "勝ち",
+    "romaji": "kachi",
+    "indonesian": "menang, kemenangan"
+  },
+  {
+    "japanese": "かみのけ",
+    "kanji": "髪の毛",
+    "romaji": "kaminoke",
+    "indonesian": "rambut (kepala)"
+  },
+  {
+    "japanese": "かもく",
+    "kanji": "科目",
+    "romaji": "kamoku",
+    "indonesian": "mata pelajaran (sekolah), kurikulum, kursus"
+  },
+  {
+    "japanese": "かもしれない",
+    "kanji": "",
+    "romaji": "kamoshirenai",
+    "indonesian": "mungkin, bisa jadi, mungkin saja"
+  },
+  {
+    "japanese": "かよう",
+    "kanji": "火曜",
+    "romaji": "kayou",
+    "indonesian": "(singkatan) Selasa"
+  },
+  {
+    "japanese": "から",
+    "kanji": "空",
+    "romaji": "kara",
+    "indonesian": "langit"
+  },
+  {
+    "japanese": "がら",
+    "kanji": "柄",
+    "romaji": "gara",
+    "indonesian": "gagang (pedang), pegangan (belati), pegangan tangan"
+  },
+  {
+    "japanese": "かる",
+    "kanji": "刈る",
+    "romaji": "karu",
+    "indonesian": "memotong (rambut), memotong (rumput), memanen"
+  },
+  {
+    "japanese": "かれら",
+    "kanji": "彼等",
+    "romaji": "karera",
+    "indonesian": "mereka (biasanya laki-laki)"
+  },
+  {
+    "japanese": "かわ",
+    "kanji": "川",
+    "romaji": "kawa",
+    "indonesian": "sungai"
+  },
+  {
+    "japanese": "かわ",
+    "kanji": "河",
+    "romaji": "kawa",
+    "indonesian": "sungai, aliran"
+  },
+  {
+    "japanese": "かわ",
+    "kanji": "皮",
+    "romaji": "kawa",
+    "indonesian": "kulit, kulit, kulit, bulu, kulit kayu, cangkang"
+  },
+  {
+    "japanese": "かわ",
+    "kanji": "革",
+    "romaji": "kawa",
+    "indonesian": "kulit"
+  },
+  {
+    "japanese": "かわいそう",
+    "kanji": "",
+    "romaji": "kawaisou",
+    "indonesian": "miskin, menyedihkan, patetik"
+  },
+  {
+    "japanese": "かわいらしい",
+    "kanji": "",
+    "romaji": "kawairashii",
+    "indonesian": "menawan, manis"
+  },
+  {
+    "japanese": "かん",
+    "kanji": "缶",
+    "romaji": "kan",
+    "indonesian": "kaleng, timah"
+  },
+  {
+    "japanese": "かん",
+    "kanji": "勘",
+    "romaji": "kan",
+    "indonesian": "persepsi, intuisi, indera keenam"
+  },
+  {
+    "japanese": "かんがえ",
+    "kanji": "考え",
+    "romaji": "kangae",
+    "indonesian": "pemikiran,pikiran,ide,niat"
+  },
+  {
+    "japanese": "かんかく",
+    "kanji": "感覚",
+    "romaji": "kankaku",
+    "indonesian": "indera, sensasi"
+  },
+  {
+    "japanese": "かんきゃく",
+    "kanji": "観客",
+    "romaji": "kankyaku",
+    "indonesian": "audiens, penonton"
+  },
+  {
+    "japanese": "かんきょう",
+    "kanji": "環境",
+    "romaji": "kankyou",
+    "indonesian": "lingkungan, keadaan"
+  },
+  {
+    "japanese": "ぐっすり",
+    "kanji": "",
+    "romaji": "gussuri",
+    "indonesian": "tidur nyenyak, tidur lelap"
+  },
+  {
+    "japanese": "くべつ",
+    "kanji": "区別",
+    "romaji": "kubetsu",
+    "indonesian": "perbedaan, diferensiasi, klasifikasi"
+  },
+  {
+    "japanese": "くみ",
+    "kanji": "組",
+    "romaji": "kumi",
+    "indonesian": "kelas, kelompok, tim, set"
+  },
+  {
+    "japanese": "くみあい",
+    "kanji": "組合",
+    "romaji": "kumiai",
+    "indonesian": "asosiasi,serikat"
+  },
+  {
+    "japanese": "くむ",
+    "kanji": "組む",
+    "romaji": "kumu",
+    "indonesian": "menggabungkan"
+  },
+  {
+    "japanese": "くもり",
+    "kanji": "曇",
+    "romaji": "kumori",
+    "indonesian": "keburaman,cuaca mendung,bayangan"
+  },
+  {
+    "japanese": "くらい",
+    "kanji": "位",
+    "romaji": "kurai",
+    "indonesian": "tingkat,pangkat,sekitar"
+  },
+  {
+    "japanese": "くらし",
+    "kanji": "暮らし",
+    "romaji": "kurashi",
+    "indonesian": "kehidupan,nafkah,subsistensi,kondisi"
+  },
+  {
+    "japanese": "クラシック",
+    "kanji": "",
+    "romaji": "kurashikku",
+    "indonesian": "klasik"
+  },
+  {
+    "japanese": "くらす",
+    "kanji": "暮らす",
+    "romaji": "kurasu",
+    "indonesian": "hidup,bergaul"
+  },
+  {
+    "japanese": "グラス",
+    "kanji": "",
+    "romaji": "gurasu",
+    "indonesian": "gelas,rumput"
+  },
+  {
+    "japanese": "グランド",
+    "kanji": "",
+    "romaji": "gurando",
+    "indonesian": "kelenjar,megah,ground (listrik)"
+  },
+  {
+    "japanese": "クリーム",
+    "kanji": "",
+    "romaji": "kurīmu",
+    "indonesian": "krim"
+  },
+  {
+    "japanese": "くりかえす",
+    "kanji": "繰り返す",
+    "romaji": "kurikaesu",
+    "indonesian": "mengulang,mengerjakan sesuatu lagi"
+  },
+  {
+    "japanese": "クリスマス",
+    "kanji": "",
+    "romaji": "kurisumasu",
+    "indonesian": "Natal"
+  },
+  {
+    "japanese": "くるう",
+    "kanji": "狂う",
+    "romaji": "kuruu",
+    "indonesian": "menjadi gila,keluar dari urutan"
+  },
+  {
+    "japanese": "グループ",
+    "kanji": "",
+    "romaji": "gurūpu",
+    "indonesian": "grup"
+  },
+  {
+    "japanese": "くるしい",
+    "kanji": "苦しい",
+    "romaji": "kurushii",
+    "indonesian": "menyakitkan,sulit"
+  },
+  {
+    "japanese": "くるしむ",
+    "kanji": "苦しむ",
+    "romaji": "kurushimu",
+    "indonesian": "menderita,merintih,khawatir"
+  },
+  {
+    "japanese": "くれ",
+    "kanji": "暮れ",
+    "romaji": "kure",
+    "indonesian": "akhir tahun,sunset,sore,hujan"
+  },
+  {
+    "japanese": "くろう",
+    "kanji": "苦労",
+    "romaji": "kurou",
+    "indonesian": "masalah,penderitaan"
+  },
+  {
+    "japanese": "くわえる",
+    "kanji": "加える",
+    "romaji": "kuwaeru",
+    "indonesian": "menambahkan,menggabungkan,menghitung (tambahan)"
+  },
+  {
+    "japanese": "くわしい",
+    "kanji": "詳しい",
+    "romaji": "kuwashii",
+    "indonesian": "mengetahui dengan sangat baik,detail,penuh,akurat"
+  },
+  {
+    "japanese": "くわわる",
+    "kanji": "加わる",
+    "romaji": "kuwawaru",
+    "indonesian": "bergabung,menyetujui,meningkat,menambah (pengaruh)"
+  },
+  {
+    "japanese": "くん",
+    "kanji": "訓",
+    "romaji": "kun",
+    "indonesian": "bacaan asli Jepang dari karakter Cina"
+  },
+  {
+    "japanese": "ぐん",
+    "kanji": "軍",
+    "romaji": "gun",
+    "indonesian": "tentara,kuat,angkatan bersenjata"
+  },
+  {
+    "japanese": "ぐんたい",
+    "kanji": "軍隊",
+    "romaji": "guntai",
+    "indonesian": "tentara,angkatan bersenjata"
+  },
+  {
+    "japanese": "くんれん",
+    "kanji": "訓練",
+    "romaji": "kunren",
+    "indonesian": "latihan,pelatihan"
+  },
+  {
+    "japanese": "げ",
+    "kanji": "下",
+    "romaji": "ge",
+    "indonesian": "di bawah,di bawah,di bawah"
+  },
+  {
+    "japanese": "けい",
+    "kanji": "計",
+    "romaji": "kei",
+    "indonesian": "rencana"
+  },
+  {
+    "japanese": "けいい",
+    "kanji": "敬意",
+    "romaji": "keii",
+    "indonesian": "penghormatan,hormat"
+  },
+  {
+    "japanese": "けいえい",
+    "kanji": "経営",
+    "romaji": "keiei",
+    "indonesian": "manajemen,administrasi"
+  },
+  {
+    "japanese": "けいかく",
+    "kanji": "計画",
+    "romaji": "keikaku",
+    "indonesian": "rencana,proyek,jadwal,skema,program"
+  },
+  {
+    "japanese": "けいき",
+    "kanji": "景気",
+    "romaji": "keiki",
+    "indonesian": "kondisi,keadaan,keadaan bisnis"
+  },
+  {
+    "japanese": "けいけん",
+    "kanji": "経験",
+    "romaji": "keiken",
+    "indonesian": "pengalaman"
+  },
+  {
+    "japanese": "けいこう",
+    "kanji": "傾向",
+    "romaji": "keikou",
+    "indonesian": "kecenderungan,trendi,kemauan"
+  },
+  {
+    "japanese": "けいこく",
+    "kanji": "警告",
+    "romaji": "keikoku",
+    "indonesian": "peringatan,nasihat"
+  },
+  {
+    "japanese": "けいさん",
+    "kanji": "計算",
+    "romaji": "keisan",
+    "indonesian": "perhitungan,rekayasa"
+  },
+  {
+    "japanese": "けいじ",
+    "kanji": "掲示",
+    "romaji": "keiji",
+    "indonesian": "pengumuman,bulettin"
+  },
+  {
+    "japanese": "けいじ",
+    "kanji": "刑事",
+    "romaji": "keiji",
+    "indonesian": "kasus kriminal,didik (polisi)"
+  },
+  {
+    "japanese": "こうこく",
+    "kanji": "広告",
+    "romaji": "koukoku",
+    "indonesian": "iklan"
+  },
+  {
+    "japanese": "こうさい",
+    "kanji": "交際",
+    "romaji": "kousai",
+    "indonesian": "pertemanan,asosiasi,society,kenalan"
+  },
+  {
+    "japanese": "こうしゃ",
+    "kanji": "後者",
+    "romaji": "kousha",
+    "indonesian": "yang terakhir"
+  },
+  {
+    "japanese": "こうせい",
+    "kanji": "構成",
+    "romaji": "kousei",
+    "indonesian": "organisasi,komposisi"
+  },
+  {
+    "japanese": "こうそく",
+    "kanji": "高速",
+    "romaji": "kousoku",
+    "indonesian": "kecepatan tinggi,gigi tinggi"
+  },
+  {
+    "japanese": "こうどう",
+    "kanji": "行動",
+    "romaji": "koudou",
+    "indonesian": "tindakan,perilaku,perilaku,mobilisasi"
+  },
+  {
+    "japanese": "ごうとう",
+    "kanji": "強盗",
+    "romaji": "goutou",
+    "indonesian": "perampokan,pencurian"
+  },
+  {
+    "japanese": "こうば",
+    "kanji": "工場",
+    "romaji": "kouba",
+    "indonesian": "pabrik,plant,gergaji,workshop"
+  },
+  {
+    "japanese": "こうふく",
+    "kanji": "幸福",
+    "romaji": "koufuku",
+    "indonesian": "kebahagiaan,kebahagiaan"
+  },
+  {
+    "japanese": "こうへい",
+    "kanji": "公平",
+    "romaji": "kouhei",
+    "indonesian": "keadilan,imparsial,keadilan"
+  },
+  {
+    "japanese": "こうほ",
+    "kanji": "候補",
+    "romaji": "kouho",
+    "indonesian": "kandidasi"
+  },
+  {
+    "japanese": "こうりょ",
+    "kanji": "考慮",
+    "romaji": "kouryo",
+    "indonesian": "pertimbangan,mengambil dalam akun"
+  },
+  {
+    "japanese": "こえる",
+    "kanji": "越える",
+    "romaji": "koeru",
+    "indonesian": "melebihi,menghentikan,menghentikan"
+  },
+  {
+    "japanese": "コーチ",
+    "kanji": "",
+    "romaji": "kōchi",
+    "indonesian": "pelatih"
+  },
+  {
+    "japanese": "コード",
+    "kanji": "",
+    "romaji": "kōdo,kōdo,kōdo",
+    "indonesian": "kode, tali, akor"
+  },
+  {
+    "japanese": "こおり",
+    "kanji": "氷",
+    "romaji": "kōri",
+    "indonesian": "es, hujan es"
+  },
+  {
+    "japanese": "こおる",
+    "kanji": "凍る",
+    "romaji": "kōru",
+    "indonesian": "membeku, dibekukan, mengental"
+  },
+  {
+    "japanese": "ゴール",
+    "kanji": "",
+    "romaji": "gōru",
+    "indonesian": "tujuan"
+  },
+  {
+    "japanese": "ごかい",
+    "kanji": "誤解",
+    "romaji": "gokai",
+    "indonesian": "kesalahpahaman"
+  },
+  {
+    "japanese": "ごがく",
+    "kanji": "語学",
+    "romaji": "gogaku",
+    "indonesian": "studi bahasa"
+  },
+  {
+    "japanese": "さかり",
+    "kanji": "盛り",
+    "romaji": "sakari",
+    "indonesian": "porsi, sajian"
+  },
+  {
+    "japanese": "さぎょう",
+    "kanji": "作業",
+    "romaji": "sagyō",
+    "indonesian": "pekerjaan, operasi, manufaktur, tugas lelah"
+  },
+  {
+    "japanese": "さく",
+    "kanji": "昨",
+    "romaji": "saku",
+    "indonesian": "terakhir (tahun), kemarin"
+  },
+  {
+    "japanese": "さくひん",
+    "kanji": "作品",
+    "romaji": "sakuhin",
+    "indonesian": "karya, opus, pertunjukan, produksi"
+  },
+  {
+    "japanese": "さくもつ",
+    "kanji": "作物",
+    "romaji": "sakumotsu",
+    "indonesian": "hasil pertanian,hasil panen"
+  },
+  {
+    "japanese": "さくら",
+    "kanji": "桜",
+    "romaji": "sakura",
+    "indonesian": "bunga sakura, pohon sakura"
+  },
+  {
+    "japanese": "さけ",
+    "kanji": "酒",
+    "romaji": "sake",
+    "indonesian": "alkohol, sake"
+  },
+  {
+    "japanese": "さけぶ",
+    "kanji": "叫ぶ",
+    "romaji": "sakebu",
+    "indonesian": "berteriak, menangis"
+  },
+  {
+    "japanese": "さける",
+    "kanji": "避ける",
+    "romaji": "sakeru",
+    "indonesian": "menghindari,(1) menghindari (kontak fisik),(2) menangkis,mengalihkan"
+  },
+  {
+    "japanese": "ささえる",
+    "kanji": "支える",
+    "romaji": "sasaeru",
+    "indonesian": "terhalang, tercekik, terhambat"
+  },
+  {
+    "japanese": "さす",
+    "kanji": "指す",
+    "romaji": "sasu",
+    "indonesian": "menunjuk, mengangkat payung, bermain"
+  },
+  {
+    "japanese": "ざせき",
+    "kanji": "座席",
+    "romaji": "zaseki",
+    "indonesian": "kursi"
+  },
+  {
+    "japanese": "さそう",
+    "kanji": "誘う",
+    "romaji": "sasou",
+    "indonesian": "mengundang,meminta,(2) menggoda,membujuk,mendorong"
+  },
+  {
+    "japanese": "さつ",
+    "kanji": "札",
+    "romaji": "satsu",
+    "indonesian": "(1) token,stiker,(2) tiket,(3) jimat"
+  },
+  {
+    "japanese": "さっか",
+    "kanji": "作家",
+    "romaji": "sakka",
+    "indonesian": "pengarang, penulis, novelis, seniman"
+  },
+  {
+    "japanese": "さっきょく",
+    "kanji": "作曲",
+    "romaji": "sakkyoku",
+    "indonesian": "komposisi, pengaturan (musik)"
+  },
+  {
+    "japanese": "ざっと",
+    "kanji": "",
+    "romaji": "zatto",
+    "indonesian": "kasar, dalam angka bulat"
+  },
+  {
+    "japanese": "さっぱり",
+    "kanji": "",
+    "romaji": "sappari",
+    "indonesian": "merasa segar, merasa lega, rapi, terawat"
+  },
+  {
+    "japanese": "さて",
+    "kanji": "",
+    "romaji": "sate",
+    "indonesian": "baiklah, sekarang, maka"
+  },
+  {
+    "japanese": "さばく",
+    "kanji": "砂漠",
+    "romaji": "sabaku",
+    "indonesian": "gurun"
+  },
+  {
+    "japanese": "じしん",
+    "kanji": "自身",
+    "romaji": "jishin",
+    "indonesian": "diri sendiri, secara pribadi"
+  },
+  {
+    "japanese": "しずむ",
+    "kanji": "沈む",
+    "romaji": "shizumu",
+    "indonesian": "menenggelamkan, merasa tertekan"
+  },
+  {
+    "japanese": "しぜん",
+    "kanji": "自然",
+    "romaji": "shizen",
+    "indonesian": "alam, spontan"
+  },
+  {
+    "japanese": "しそう",
+    "kanji": "思想",
+    "romaji": "shisō",
+    "indonesian": "pemikiran, ide"
+  },
+  {
+    "japanese": "した",
+    "kanji": "舌",
+    "romaji": "shita",
+    "indonesian": "lidah"
+  },
+  {
+    "japanese": "しだい",
+    "kanji": "次第",
+    "romaji": "shidai",
+    "indonesian": "(1) urutan,precedence,(2) keadaan,(3) segera"
+  },
+  {
+    "japanese": "じたい",
+    "kanji": "事態",
+    "romaji": "jitai",
+    "indonesian": "situasi, keadaan saat ini"
+  },
+  {
+    "japanese": "したがう",
+    "kanji": "従う",
+    "romaji": "shitagau",
+    "indonesian": "mematuhi (aturan), taat, mengikuti, menemani"
+  },
+  {
+    "japanese": "したがって",
+    "kanji": "",
+    "romaji": "shitagatte",
+    "indonesian": "oleh karena itu, akibatnya, sesuai dengan"
+  },
+  {
+    "japanese": "したく",
+    "kanji": "支度",
+    "romaji": "shitaku",
+    "indonesian": "persiapan"
+  },
+  {
+    "japanese": "したしい",
+    "kanji": "親しい",
+    "romaji": "shitashii",
+    "indonesian": "akrab, dekat (misalnya teman)"
+  },
+  {
+    "japanese": "しち",
+    "kanji": "七",
+    "romaji": "shichi",
+    "indonesian": "tujuh"
+  },
+  {
+    "japanese": "しつ",
+    "kanji": "質",
+    "romaji": "shitsu",
+    "indonesian": "kualitas, sifat (orang)"
+  },
+  {
+    "japanese": "しつぎょう",
+    "kanji": "失業",
+    "romaji": "shitsugyō",
+    "indonesian": "pengangguran"
+  },
+  {
+    "japanese": "じっけん",
+    "kanji": "実験",
+    "romaji": "jikken",
+    "indonesian": "eksperimen"
+  },
+  {
+    "japanese": "じつげん",
+    "kanji": "実現",
+    "romaji": "jitsugen",
+    "indonesian": "implementasi, materialisasi, realisasi"
+  },
+  {
+    "japanese": "じっこう",
+    "kanji": "実行",
+    "romaji": "jikkō",
+    "indonesian": "praktik, pelaksanaan, eksekusi (misalnya program), realisasi"
+  },
+  {
+    "japanese": "じっさい",
+    "kanji": "実際",
+    "romaji": "jissai",
+    "indonesian": "praktis, kondisi aktual, status quo"
+  },
+  {
+    "japanese": "じっし",
+    "kanji": "実施",
+    "romaji": "jisshi",
+    "indonesian": "penegakan,membuat undang-undang,menerapkan,mengimplementasikan,operasi"
+  },
+  {
+    "japanese": "じまん",
+    "kanji": "自慢",
+    "romaji": "jiman",
+    "indonesian": "kebanggaan, membanggakan"
+  },
+  {
+    "japanese": "じむ",
+    "kanji": "事務",
+    "romaji": "jimu",
+    "indonesian": "bisnis, pekerjaan kantor"
+  },
+  {
+    "japanese": "しめす",
+    "kanji": "示す",
+    "romaji": "shimesu",
+    "indonesian": "menunjukkan, menunjukkan, menunjukkan, mengindikasikan"
+  },
+  {
+    "japanese": "しめる",
+    "kanji": "占める",
+    "romaji": "shimeru",
+    "indonesian": "(1) mencakup,memperhitungkan,membentuk (dari),(2) memegang,menghuni"
+  },
+  {
+    "japanese": "しも",
+    "kanji": "下",
+    "romaji": "shimo",
+    "indonesian": "di bawah,di bawah,di bawah"
+  },
+  {
+    "japanese": "しも",
+    "kanji": "霜",
+    "romaji": "shimo",
+    "indonesian": "embun beku"
+  },
+  {
+    "japanese": "じゃあ",
+    "kanji": "",
+    "romaji": "jaa",
+    "indonesian": "baiklah,baiklah kalau begitu"
+  },
+  {
+    "japanese": "しゃっきん",
+    "kanji": "借金",
+    "romaji": "shakkin",
+    "indonesian": "utang,pinjaman,kewajiban"
+  },
+  {
+    "japanese": "しゃべる",
+    "kanji": "",
+    "romaji": "shaberu",
+    "indonesian": "berbicara,bercakap,cerewet"
+  },
+  {
+    "japanese": "じゃま",
+    "kanji": "邪魔",
+    "romaji": "jama",
+    "indonesian": "hambatan,gangguan"
+  },
+  {
+    "japanese": "しゅう",
+    "kanji": "週",
+    "romaji": "shuu",
+    "indonesian": "minggu"
+  },
+  {
+    "japanese": "しゅう",
+    "kanji": "州",
+    "romaji": "shuu",
+    "indonesian": "pulau pasir"
+  },
+  {
+    "japanese": "じゅう",
+    "kanji": "十",
+    "romaji": "juu",
+    "indonesian": "10,sepuluh"
+  },
+  {
+    "japanese": "じゅう",
+    "kanji": "銃",
+    "romaji": "juu",
+    "indonesian": "senjata api"
+  },
+  {
+    "japanese": "しゅうい",
+    "kanji": "周囲",
+    "romaji": "shuu-i",
+    "indonesian": "lingkungan,keliling,daerah sekitar"
+  },
+  {
+    "japanese": "しゅうかく",
+    "kanji": "収穫",
+    "romaji": "shuu-kaku",
+    "indonesian": "panen,hasil pertanian,pengumpulan"
+  },
+  {
+    "japanese": "しゅうかん",
+    "kanji": "週間",
+    "romaji": "shuu-kan",
+    "indonesian": "minggu,mingguan"
+  },
+  {
+    "japanese": "しゅうきょう",
+    "kanji": "宗教",
+    "romaji": "shuu-kyou",
+    "indonesian": "agama"
+  },
+  {
+    "japanese": "じゅうし",
+    "kanji": "重視",
+    "romaji": "juushi",
+    "indonesian": "pentingnya,penekanan,pertimbangan serius"
+  },
+  {
+    "japanese": "しゅうしょく",
+    "kanji": "就職",
+    "romaji": "shuu-shoku",
+    "indonesian": "mencari pekerjaan,pelantikan"
+  },
+  {
+    "japanese": "ジュース",
+    "kanji": "",
+    "romaji": "juusu",
+    "indonesian": "jus,minuman ringan,dua"
+  },
+  {
+    "japanese": "しゅうせい",
+    "kanji": "修正",
+    "romaji": "shuu-sei",
+    "indonesian": "amandemen,koreksi,revisi,modifikasi"
+  },
+  {
+    "japanese": "じゅうたい",
+    "kanji": "渋滞",
+    "romaji": "juutai",
+    "indonesian": "kemacetan (misalnya lalu lintas),penundaan,stagnasi"
+  },
+  {
+    "japanese": "じゅうだい",
+    "kanji": "重大",
+    "romaji": "juudai",
+    "indonesian": "serius,penting,berat,berat"
+  },
+  {
+    "japanese": "じゅうたく",
+    "kanji": "住宅",
+    "romaji": "juutaku",
+    "indonesian": "penduduk,perumahan"
+  },
+  {
+    "japanese": "しゅうだん",
+    "kanji": "集団",
+    "romaji": "shuu-dan",
+    "indonesian": "kelompok,massa"
+  },
+  {
+    "japanese": "しゅうちゅう",
+    "kanji": "集中",
+    "romaji": "shuu-chuu",
+    "indonesian": "konsentrasi,fokus pikiran"
+  },
+  {
+    "japanese": "しゅうにゅう",
+    "kanji": "収入",
+    "romaji": "shuu-nyuu",
+    "indonesian": "pendapatan,pemasukan,revenue"
+  },
+  {
+    "japanese": "じゅうみん",
+    "kanji": "住民",
+    "romaji": "juumin",
+    "indonesian": "warga negara,penghuni,pemukim,populasi"
+  },
+  {
+    "japanese": "じゅうよう",
+    "kanji": "重要",
+    "romaji": "juuyou",
+    "indonesian": "penting,penting,esensial,utama,besar"
+  },
+  {
+    "japanese": "しゅうり",
+    "kanji": "修理",
+    "romaji": "shuu-ri",
+    "indonesian": "perbaikan,perbaikan"
+  },
+  {
+    "japanese": "しゅぎ",
+    "kanji": "主義",
+    "romaji": "shugi",
+    "indonesian": "doktrin,aturan,prinsip"
+  },
+  {
+    "japanese": "しゅくはく",
+    "kanji": "宿泊",
+    "romaji": "shuku-haku",
+    "indonesian": "penginapan"
+  },
+  {
+    "japanese": "しゅじゅつ",
+    "kanji": "手術",
+    "romaji": "shuu-jutsu",
+    "indonesian": "operasi bedah"
+  },
+  {
+    "japanese": "しゅしょう",
+    "kanji": "首相",
+    "romaji": "shuu-shou",
+    "indonesian": "Perdana Menteri"
+  },
+  {
+    "japanese": "しゅだん",
+    "kanji": "手段",
+    "romaji": "shuu-dan",
+    "indonesian": "cara,jalan,ukuran"
+  },
+  {
+    "japanese": "しゅちょう",
+    "kanji": "主張",
+    "romaji": "shuu-chou",
+    "indonesian": "klaim,permintaan,penekanan,pernyataan"
+  },
+  {
+    "japanese": "しゅっしん",
+    "kanji": "出身",
+    "romaji": "shuu-sshin",
+    "indonesian": "lulus dari,berasal dari"
+  },
+  {
+    "japanese": "しゅっせき",
+    "kanji": "出席",
+    "romaji": "shuu-sseki",
+    "indonesian": "kehadiran,keberadaan"
+  },
+  {
+    "japanese": "しゅっぱつ",
+    "kanji": "出発",
+    "romaji": "shuu-patsu",
+    "indonesian": "keberangkatan"
+  },
+  {
+    "japanese": "じょうきょう",
+    "kanji": "状況",
+    "romaji": "jou-kyou",
+    "indonesian": "keadaan, situasi, keadaan, kondisi"
+  },
+  {
+    "japanese": "じょうけん",
+    "kanji": "条件",
+    "romaji": "jou-ken",
+    "indonesian": "syarat,kondisi"
+  },
+  {
+    "japanese": "しょうご",
+    "kanji": "正午",
+    "romaji": "shou-go",
+    "indonesian": "siang, tengah hari"
+  },
+  {
+    "japanese": "しょうじき",
+    "kanji": "正直",
+    "romaji": "shou-jiki",
+    "indonesian": "kejujuran,integritas,keterusterangan"
+  },
+  {
+    "japanese": "じょうしき",
+    "kanji": "常識",
+    "romaji": "jou-shiki",
+    "indonesian": "akal sehat"
+  },
+  {
+    "japanese": "しょうじょ",
+    "kanji": "少女",
+    "romaji": "shou-jyo",
+    "indonesian": "putri,wanita muda,perawan,maiden,gadis kecil"
+  },
+  {
+    "japanese": "しょうしょう",
+    "kanji": "少々",
+    "romaji": "shou-shou",
+    "indonesian": "sebentar,kuantitas kecil"
+  },
+  {
+    "japanese": "しょうじょう",
+    "kanji": "症状",
+    "romaji": "shou-jou",
+    "indonesian": "gejala,kondisi"
+  },
+  {
+    "japanese": "しょうじる",
+    "kanji": "生じる",
+    "romaji": "shou-jiru",
+    "indonesian": "menghasilkan,memberikan,berasal dari,muncul,dihasilkan"
+  },
+  {
+    "japanese": "しょうたい",
+    "kanji": "招待",
+    "romaji": "shou-tai",
+    "indonesian": "undangan"
+  },
+  {
+    "japanese": "じょうたい",
+    "kanji": "状態",
+    "romaji": "jou-tai",
+    "indonesian": "kondisi,situasi,keadaan,status"
+  },
+  {
+    "japanese": "じょうたつ",
+    "kanji": "上達",
+    "romaji": "jou-tatsu",
+    "indonesian": "perbaikan,kemajuan,kemajuan"
+  },
+  {
+    "japanese": "じょうだん",
+    "kanji": "冗談",
+    "romaji": "jou-dan",
+    "indonesian": "lelucon,guyonan"
+  },
+  {
+    "japanese": "しょうち",
+    "kanji": "承知",
+    "romaji": "shou-chi",
+    "indonesian": "persetujuan,penerimaan,kesepakatan,mengakui"
+  },
+  {
+    "japanese": "じょうとう",
+    "kanji": "上等",
+    "romaji": "joutou",
+    "indonesian": "superioritas,kualitas pertama,sangat baik"
+  },
+  {
+    "japanese": "しょうとつ",
+    "kanji": "衝突",
+    "romaji": "shoutotsu",
+    "indonesian": "tabrakan,konflik"
+  },
+  {
+    "japanese": "しょうにん",
+    "kanji": "商人",
+    "romaji": "shounin",
+    "indonesian": "pedagang,toko,merchant"
+  },
+  {
+    "japanese": "しょうにん",
+    "kanji": "承認",
+    "romaji": "shounin",
+    "indonesian": "pengakuan,pengesahan,persetujuan,konsen,perjanjian"
+  },
+  {
+    "japanese": "しょうねん",
+    "kanji": "少年",
+    "romaji": "shounen",
+    "indonesian": "anak laki-laki,remaja"
+  },
+  {
+    "japanese": "スイッチ",
+    "kanji": "",
+    "romaji": "suicchi",
+    "indonesian": "saklar"
+  },
+  {
+    "japanese": "ずいぶん",
+    "kanji": "随分",
+    "romaji": "zuibun",
+    "indonesian": "sangat"
+  },
+  {
+    "japanese": "すいみん",
+    "kanji": "睡眠",
+    "romaji": "suimin",
+    "indonesian": "tidur"
+  },
+  {
+    "japanese": "すう",
+    "kanji": "数",
+    "romaji": "suu",
+    "indonesian": "angka,figura"
+  },
+  {
+    "japanese": "すうじ",
+    "kanji": "数字",
+    "romaji": "suuji",
+    "indonesian": "numeral,figura"
+  },
+  {
+    "japanese": "スープ",
+    "kanji": "",
+    "romaji": "suupu",
+    "indonesian": "(sup) sup"
+  },
+  {
+    "japanese": "すえ",
+    "kanji": "末",
+    "romaji": "sue",
+    "indonesian": "ujung,powder"
+  },
+  {
+    "japanese": "すがた",
+    "kanji": "姿",
+    "romaji": "sugata",
+    "indonesian": "figura,bentuk,penampilan"
+  },
+  {
+    "japanese": "スキー",
+    "kanji": "",
+    "romaji": "sukii",
+    "indonesian": "ski"
+  },
+  {
+    "japanese": "すく",
+    "kanji": "空く",
+    "romaji": "suku",
+    "indonesian": "(1) terbuka,membuat kosong,(2) menjadi kurang ramai"
+  },
+  {
+    "japanese": "すくう",
+    "kanji": "救う",
+    "romaji": "sukuu",
+    "indonesian": "menyelamatkan,dari,membantu keluar dari"
+  },
+  {
+    "japanese": "すぐれる",
+    "kanji": "優れる",
+    "romaji": "sugureru",
+    "indonesian": "melampaui,mengungguli,unggul"
+  },
+  {
+    "japanese": "スケート",
+    "kanji": "",
+    "romaji": "susumeru",
+    "indonesian": "skate,ski"
+  },
+  {
+    "japanese": "すごい",
+    "kanji": "",
+    "romaji": "susumeru",
+    "indonesian": "mengerikan,mengerikan,hebat,menakjubkan,besar"
+  },
+  {
+    "japanese": "すこしも",
+    "kanji": "少しも",
+    "romaji": "sukoshimo",
+    "indonesian": "apa pun dari,tidak sedikit pun"
+  },
+  {
+    "japanese": "すごす",
+    "kanji": "過ごす",
+    "romaji": "sutairu",
+    "indonesian": "menghabiskan,menghabiskan,menghadapi,mengatasi"
+  },
+  {
+    "japanese": "すじ",
+    "kanji": "筋",
+    "romaji": "sutando",
+    "indonesian": "otot,benang,garis"
+  },
+  {
+    "japanese": "すすめる",
+    "kanji": "進める",
+    "romaji": "susumeru",
+    "indonesian": "memajukan,mempromosikan,mempercepat"
+  },
+  {
+    "japanese": "すすめる",
+    "kanji": "勧める",
+    "romaji": "susumeru",
+    "indonesian": "merekomendasikan,membimbing,mendorong,membuat tawaran (anggur)"
+  },
+  {
+    "japanese": "スター",
+    "kanji": "",
+    "romaji": "suteki",
+    "indonesian": "bintang"
+  },
+  {
+    "japanese": "スタイル",
+    "kanji": "",
+    "romaji": "sutairu",
+    "indonesian": "gaya"
+  },
+  {
+    "japanese": "スタンド",
+    "kanji": "",
+    "romaji": "sunawachi",
+    "indonesian": "stand"
+  },
+  {
+    "japanese": "ずつう",
+    "kanji": "頭痛",
+    "romaji": "subarashii",
+    "indonesian": "sakit kepala"
+  },
+  {
+    "japanese": "ずっと",
+    "kanji": "",
+    "romaji": "supīchi",
+    "indonesian": "secara berturut-turut,sepanjang,banyak"
+  },
+  {
+    "japanese": "すてき",
+    "kanji": "",
+    "romaji": "suteki",
+    "indonesian": "indah,impian,indah,besar"
+  },
+  {
+    "japanese": "すでに",
+    "kanji": "既に",
+    "romaji": "sumaseru",
+    "indonesian": "sudah,terlambat"
+  },
+  {
+    "japanese": "すなわち",
+    "kanji": "",
+    "romaji": "sunawachi",
+    "indonesian": "yaitu,yakni,misalnya"
+  },
+  {
+    "japanese": "すばらしい",
+    "kanji": "素晴らしい",
+    "romaji": "subarashii",
+    "indonesian": "ajaib,megah,luar biasa"
+  },
+  {
+    "japanese": "スピーチ",
+    "kanji": "",
+    "romaji": "supīchi",
+    "indonesian": "pidato"
+  },
+  {
+    "japanese": "すべて",
+    "kanji": "全て",
+    "romaji": "subete",
+    "indonesian": "semua,seluruhnya,secara keseluruhan,sepenuhnya"
+  },
+  {
+    "japanese": "すませる",
+    "kanji": "済ませる",
+    "romaji": "sumaseru",
+    "indonesian": "selesai"
+  },
+  {
+    "japanese": "すみ",
+    "kanji": "角",
+    "romaji": "sumi",
+    "indonesian": "sudut"
+  },
+  {
+    "japanese": "すみません",
+    "kanji": "すみません",
+    "romaji": "sumimasen",
+    "indonesian": "maaf,permisi"
+  },
+  {
+    "japanese": "する",
+    "kanji": "為る",
+    "romaji": "suru",
+    "indonesian": "berubah,berguna,mencapai"
+  },
+  {
+    "japanese": "すると",
+    "kanji": "",
+    "romaji": "daibubun",
+    "indonesian": "setelah itu,di sini"
+  },
+  {
+    "japanese": "するどい",
+    "kanji": "鋭い",
+    "romaji": "taipuraitā",
+    "indonesian": "tajam,menusuk"
+  },
+  {
+    "japanese": "せい",
+    "kanji": "背",
+    "romaji": "taihen",
+    "indonesian": "tinggi,postur"
+  },
+  {
+    "japanese": "せい",
+    "kanji": "正",
+    "romaji": "taiho",
+    "indonesian": "benar,(logis) benar,reguler"
+  },
+  {
+    "japanese": "せい",
+    "kanji": "生",
+    "romaji": "daiya",
+    "indonesian": "(1) draft (bir),(2) mentah,tak diproses"
+  },
+  {
+    "japanese": "だいぶぶん",
+    "kanji": "大部分",
+    "romaji": "daibubun",
+    "indonesian": "bagian terbesar,bagian yang lebih besar,mayoritas"
+  },
+  {
+    "japanese": "タイプライター",
+    "kanji": "",
+    "romaji": "taipuraitā",
+    "indonesian": "mesin ketik"
+  },
+  {
+    "japanese": "たいへん",
+    "kanji": "大変",
+    "romaji": "taihen",
+    "indonesian": "mengerikan,mengerikan,sangat"
+  },
+  {
+    "japanese": "たいほ",
+    "kanji": "逮捕",
+    "romaji": "taiho",
+    "indonesian": "penangkapan,penahanan,penangkapan"
+  },
+  {
+    "japanese": "ダイヤ",
+    "kanji": "",
+    "romaji": "daiya",
+    "indonesian": "(1) pewarna,(2) diagram,(3) jadwal (kereta),(4) berlian"
+  },
+  {
+    "japanese": "たいよう",
+    "kanji": "太陽",
+    "romaji": "taiyou",
+    "indonesian": "matahari,sinar matahari"
+  },
+  {
+    "japanese": "たいら",
+    "kanji": "平ら",
+    "romaji": "taira",
+    "indonesian": "datar,tingkat,halus,tenang,dataran"
+  },
+  {
+    "japanese": "だいり",
+    "kanji": "代理",
+    "romaji": "dairi",
+    "indonesian": "perwakilan,agen,proxy,deputi,agen"
+  },
+  {
+    "japanese": "たいりく",
+    "kanji": "大陸",
+    "romaji": "tairiku",
+    "indonesian": "benua"
+  },
+  {
+    "japanese": "たおす",
+    "kanji": "倒す",
+    "romaji": "taosu",
+    "indonesian": "melempar,menang,menjatuhkan,menghancurkan"
+  },
+  {
+    "japanese": "タオル",
+    "kanji": "",
+    "romaji": "taoru",
+    "indonesian": "(hand) handuk"
+  },
+  {
+    "japanese": "だが",
+    "kanji": "だが",
+    "romaji": "daga",
+    "indonesian": "tetapi"
+  },
+  {
+    "japanese": "たがい",
+    "kanji": "互い",
+    "romaji": "tagai",
+    "indonesian": "saling,saling timbal balik"
+  },
+  {
+    "japanese": "たから",
+    "kanji": "宝",
+    "romaji": "takara",
+    "indonesian": "harta karun"
+  },
+  {
+    "japanese": "だから",
+    "kanji": "だから",
+    "romaji": "dakara",
+    "indonesian": "jadi,oleh karena itu"
+  },
+  {
+    "japanese": "たく",
+    "kanji": "宅",
+    "romaji": "taku",
+    "indonesian": "rumah,domisili,suami"
+  },
+  {
+    "japanese": "だけど",
+    "kanji": "",
+    "romaji": "dakedo",
+    "indonesian": "namun"
+  },
+  {
+    "japanese": "たしかめる",
+    "kanji": "確かめる",
+    "romaji": "tashikameru",
+    "indonesian": "memastikan"
+  },
+  {
+    "japanese": "たしょう",
+    "kanji": "多少",
+    "romaji": "tashou",
+    "indonesian": "lebih kurang,sedikit,agak,beberapa"
+  },
+  {
+    "japanese": "たすける",
+    "kanji": "助ける",
+    "romaji": "tasukeru",
+    "indonesian": "membantu,menghemat,menyelamatkan"
+  },
+  {
+    "japanese": "ただ",
+    "kanji": "",
+    "romaji": "tada",
+    "indonesian": "gratis,hanya,murni"
+  },
+  {
+    "japanese": "ただ",
+    "kanji": "唯",
+    "romaji": "tada",
+    "indonesian": "gratis,hanya,satu-satunya,biasa,umum"
+  },
+  {
+    "japanese": "たたかい",
+    "kanji": "戦い",
+    "romaji": "tatakai",
+    "indonesian": "pertempuran,pertarungan,perjuangan,konflik"
+  },
+  {
+    "japanese": "たたかう",
+    "kanji": "戦う",
+    "romaji": "tatakau",
+    "indonesian": "bertarung,bertempur,berlawan"
+  },
+  {
+    "japanese": "たたく",
+    "kanji": "叩く",
+    "romaji": "tataku",
+    "indonesian": "memukul,menghentak,mengibaskan,memukul"
+  },
+  {
+    "japanese": "ただちに",
+    "kanji": "直ちに",
+    "romaji": "tadachini",
+    "indonesian": "segera,langsung,pribadi"
+  },
+  {
+    "japanese": "たちあがる",
+    "kanji": "立ち上がる",
+    "romaji": "tachiagaru",
+    "indonesian": "bangkit"
+  },
+  {
+    "japanese": "たちば",
+    "kanji": "立場",
+    "romaji": "tachiba",
+    "indonesian": "posisi,sudut pandang,situasi"
+  },
+  {
+    "japanese": "たつ",
+    "kanji": "経つ",
+    "romaji": "tatsu",
+    "indonesian": "berlalu,terlewat"
+  },
+  {
+    "japanese": "たっする",
+    "kanji": "達する",
+    "romaji": "tassuru",
+    "indonesian": "mencapai,sampai"
+  },
+  {
+    "japanese": "たった",
+    "kanji": "唯",
+    "romaji": "tatta",
+    "indonesian": "gratis,hanya,satu-satunya,biasa,umum"
+  },
+  {
+    "japanese": "だって",
+    "kanji": "",
+    "romaji": "datte",
+    "indonesian": "tapi,karena,bahkan,juga"
+  },
+  {
+    "japanese": "たっぷり",
+    "kanji": "",
+    "romaji": "tappuri",
+    "indonesian": "penuh,banyak,melimpah"
+  },
+  {
+    "japanese": "たて",
+    "kanji": "縦",
+    "romaji": "tate",
+    "indonesian": "panjang,tinggi"
+  },
+  {
+    "japanese": "たとえ",
+    "kanji": "",
+    "romaji": "tatoe",
+    "indonesian": "perumpamaan,metafora,allegori"
+  },
+  {
+    "japanese": "たに",
+    "kanji": "谷",
+    "romaji": "tani",
+    "indonesian": "lembah"
+  },
+  {
+    "japanese": "たにん",
+    "kanji": "他人",
+    "romaji": "tanin",
+    "indonesian": "orang lain,orang yang tidak terkait,orang luar,asing"
+  },
+  {
+    "japanese": "たね",
+    "kanji": "種",
+    "romaji": "tane",
+    "indonesian": "biji,bahan,penyebab,sumber"
+  },
+  {
+    "japanese": "たば",
+    "kanji": "束",
+    "romaji": "tabako",
+    "indonesian": "sepanjang,bundle"
+  },
+  {
+    "japanese": "たび",
+    "kanji": "度",
+    "romaji": "tabi",
+    "indonesian": "penghitung untuk kejadian"
+  },
+  {
+    "japanese": "たんじゅん",
+    "kanji": "単純",
+    "romaji": "tanjun",
+    "indonesian": "kesederhanaan"
+  },
+  {
+    "japanese": "たんじょう",
+    "kanji": "誕生",
+    "romaji": "tanjou",
+    "indonesian": "kelahiran"
+  },
+  {
+    "japanese": "ダンス",
+    "kanji": "",
+    "romaji": "dansu",
+    "indonesian": "tari"
+  },
+  {
+    "japanese": "だんたい",
+    "kanji": "団体",
+    "romaji": "dantai",
+    "indonesian": "organisasi,asosiasi"
+  },
+  {
+    "japanese": "たんとう",
+    "kanji": "担当",
+    "romaji": "tantou",
+    "indonesian": "bertanggung jawab"
+  },
+  {
+    "japanese": "たんなる",
+    "kanji": "単なる",
+    "romaji": "tannaru",
+    "indonesian": "hanya,sederhana,murni"
+  },
+  {
+    "japanese": "たんに",
+    "kanji": "単に",
+    "romaji": "tanni",
+    "indonesian": "hanya,semata-mata,hanya"
+  },
+  {
+    "japanese": "ち",
+    "kanji": "地",
+    "romaji": "chi",
+    "indonesian": "bumi"
+  },
+  {
+    "japanese": "ちい",
+    "kanji": "地位",
+    "romaji": "chii",
+    "indonesian": "posisi,status (sosial)"
+  },
+  {
+    "japanese": "ちいき",
+    "kanji": "地域",
+    "romaji": "chiiki",
+    "indonesian": "area,daerah"
+  },
+  {
+    "japanese": "チーズ",
+    "kanji": "",
+    "romaji": "chiizu",
+    "indonesian": "keju"
+  },
+  {
+    "japanese": "チーム",
+    "kanji": "",
+    "romaji": "chiimu",
+    "indonesian": "tim"
+  },
+  {
+    "japanese": "ちえ",
+    "kanji": "知恵",
+    "romaji": "chie",
+    "indonesian": "kebijaksanaan,kecerdasan,akal,perasaan,pengetahuan,saran"
+  },
+  {
+    "japanese": "ちか",
+    "kanji": "地下",
+    "romaji": "chika",
+    "indonesian": "ruang bawah tanah,underground"
+  },
+  {
+    "japanese": "ちがい",
+    "kanji": "違い",
+    "romaji": "chigai",
+    "indonesian": "perbedaan,ketidaksesuaian"
+  },
+  {
+    "japanese": "ちがいない",
+    "kanji": "違いない",
+    "romaji": "chigainai",
+    "indonesian": "pasti,tanpa kesalahan,untuk pasti"
+  },
+  {
+    "japanese": "ちかごろ",
+    "kanji": "近頃",
+    "romaji": "chikagoro",
+    "indonesian": "akhir-akhir ini,baru-baru ini,saat ini"
+  },
+  {
+    "japanese": "ちきゅう",
+    "kanji": "地球",
+    "romaji": "chikyuu",
+    "indonesian": "bumi"
+  },
+  {
+    "japanese": "ちく",
+    "kanji": "地区",
+    "romaji": "chiku",
+    "indonesian": "distrik,bagian,sektor"
+  },
+  {
+    "japanese": "ちこく",
+    "kanji": "遅刻",
+    "romaji": "chikoku",
+    "indonesian": "keterlambatan,kedatangan terlambat"
+  },
+  {
+    "japanese": "つく",
+    "kanji": "就く",
+    "romaji": "tsuku",
+    "indonesian": "menetap (di tempat),mengambil (kursi,posisi),belajar (di bawah guru)"
+  },
+  {
+    "japanese": "つぐ",
+    "kanji": "注ぐ",
+    "romaji": "tsugu",
+    "indonesian": "menuangkan (ke dalam),mengairi,membayar"
+  },
+  {
+    "japanese": "つける",
+    "kanji": "付ける",
+    "romaji": "tsukeru",
+    "indonesian": "melampirkan,menggabungkan,menambahkan,mengikutkan"
+  },
+  {
+    "japanese": "つち",
+    "kanji": "土",
+    "romaji": "tsuchi",
+    "indonesian": "tanah,soil"
+  },
+  {
+    "japanese": "つづき",
+    "kanji": "続き",
+    "romaji": "tsuzuki",
+    "indonesian": "sekuel,lanjutan"
+  },
+  {
+    "japanese": "つつみ",
+    "kanji": "包み",
+    "romaji": "tsutsumi",
+    "indonesian": "bundel,paket,parcel,bale"
+  },
+  {
+    "japanese": "つとめ",
+    "kanji": "勤め",
+    "romaji": "tsutome",
+    "indonesian": "(1) pelayanan,tugas,bisnis,tanggung jawab,tugas,(2) layanan keagamaan Buddha"
+  },
+  {
+    "japanese": "つとめ",
+    "kanji": "務め",
+    "romaji": "tsutome",
+    "indonesian": "(1) pelayanan,tugas,(2) layanan keagamaan Buddha"
+  },
+  {
+    "japanese": "つなぐ",
+    "kanji": "繋ぐ",
+    "romaji": "tsunagu",
+    "indonesian": "mengikat,mengencangkan,menghubungkan,meneruskan (panggilan telepon)"
+  },
+  {
+    "japanese": "つねに",
+    "kanji": "常に",
+    "romaji": "tsuneni",
+    "indonesian": "selalu,secara konstan"
+  },
+  {
+    "japanese": "つばさ",
+    "kanji": "翼",
+    "romaji": "tsubasa",
+    "indonesian": "sayap"
+  },
+  {
+    "japanese": "つまり",
+    "kanji": "",
+    "romaji": "tsumari",
+    "indonesian": "singkatnya,secara singkat,dengan kata lain"
+  },
+  {
+    "japanese": "つみ",
+    "kanji": "罪",
+    "romaji": "tsumi",
+    "indonesian": "kejahatan,kesalahan,kecerobohan"
+  },
+  {
+    "japanese": "つめる",
+    "kanji": "詰める",
+    "romaji": "tsumeru",
+    "indonesian": "mengemas,mendekatkan,menyusun (detail)"
+  },
+  {
+    "japanese": "つもる",
+    "kanji": "積もる",
+    "romaji": "tsumoru",
+    "indonesian": "menumpuk"
+  },
+  {
+    "japanese": "つゆ",
+    "kanji": "梅雨",
+    "romaji": "tsuyu",
+    "indonesian": "musim hujan,hujan selama musim hujan"
+  },
+  {
+    "japanese": "つらい",
+    "kanji": "辛い",
+    "romaji": "tsurai",
+    "indonesian": "menyakitkan,menyentuh hati"
+  },
+  {
+    "japanese": "つり",
+    "kanji": "釣",
+    "romaji": "tsuri",
+    "indonesian": "memancing"
+  },
+  {
+    "japanese": "つれ",
+    "kanji": "連れ",
+    "romaji": "tsure",
+    "indonesian": "teman,perusahaan"
+  },
+  {
+    "japanese": "で",
+    "kanji": "",
+    "romaji": "de",
+    "indonesian": "aliran,keluar (pergi),lulusan (dari)"
+  },
+  {
+    "japanese": "であい",
+    "kanji": "出会い",
+    "romaji": "deai",
+    "indonesian": "pertemuan,pertemuan,pertemuan"
+  },
+  {
+    "japanese": "であう",
+    "kanji": "出会う",
+    "romaji": "deau",
+    "indonesian": "bertemu secara kebetulan,menemukan,terjadi untuk bertemu"
+  },
+  {
+    "japanese": "ていあん",
+    "kanji": "提案",
+    "romaji": "teian",
+    "indonesian": "usulan,proposal,saran"
+  },
+  {
+    "japanese": "ていき",
+    "kanji": "定期",
+    "romaji": "teiki",
+    "indonesian": "jangka tetap"
+  },
+  {
+    "japanese": "ていこう",
+    "kanji": "抵抗",
+    "romaji": "teikou",
+    "indonesian": "resistansi listrik,resistansi,oposisi"
+  },
+  {
+    "japanese": "ていしゅつ",
+    "kanji": "提出",
+    "romaji": "teishutsu",
+    "indonesian": "presentasi,pengajuan,pengarsipan"
+  },
+  {
+    "japanese": "ていど",
+    "kanji": "程度",
+    "romaji": "teido",
+    "indonesian": "derajat,jumlah,tingkat,standar,sekitar (setelah angka)"
+  },
+  {
+    "japanese": "ていりゅうじょ",
+    "kanji": "停留所",
+    "romaji": "teiryuujo",
+    "indonesian": "halte bus atau trem"
+  },
+  {
+    "japanese": "デート",
+    "kanji": "",
+    "romaji": "deeto",
+    "indonesian": "kencan,pergi berkencan"
+  },
+  {
+    "japanese": "てき",
+    "kanji": "敵",
+    "romaji": "teki",
+    "indonesian": "musuh,rival"
+  },
+  {
+    "japanese": "できごと",
+    "kanji": "出来事",
+    "romaji": "dekigoto",
+    "indonesian": "insiden,urusan,kejadian,peristiwa"
+  },
+  {
+    "japanese": "てきする",
+    "kanji": "適する",
+    "romaji": "tekisuru",
+    "indonesian": "cocok,sesuai"
+  },
+  {
+    "japanese": "てきせつ",
+    "kanji": "適切",
+    "romaji": "tekisetsu",
+    "indonesian": "relevan,sesuai,memadai,relevansi"
+  },
+  {
+    "japanese": "てきど",
+    "kanji": "適度",
+    "romaji": "tekido",
+    "indonesian": "moderat"
+  },
+  {
+    "japanese": "てきよう",
+    "kanji": "適用",
+    "romaji": "tekiyou",
+    "indonesian": "penerapan"
+  },
+  {
+    "japanese": "できる",
+    "kanji": "できる",
+    "romaji": "dekiru",
+    "indonesian": "dapat,siap,terjadi"
+  },
+  {
+    "japanese": "できるだけ",
+    "kanji": "出来るだけ",
+    "romaji": "dekiru dake",
+    "indonesian": "jika memungkinkan"
+  },
+  {
+    "japanese": "とおりすぎる",
+    "kanji": "通り過ぎる",
+    "romaji": "toorisugiru",
+    "indonesian": "melewati,lewat"
+  },
+  {
+    "japanese": "とかい",
+    "kanji": "都会",
+    "romaji": "tokai",
+    "indonesian": "kota"
+  },
+  {
+    "japanese": "とき",
+    "kanji": "時",
+    "romaji": "toki",
+    "indonesian": "(1) waktu,jam,(2) kesempatan,momen"
+  },
+  {
+    "japanese": "とく",
+    "kanji": "解く",
+    "romaji": "toku",
+    "indonesian": "melepaskan"
+  },
+  {
+    "japanese": "どく",
+    "kanji": "毒",
+    "romaji": "doku",
+    "indonesian": "racun,zat beracun"
+  },
+  {
+    "japanese": "とくい",
+    "kanji": "得意",
+    "romaji": "tokui",
+    "indonesian": "kebanggaan,kejayaan,kemakmuran"
+  },
+  {
+    "japanese": "どくしょ",
+    "kanji": "読書",
+    "romaji": "dokusho",
+    "indonesian": "membaca"
+  },
+  {
+    "japanese": "どくしん",
+    "kanji": "独身",
+    "romaji": "dokushin",
+    "indonesian": "status lajang,tidak menikah,selibat"
+  },
+  {
+    "japanese": "とくちょう",
+    "kanji": "特徴",
+    "romaji": "tokuchou",
+    "indonesian": "fitur,karakteristik"
+  },
+  {
+    "japanese": "どくとく",
+    "kanji": "独特",
+    "romaji": "dokutoku",
+    "indonesian": "keunikan,keunikan,ciri khas"
+  },
+  {
+    "japanese": "どくりつ",
+    "kanji": "独立",
+    "romaji": "dokuritsu",
+    "indonesian": "independensi (mis. Hari Ind.),mandiri"
+  },
+  {
+    "japanese": "とける",
+    "kanji": "解ける",
+    "romaji": "tokeru",
+    "indonesian": "terurai,terpisah"
+  },
+  {
+    "japanese": "どこか",
+    "kanji": "",
+    "romaji": "dokoka",
+    "indonesian": "di suatu tempat,di mana saja"
+  },
+  {
+    "japanese": "ところが",
+    "kanji": "",
+    "romaji": "tokoroga",
+    "indonesian": "namun,saat,sungguh pun"
+  },
+  {
+    "japanese": "ところで",
+    "kanji": "",
+    "romaji": "tokorode",
+    "indonesian": "ngomong-ngomong,sungguh pun,tak peduli apa"
+  },
+  {
+    "japanese": "とざん",
+    "kanji": "登山",
+    "romaji": "tozan",
+    "indonesian": "pendakian gunung"
+  },
+  {
+    "japanese": "とし",
+    "kanji": "都市",
+    "romaji": "toshi",
+    "indonesian": "kota,kota,munisipal,perkotaan"
+  },
+  {
+    "japanese": "としつき",
+    "kanji": "年月",
+    "romaji": "toshitsuki",
+    "indonesian": "bulan dan tahun"
+  },
+  {
+    "japanese": "としょ",
+    "kanji": "図書",
+    "romaji": "tosho",
+    "indonesian": "buku"
+  },
+  {
+    "japanese": "としより",
+    "kanji": "年寄",
+    "romaji": "toshiyori",
+    "indonesian": "orang tua,kaum lanjut usia"
+  },
+  {
+    "japanese": "なわ",
+    "kanji": "縄",
+    "romaji": "nawa",
+    "indonesian": "tali,serat rami"
+  },
+  {
+    "japanese": "なんで",
+    "kanji": "何で",
+    "romaji": "nande",
+    "indonesian": "Mengapa?,Untuk apa?"
+  },
+  {
+    "japanese": "なんでも",
+    "kanji": "何でも",
+    "romaji": "nandemo",
+    "indonesian": "dengan segala cara,segala sesuatu"
+  },
+  {
+    "japanese": "なんとか",
+    "kanji": "何とか",
+    "romaji": "nantoka",
+    "indonesian": "entah bagaimana,bagaimanapun,jalan atau cara lain"
+  },
+  {
+    "japanese": "にあう",
+    "kanji": "似合う",
+    "romaji": "niau",
+    "indonesian": "cocok,serasi,menjadi,mirip"
+  },
+  {
+    "japanese": "におい",
+    "kanji": "匂い",
+    "romaji": "nioi",
+    "indonesian": "bau,aroma,bau,bau busuk"
+  },
+  {
+    "japanese": "にがて",
+    "kanji": "苦手",
+    "romaji": "nigate",
+    "indonesian": "kurang baik (dalam),lemah (dalam),tidak suka (terhadap)"
+  },
+  {
+    "japanese": "にぎる",
+    "kanji": "握る",
+    "romaji": "nigiru",
+    "indonesian": "menggenggam,merebut,membentuk sushi"
+  },
+  {
+    "japanese": "にち",
+    "kanji": "日",
+    "romaji": "nichi",
+    "indonesian": "matahari,sinar matahari,hari"
+  },
+  {
+    "japanese": "にちじょう",
+    "kanji": "日常",
+    "romaji": "nichijou",
+    "indonesian": "biasa,reguler,sehari-hari,umum"
+  },
+  {
+    "japanese": "にちよう",
+    "kanji": "日曜",
+    "romaji": "nichiyou",
+    "indonesian": "Minggu"
+  },
+  {
+    "japanese": "にっこう",
+    "kanji": "日光",
+    "romaji": "nikkou",
+    "indonesian": "cahaya matahari"
+  },
+  {
+    "japanese": "にっこり",
+    "kanji": "",
+    "romaji": "nikkoori",
+    "indonesian": "tersenyum manis,tersenyum,senyum lebar"
+  },
+  {
+    "japanese": "にっちゅう",
+    "kanji": "日中",
+    "romaji": "nicchuu",
+    "indonesian": "siang hari,cahaya terang"
+  },
+  {
+    "japanese": "にっぽん",
+    "kanji": "日本",
+    "romaji": "nippon",
+    "indonesian": "Jepang"
+  },
+  {
+    "japanese": "にほん",
+    "kanji": "日本",
+    "romaji": "nihon",
+    "indonesian": "Jepang"
+  },
+  {
+    "japanese": "にゅういん",
+    "kanji": "入院",
+    "romaji": "nyuuin",
+    "indonesian": "rawat inap"
+  },
+  {
+    "japanese": "にゅうがく",
+    "kanji": "入学",
+    "romaji": "nyuugaku",
+    "indonesian": "masuk sekolah atau universitas,matrikulasi"
+  },
+  {
+    "japanese": "にゅうじょう",
+    "kanji": "入場",
+    "romaji": "nyuujou",
+    "indonesian": "masuk,admission,memasuki"
+  },
+  {
+    "japanese": "にんき",
+    "kanji": "人気",
+    "romaji": "ninki",
+    "indonesian": "tanda kehidupan"
+  },
+  {
+    "japanese": "はっこう",
+    "kanji": "発行",
+    "romaji": "hakkou",
+    "indonesian": "penerbitan (publikasi)"
+  },
+  {
+    "japanese": "はっしゃ",
+    "kanji": "発車",
+    "romaji": "hassha",
+    "indonesian": "keberangkatan kendaraan"
+  },
+  {
+    "japanese": "ばっする",
+    "kanji": "罰する",
+    "romaji": "bassuru",
+    "indonesian": "untuk menghukum,untuk menjatuhkan sanksi"
+  },
+  {
+    "japanese": "はったつ",
+    "kanji": "発達",
+    "romaji": "hattatsu",
+    "indonesian": "perkembangan,pertumbuhan"
+  },
+  {
+    "japanese": "ばったり",
+    "kanji": "",
+    "romaji": "battari",
+    "indonesian": "dengan benturan (dengung),dengan suara keras,jatuh,terjatuh"
+  },
+  {
+    "japanese": "はってん",
+    "kanji": "発展",
+    "romaji": "hatten",
+    "indonesian": "perkembangan,pertumbuhan"
+  },
+  {
+    "japanese": "はっぴょう",
+    "kanji": "発表",
+    "romaji": "happyou",
+    "indonesian": "pengumuman,publikasi"
+  },
+  {
+    "japanese": "はつめい",
+    "kanji": "発明",
+    "romaji": "hatsumei",
+    "indonesian": "penemuan"
+  },
+  {
+    "japanese": "はなしあう",
+    "kanji": "話し合う",
+    "romaji": "hanashiau",
+    "indonesian": "untuk berdiskusi, untuk berbicara bersama"
+  },
+  {
+    "japanese": "はなす",
+    "kanji": "離す",
+    "romaji": "hanasu",
+    "indonesian": "memisahkan,membagi,membelah"
+  },
+  {
+    "japanese": "はなす",
+    "kanji": "放す",
+    "romaji": "hanasu",
+    "indonesian": "memisahkan,membebaskan"
+  },
+  {
+    "japanese": "はなれる",
+    "kanji": "離れる",
+    "romaji": "hanareru",
+    "indonesian": "terpisah dari,meninggalkan,pergi jauh,berada jauh"
+  },
+  {
+    "japanese": "はね",
+    "kanji": "羽",
+    "romaji": "hane",
+    "indonesian": "counter untuk burung,counter untuk kelinci"
+  },
+  {
+    "japanese": "はば",
+    "kanji": "幅",
+    "romaji": "haba",
+    "indonesian": "lebar,jarak"
+  },
+  {
+    "japanese": "ははおや",
+    "kanji": "母親",
+    "romaji": "hahaoya",
+    "indonesian": "ibu"
+  },
+  {
+    "japanese": "はぶく",
+    "kanji": "省く",
+    "romaji": "habuku",
+    "indonesian": "menghilangkan,menghapus,mengurangi,berhemat"
+  },
+  {
+    "japanese": "ばめん",
+    "kanji": "場面",
+    "romaji": "bamen",
+    "indonesian": "adegan,seting (mis. novel)"
+  },
+  {
+    "japanese": "はら",
+    "kanji": "腹",
+    "romaji": "hara",
+    "indonesian": "perut,badan,perut"
+  },
+  {
+    "japanese": "はら",
+    "kanji": "原",
+    "romaji": "hara",
+    "indonesian": "ladang,dataran,padang rumput,tundra,moor,hutan"
+  },
+  {
+    "japanese": "はり",
+    "kanji": "針",
+    "romaji": "hari",
+    "indonesian": "jarum,tangan (mis. jam)"
+  },
+  {
+    "japanese": "ふろ",
+    "kanji": "風呂",
+    "romaji": "furo",
+    "indonesian": "mandi"
+  },
+  {
+    "japanese": "プロ",
+    "kanji": "",
+    "romaji": "puro",
+    "indonesian": "profesional"
+  },
+  {
+    "japanese": "ぶん",
+    "kanji": "分",
+    "romaji": "bun",
+    "indonesian": "pembagian,bagian,segmen"
+  },
+  {
+    "japanese": "ぶん",
+    "kanji": "文",
+    "romaji": "bun",
+    "indonesian": "kalimat"
+  },
+  {
+    "japanese": "ふんいき",
+    "kanji": "雰囲気",
+    "romaji": "fun'iki",
+    "indonesian": "atmosfer (mis. musik),suasana,ambien"
+  },
+  {
+    "japanese": "ぶんせき",
+    "kanji": "分析",
+    "romaji": "bunseki",
+    "indonesian": "analisis"
+  },
+  {
+    "japanese": "ぶんめい",
+    "kanji": "文明",
+    "romaji": "bunmei",
+    "indonesian": "peradaban,budaya"
+  },
+  {
+    "japanese": "ぶんや",
+    "kanji": "分野",
+    "romaji": "bunya",
+    "indonesian": "bidang,sfera,realm,pembagian,cabang"
+  },
+  {
+    "japanese": "へい",
+    "kanji": "塀",
+    "romaji": "hei",
+    "indonesian": "tembok,pagar"
+  },
+  {
+    "japanese": "へいきん",
+    "kanji": "平均",
+    "romaji": "heikin",
+    "indonesian": "keseimbangan,imbang,rata-rata,mean"
+  },
+  {
+    "japanese": "へいわ",
+    "kanji": "平和",
+    "romaji": "heiwa",
+    "indonesian": "perdamaian,harmoni"
+  },
+  {
+    "japanese": "べつに",
+    "kanji": "別に",
+    "romaji": "betsu ni",
+    "indonesian": "(tidak) khususnya,tidak ada"
+  },
+  {
+    "japanese": "へらす",
+    "kanji": "減らす",
+    "romaji": "herasu",
+    "indonesian": "mengurangi,menurunkan,mengurangi,mendekatkan"
+  },
+  {
+    "japanese": "へる",
+    "kanji": "減る",
+    "romaji": "heru",
+    "indonesian": "berkurang (dalam ukuran atau jumlah),mengurangi,mengurangi"
+  },
+  {
+    "japanese": "ベルト",
+    "kanji": "",
+    "romaji": "beruto",
+    "indonesian": "sabuk untuk pakaian barat"
+  },
+  {
+    "japanese": "へんか",
+    "kanji": "変化",
+    "romaji": "henka",
+    "indonesian": "perubahan,modifikasi,alterasi"
+  },
+  {
+    "japanese": "ペンキ",
+    "kanji": "",
+    "romaji": "benchi",
+    "indonesian": "bangku"
+  },
+  {
+    "japanese": "べんきょう",
+    "kanji": "勉強",
+    "romaji": "benkyou",
+    "indonesian": "nasi kotak"
+  },
+  {
+    "japanese": "へんこう",
+    "kanji": "変更",
+    "romaji": "henkou",
+    "indonesian": "sisi"
+  },
+  {
+    "japanese": "ベンチ",
+    "kanji": "",
+    "romaji": "benchi",
+    "indonesian": "Undang-Undang (hukum: Undang-Undang X)"
+  },
+  {
+    "japanese": "べんとう",
+    "kanji": "弁当",
+    "romaji": "bentou",
+    "indonesian": "tiang,batang,stik"
+  },
+  {
+    "japanese": "ほう",
+    "kanji": "方",
+    "romaji": "bouken",
+    "indonesian": "risiko,usaha,petualangan"
+  },
+  {
+    "japanese": "ほう",
+    "kanji": "法",
+    "romaji": "houkou",
+    "indonesian": "arah,jalur,jalan"
+  },
+  {
+    "japanese": "ぼう",
+    "kanji": "棒",
+    "romaji": "houkoku",
+    "indonesian": "laporan,informasi"
+  },
+  {
+    "japanese": "ぼうけん",
+    "kanji": "冒険",
+    "romaji": "houseki",
+    "indonesian": "permata,perhiasan"
+  },
+  {
+    "japanese": "ほうこう",
+    "kanji": "方向",
+    "romaji": "housou",
+    "indonesian": "siaran,penyiaran"
+  },
+  {
+    "japanese": "ほうこく",
+    "kanji": "報告",
+    "romaji": "houkoku",
+    "indonesian": "kelimpahan,kekayaan,banyak,bounty"
+  },
+  {
+    "japanese": "ほうせき",
+    "kanji": "宝石",
+    "romaji": "houseki",
+    "indonesian": "metode,cara,jalan,alat,teknik"
+  },
+  {
+    "japanese": "ほうそう",
+    "kanji": "放送",
+    "romaji": "houbou",
+    "indonesian": "orang-orang,ini dan itu,di sini dan di sana,di mana-mana"
+  },
+  {
+    "japanese": "ほうふ",
+    "kanji": "豊富",
+    "romaji": "houmon",
+    "indonesian": "kunjungan,kunjungan"
+  },
+  {
+    "japanese": "ほうほう",
+    "kanji": "方法",
+    "romaji": "houhou",
+    "indonesian": "menggonggong,menggeram,menghujam,menggelegar,menggeram,berteriak"
+  },
+  {
+    "japanese": "ほうぼう",
+    "kanji": "方々",
+    "romaji": "houbou",
+    "indonesian": "anak laki-laki"
+  },
+  {
+    "japanese": "ほうもん",
+    "kanji": "訪問",
+    "romaji": "houmon",
+    "indonesian": "perahu dayung"
+  },
+  {
+    "japanese": "ほえる",
+    "kanji": "吠える",
+    "romaji": "ho-mu",
+    "indonesian": "(1) platform,(2) rumah"
+  },
+  {
+    "japanese": "ほお",
+    "kanji": "頬",
+    "romaji": "hoo",
+    "indonesian": "pipi"
+  },
+  {
+    "japanese": "ボーイ",
+    "kanji": "",
+    "romaji": "bo-ru",
+    "indonesian": "bola,mangkuk"
+  },
+  {
+    "japanese": "ボート",
+    "kanji": "",
+    "romaji": "booto",
+    "indonesian": "lain (terutama tempat dan benda)"
+  },
+  {
+    "japanese": "ホーム",
+    "kanji": "",
+    "romaji": "hoomu",
+    "indonesian": "tempat lain,sisa"
+  },
+  {
+    "japanese": "ボール",
+    "kanji": "",
+    "romaji": "hokori",
+    "indonesian": "harga diri"
+  },
+  {
+    "japanese": "ほか",
+    "kanji": "他",
+    "romaji": "hokori",
+    "indonesian": "debu"
+  },
+  {
+    "japanese": "ほか",
+    "kanji": "外",
+    "romaji": "hoshou",
+    "indonesian": "jaminan,jaminan,asuransi,janji,garansi"
+  },
+  {
+    "japanese": "ほこり",
+    "kanji": "誇り",
+    "romaji": "hokori",
+    "indonesian": "pelestarian,konservasi,penyimpanan,pemeliharaan"
+  },
+  {
+    "japanese": "ほこり",
+    "kanji": "埃",
+    "romaji": "hokori",
+    "indonesian": "derajat,tingkat,batas,batas"
+  },
+  {
+    "japanese": "ほしょう",
+    "kanji": "保証",
+    "romaji": "hoshou",
+    "indonesian": "jalur pejalan kaki,jalan setapak,trotoar"
+  },
+  {
+    "japanese": "ほぞん",
+    "kanji": "保存",
+    "romaji": "hotoke",
+    "indonesian": "Buddha,orang yang penyayang,gambar Buddha,orang yang meninggal"
+  },
+  {
+    "japanese": "ほど",
+    "kanji": "程",
+    "romaji": "hone",
+    "indonesian": "tulang"
+  },
+  {
+    "japanese": "ほどう",
+    "kanji": "歩道",
+    "romaji": "honoo",
+    "indonesian": "nyala api"
+  },
+  {
+    "japanese": "ほとけ",
+    "kanji": "仏",
+    "romaji": "hotoke",
+    "indonesian": ""
+  },
+  {
+    "japanese": "ほね",
+    "kanji": "骨",
+    "romaji": "hone",
+    "indonesian": ""
+  },
+  {
+    "japanese": "ほのお",
+    "kanji": "炎",
+    "romaji": "honoo",
+    "indonesian": ""
+  },
+  {
+    "japanese": "ほほ",
+    "kanji": "頬",
+    "romaji": "hoho",
+    "indonesian": "pipi"
+  },
+  {
+    "japanese": "ほぼ",
+    "kanji": "",
+    "romaji": "hobo",
+    "indonesian": "hampir,kasar,kira-kira"
+  },
+  {
+    "japanese": "ほほえむ",
+    "kanji": "微笑む",
+    "romaji": "hohoemu",
+    "indonesian": "tersenyum"
+  },
+  {
+    "japanese": "ほめる",
+    "kanji": "褒める",
+    "romaji": "homeru",
+    "indonesian": "memuji, mengagumi, berbicara baik"
+  },
+  {
+    "japanese": "ほり",
+    "kanji": "濠",
+    "romaji": "hori",
+    "indonesian": "parit"
+  },
+  {
+    "japanese": "ほんと",
+    "kanji": "本当",
+    "romaji": "honto",
+    "indonesian": "kebenaran,realitas"
+  },
+  {
+    "japanese": "ほんとう",
+    "kanji": "本当",
+    "romaji": "hontou",
+    "indonesian": "kebenaran,realitas"
+  },
+  {
+    "japanese": "ほんにん",
+    "kanji": "本人",
+    "romaji": "hon'nin",
+    "indonesian": "orang itu sendiri"
+  },
+  {
+    "japanese": "ほんもの",
+    "kanji": "本物",
+    "romaji": "honmono",
+    "indonesian": "barang asli"
+  },
+  {
+    "japanese": "ぼんやり",
+    "kanji": "",
+    "romaji": "bonyari",
+    "indonesian": "lalai, bodoh, samar, samar-samar"
+  },
+  {
+    "japanese": "む",
+    "kanji": "無",
+    "romaji": "mu",
+    "indonesian": "tidak ada, nol"
+  },
+  {
+    "japanese": "むかい",
+    "kanji": "向かい",
+    "romaji": "mukai",
+    "indonesian": "menghadap, seberang, di seberang jalan, sisi lain"
+  },
+  {
+    "japanese": "むかえ",
+    "kanji": "迎え",
+    "romaji": "mukae",
+    "indonesian": "pertemuan, orang yang dikirim untuk menjemput kedatangan"
+  },
+  {
+    "japanese": "むく",
+    "kanji": "向く",
+    "romaji": "muku",
+    "indonesian": "menghadap"
+  },
+  {
+    "japanese": "むける",
+    "kanji": "向ける",
+    "romaji": "mukeru",
+    "indonesian": "mengarah, menunjuk"
+  },
+  {
+    "japanese": "むし",
+    "kanji": "無視",
+    "romaji": "mushi",
+    "indonesian": "mengabaikan, mengabaikan"
+  },
+  {
+    "japanese": "むしば",
+    "kanji": "虫歯",
+    "romaji": "mushiba",
+    "indonesian": "karies, gigi berlubang, gigi yang membusuk"
+  },
+  {
+    "japanese": "むしろ",
+    "kanji": "寧ろ",
+    "romaji": "mushiro",
+    "indonesian": "lebih baik, sebaliknya"
+  },
+  {
+    "japanese": "むすぶ",
+    "kanji": "結ぶ",
+    "romaji": "musubu",
+    "indonesian": "mengikat, menghubungkan"
+  },
+  {
+    "japanese": "むだ",
+    "kanji": "無駄",
+    "romaji": "muda",
+    "indonesian": "kekosongan, ketidakbergunaan"
+  },
+  {
+    "japanese": "むちゅう",
+    "kanji": "夢中",
+    "romaji": "muchuu",
+    "indonesian": "keterpukauan, trance, ekstasi, delirium, keterlibatan"
+  },
+  {
+    "japanese": "むね",
+    "kanji": "胸",
+    "romaji": "mune",
+    "indonesian": "dada, payudara"
+  },
+  {
+    "japanese": "むりょう",
+    "kanji": "無料",
+    "romaji": "muryou",
+    "indonesian": "gratis, tanpa biaya"
+  },
+  {
+    "japanese": "め",
+    "kanji": "芽",
+    "romaji": "me",
+    "indonesian": "tunas"
+  },
+  {
+    "japanese": "めいかく",
+    "kanji": "明確",
+    "romaji": "meikaku",
+    "indonesian": "jelas, memperjelas, mendefinisikan"
+  },
+  {
+    "japanese": "めいじる",
+    "kanji": "命じる",
+    "romaji": "meijiru",
+    "indonesian": "memerintahkan, menginstruksikan, menunjuk"
+  },
+  {
+    "japanese": "めいじん",
+    "kanji": "名人",
+    "romaji": "meijin",
+    "indonesian": "ahli, master"
+  },
+  {
+    "japanese": "めいれい",
+    "kanji": "命令",
+    "romaji": "meirei",
+    "indonesian": "perintah, instruksi, dekret, arahan"
+  },
+  {
+    "japanese": "めいわく",
+    "kanji": "迷惑",
+    "romaji": "meiwaku",
+    "indonesian": "masalah, gangguan, ketidaknyamanan"
+  },
+  {
+    "japanese": "めし",
+    "kanji": "飯",
+    "romaji": "meshi",
+    "indonesian": "makanan, hidangan"
+  },
+  {
+    "japanese": "よると",
+    "kanji": "",
+    "romaji": "yoruto",
+    "indonesian": "menurut"
+  },
+  {
+    "japanese": "よろこび",
+    "kanji": "喜び",
+    "romaji": "yorokobi",
+    "indonesian": "kebahagiaan, kesenangan, kegembiraan, ucapan selamat"
+  },
+  {
+    "japanese": "よろしい",
+    "kanji": "宜しい",
+    "romaji": "yoroshii",
+    "indonesian": "baik, oke, sangat baik, boleh, bisa"
+  },
+  {
+    "japanese": "よろしく (感)",
+    "kanji": "",
+    "romaji": "yoroshiku",
+    "indonesian": "dengan baik, dengan tepat, salam terbaik, ingatlah saya"
+  },
+  {
+    "japanese": "よん",
+    "kanji": "四",
+    "romaji": "yon",
+    "indonesian": "empat"
+  },
+  {
+    "japanese": "らい",
+    "kanji": "来",
+    "romaji": "rai",
+    "indonesian": ", untuk (10 hari), tahun depan"
+  },
+  {
+    "japanese": "ライター",
+    "kanji": "",
+    "romaji": "raitā",
+    "indonesian": "pemantik, penunggang, penulis"
+  },
+  {
+    "japanese": "らく",
+    "kanji": "楽",
+    "romaji": "raku",
+    "indonesian": "kenyamanan, kemudahan"
+  },
+  {
+    "japanese": "ラケット",
+    "kanji": "",
+    "romaji": "raketto",
+    "indonesian": "dayung, raket"
+  },
+  {
+    "japanese": "りえき",
+    "kanji": "利益",
+    "romaji": "rieki",
+    "indonesian": "keuntungan, hasil, kepentingan (politik, ekonomi)"
+  },
+  {
+    "japanese": "りかい",
+    "kanji": "理解",
+    "romaji": "rikai",
+    "indonesian": "pemahaman, pengertian"
+  },
+  {
+    "japanese": "りく",
+    "kanji": "陸",
+    "romaji": "rikku",
+    "indonesian": "enam (digunakan dalam dokumen hukum)"
+  },
+  {
+    "japanese": "りこう",
+    "kanji": "利口",
+    "romaji": "rikou",
+    "indonesian": "cerdas, pintar, tajam, bijaksana, cerdas"
+  },
+  {
+    "japanese": "りこん",
+    "kanji": "離婚",
+    "romaji": "rikon",
+    "indonesian": "perceraian"
+  },
+  {
+    "japanese": "りそう",
+    "kanji": "理想",
+    "romaji": "risou",
+    "indonesian": "idealis"
+  },
+  {
+    "japanese": "りつ",
+    "kanji": "率",
+    "romaji": "ritsu",
+    "indonesian": "rasio, proporsi, persentase"
+  },
+  {
+    "japanese": "りっぱ",
+    "kanji": "立派",
+    "romaji": "rippa",
+    "indonesian": "megah, baik, tampan, elegan, mengesankan, menonjol, legal, sah"
+  },
+  {
+    "japanese": "りゅうがく",
+    "kanji": "留学",
+    "romaji": "ryuugaku",
+    "indonesian": "belajar di luar negeri"
+  },
+  {
+    "japanese": "りゅうこう",
+    "kanji": "流行",
+    "romaji": "ryuukou",
+    "indonesian": "modis, tren, sedang populer, berlaku"
+  }
+]

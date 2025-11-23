@@ -1,0 +1,28 @@
+{
+  "name": "japanese-text-parser",
+  "version": "1.0.0",
+  "description": "Japanese text parser with AI translation and romaji",
+  "main": "src/parser.js",
+  "scripts": {
+    "setup": "node setup.js",
+    "start": "node src/parser.js",
+    "server": "node src/server.js",
+    "dev": "vite",
+    "dev:full": "concurrently \"npm run server\" \"npm run dev\"",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "multer": "^2.0.2"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1",
+    "vite": "^5.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,34 @@
+# Sample Japanese Text for Testing
+
+こんにちは、みなさん！
+これはテスト用の日本語テキストです。
+
+## 基本的な挨拶
+- おはようございます (Good morning)
+- こんにちは (Hello)
+- こんばんは (Good evening)
+- ありがとう (Thank you)
+- すみません (Excuse me)
+
+## 食べ物に関する単語
+- 寿司 (sushi) - 日本の伝統的な食べ物
+- ラーメン (ramen) - 中華料理
+- 天ぷら (tempura) - 揚げ物
+- みそ汁 (miso soup) - 伝統的なスープ
+
+## 動詞
+- 食べる (taberu) - to eat
+- 飲む (nomu) - to drink
+- 行く (iku) - to go
+- 来る (kuru) - to come
+- 見る (miru) - to see
+
+## 形容詞
+- 美味しい (oishii) - delicious
+- 美しい (utsukushii) - beautiful
+- 面白い (omoshiroi) - interesting
+- 寒い (samui) - cold
+- 暑い (atsui) - hot
+
+このテキストはAIパーサーのテスト用に作成されました。
+様々な種類の日本語の単語が含まれています。

@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(npm run dev:*)",
+      "Bash(node:*)",
+      "Bash(chmod:*)",
+      "Bash(japanese_words.json)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

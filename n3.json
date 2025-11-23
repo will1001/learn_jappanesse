@@ -1,0 +1,3845 @@
+ [
+    {
+      "kanji": null,
+      "hiragana": "あっ",
+      "english": "Ah!,Oh!",
+      "indonesian": "Ah!,Oh!",
+      "romaji": "Ah!"
+    },
+    {
+      "kanji": "愛",
+      "hiragana": "あい",
+      "english": "love",
+      "indonesian": "cinta",
+      "romaji": "ai"
+    },
+    {
+      "kanji": "挨拶",
+      "hiragana": "あいさつ",
+      "english": "greeting,salutation",
+      "indonesian": "salam,sapaan",
+      "romaji": "aisatsu"
+    },
+    {
+      "kanji": "愛情",
+      "hiragana": "あいじょう",
+      "english": "love,affection",
+      "indonesian": "cinta,kasih sayang",
+      "romaji": "aijou"
+    },
+    {
+      "kanji": "合図",
+      "hiragana": "あいず",
+      "english": "sign,signal",
+      "indonesian": "tanda,sinyal",
+      "romaji": "aizu"
+    },
+    {
+      "kanji": null,
+      "hiragana": "アイスクリーム",
+      "english": "ice cream",
+      "indonesian": "es krim",
+      "romaji": "aisukuriimu"
+    },
+    {
+      "kanji": "愛する",
+      "hiragana": "あいする",
+      "english": "to love",
+      "indonesian": "mencintai",
+      "romaji": "aisuru"
+    },
+    {
+      "kanji": "相手",
+      "hiragana": "あいて",
+      "english": "companion,partner,company",
+      "indonesian": "teman,mitra,perusahaan",
+      "romaji": "aite"
+    },
+    {
+      "kanji": null,
+      "hiragana": "あいにく",
+      "english": "unfortunately,Sorry, but....",
+      "indonesian": "sayangnya,Maaf, tetapi....",
+      "romaji": "ainiku"
+    },
+    {
+      "kanji": null,
+      "hiragana": "アイロン",
+      "english": "(electric) iron",
+      "indonesian": "(setrika) listrik",
+      "romaji": "airon"
+    },
+    {
+      "kanji": null,
+      "hiragana": "アウト",
+      "english": "out",
+      "indonesian": "keluar",
+      "romaji": "auto"
+    },
+    {
+      "kanji": "明かり",
+      "hiragana": "あかり",
+      "english": "lamplight,light (in general),brightness",
+      "indonesian": "cahaya lampu,cahaya (secara umum),kecerahan",
+      "romaji": "akari"
+    },
+    {
+      "kanji": "空き",
+      "hiragana": "あき",
+      "english": "room,time to spare,emptiness",
+      "indonesian": "ruang,waktu luang,kekosongan",
+      "romaji": "aki"
+    },
+    {
+      "kanji": "明らか",
+      "hiragana": "あきらか",
+      "english": "obvious,evident,clear",
+      "indonesian": "jelas,terlihat,nyata",
+      "romaji": "akiraka"
+    },
+    {
+      "kanji": "諦める",
+      "hiragana": "あきらめる",
+      "english": "to give up,to abandon",
+      "indonesian": "menyerah,membiarkan",
+      "romaji": "akirameru"
+    },
+    {
+      "kanji": "飽きる",
+      "hiragana": "あきる",
+      "english": "to get tired of,to lose interest in,to have enough",
+      "indonesian": "bosan,kehilangan minat,punya cukup",
+      "romaji": "akiru"
+    },
+    {
+      "kanji": "握手",
+      "hiragana": "あくしゅ",
+      "english": "handshake",
+      "indonesian": "jabat tangan",
+      "romaji": "akushu"
+    },
+    {
+      "kanji": "粗",
+      "hiragana": "あら",
+      "english": "defect,flaw,blemish,weak point",
+      "indonesian": "cacat,kekurangan,noda,titik lemah",
+      "romaji": "ara"
+    },
+    {
+      "kanji": "嵐",
+      "hiragana": "あらし",
+      "english": "storm,tempest",
+      "indonesian": "badai,topan",
+      "romaji": "arashi"
+    },
+    {
+      "kanji": "新た",
+      "hiragana": "あらた",
+      "english": "new,fresh,novel",
+      "indonesian": "baru,segara,novel",
+      "romaji": "arata"
+    },
+    {
+      "kanji": null,
+      "hiragana": "あらゆる",
+      "english": "all,every",
+      "indonesian": "semua,setiap",
+      "romaji": "arayuru"
+    },
+    {
+      "kanji": "表す",
+      "hiragana": "あらわす",
+      "english": "to express,to show,to reveal",
+      "indonesian": "mengekspresikan,menunjukkan,mengungkapkan",
+      "romaji": "arawasu"
+    },
+    {
+      "kanji": "現す",
+      "hiragana": "あらわす",
+      "english": "to show,to indicate,to display",
+      "indonesian": "menunjukkan,menandakan,memperlihatkan",
+      "romaji": "arawasu"
+    },
+    {
+      "kanji": "現れ",
+      "hiragana": "あらわれ",
+      "english": "embodiment,materialization",
+      "indonesian": "perwujudan,materi",
+      "romaji": "araware"
+    },
+    {
+      "kanji": "現れる",
+      "hiragana": "あらわれる",
+      "english": "(1) to appear,to come in sight,to become visible,(2) to express oneself",
+      "indonesian": "(1) muncul,menampakkan diri,menjadi terlihat,(2) mengekspresikan diri",
+      "romaji": "arawareru"
+    },
+    {
+      "kanji": null,
+      "hiragana": "ありがとう",
+      "english": "(conj,exp,int) Thank you",
+      "indonesian": "Terima kasih",
+      "romaji": "arigatou"
+    },
+    {
+      "kanji": "有る",
+      "hiragana": "ある",
+      "english": "to be,to have",
+      "indonesian": "ada,mempunyai",
+      "romaji": "aru"
+    },
+    {
+      "kanji": "或",
+      "hiragana": "ある",
+      "english": "a certain...,some...",
+      "indonesian": "sebuah tertentu...,beberapa...",
+      "romaji": "aru"
+    },
+    {
+      "kanji": null,
+      "hiragana": "あるいは",
+      "english": "or,possibly",
+      "indonesian": "atau,kemungkinan",
+      "romaji": "aruiwa"
+    },
+    {
+      "kanji": null,
+      "hiragana": "アルバム",
+      "english": "album",
+      "indonesian": "album",
+      "romaji": "arubamu"
+    },
+    {
+      "kanji": "泡",
+      "hiragana": "あわ",
+      "english": "bubble,foam,froth,head on beer",
+      "indonesian": "gelembung,busa,krim,bagian atas bir",
+      "romaji": "awa"
+    },
+    {
+      "kanji": "合わせる",
+      "hiragana": "あわせる",
+      "english": "to join together,to be opposite,to face,to unite",
+      "indonesian": "bergabung,menghadap,menghadapi,menyatukan",
+      "romaji": "awaseru"
+    },
+    {
+      "kanji": "哀れ",
+      "hiragana": "あわれ",
+      "english": "helpless,pity,sorrow,grief",
+      "indonesian": "tak berdaya,kasihan,duka,cita",
+      "romaji": "aware"
+    },
+    {
+      "kanji": "案",
+      "hiragana": "あん",
+      "english": "plan,suffix meaning draft",
+      "indonesian": "rencana,akhiran yang berarti draf",
+      "romaji": "an"
+    },
+    {
+      "kanji": "暗記",
+      "hiragana": "あんき",
+      "english": "memorization,learning by heart",
+      "indonesian": "penghafalan,pelajaran dengan hati",
+      "romaji": "anki"
+    },
+    {
+      "kanji": "安定",
+      "hiragana": "あんてい",
+      "english": "stability,equilibrium",
+      "indonesian": "stabilitas,kesetimbangan",
+      "romaji": "antei"
+    },
+    {
+      "kanji": "案内",
+      "hiragana": "あんない",
+      "english": "information,guidance,leading",
+      "indonesian": "informasi,panduan,pemimpin",
+      "romaji": "annai"
+    },
+    {
+      "kanji": "奪う",
+      "hiragana": "うばう",
+      "english": "to snatch away",
+      "indonesian": "merebut",
+      "romaji": "ubau"
+    },
+    {
+      "kanji": "馬",
+      "hiragana": "うま",
+      "english": "(1) horse,(2) promoted bishop (shogi)",
+      "indonesian": "(1) kuda,(2) uskup yang dipromosikan (shogi)",
+      "romaji": "uma"
+    },
+    {
+      "kanji": "うまい",
+      "hiragana": "うまい",
+      "english": "delicious",
+      "indonesian": "lezat",
+      "romaji": "umai"
+    },
+    {
+      "kanji": "生まれ",
+      "hiragana": "うまれ",
+      "english": "birth,birth-place",
+      "indonesian": "kelahiran,tempat lahir",
+      "romaji": "umare"
+    },
+    {
+      "kanji": "梅",
+      "hiragana": "うめ",
+      "english": "plum,plum-tree,lowest (of a three-tier ranking system)",
+      "indonesian": "plum,pohon plum,terendah (dari sistem peringkat tiga tingkat)",
+      "romaji": "ume"
+    },
+    {
+      "kanji": "裏切る",
+      "hiragana": "うらぎる",
+      "english": "to betray,to turn traitor to,to double-cross",
+      "indonesian": "mengkhianati,membelot,mendua",
+      "romaji": "uragiru"
+    },
+    {
+      "kanji": null,
+      "hiragana": "うるさい",
+      "english": "noisy,loud,fussy",
+      "indonesian": "berisik,keras,rewel",
+      "romaji": "urusai"
+    },
+    {
+      "kanji": "嬉しい",
+      "hiragana": "うれしい",
+      "english": "happy,glad,pleasant",
+      "indonesian": "bahagia,senang,menyenangkan",
+      "romaji": "ureshii"
+    },
+    {
+      "kanji": "売れる",
+      "hiragana": "うれる",
+      "english": "to be sold",
+      "indonesian": "terjual",
+      "romaji": "ureru"
+    },
+    {
+      "kanji": "噂",
+      "hiragana": "うわさ",
+      "english": "rumour,report,gossip,common talk",
+      "indonesian": "kabar,laporan,gosip,obrolan umum",
+      "romaji": "uwasa"
+    },
+    {
+      "kanji": "うん (感)",
+      "hiragana": "うん",
+      "english": "fortune,luck",
+      "indonesian": "nasib,keberuntungan",
+      "romaji": "un"
+    },
+    {
+      "kanji": "運",
+      "hiragana": "うん",
+      "english": "fortune,luck",
+      "indonesian": "nasib,keberuntungan",
+      "romaji": "un"
+    },
+    {
+      "kanji": "運転",
+      "hiragana": "うんてん",
+      "english": "operation,motion,driving",
+      "indonesian": "operasi,gerakan,mengemudi",
+      "romaji": "unten"
+    },
+    {
+      "kanji": "運動",
+      "hiragana": "うんどう",
+      "english": "motion,exercise",
+      "indonesian": "gerakan,olahraga",
+      "romaji": "undou"
+    },
+    {
+      "kanji": "柄",
+      "hiragana": "え",
+      "english": "handle,grip",
+      "indonesian": "pegangan,genggaman",
+      "romaji": "e"
+    },
+    {
+      "kanji": "永遠",
+      "hiragana": "えいえん",
+      "english": "eternity,perpetuity,immortality,permanence",
+      "indonesian": "keabadian,kekekalan,kekal,kepastian",
+      "romaji": "eien"
+    },
+    {
+      "kanji": "永久",
+      "hiragana": "えいきゅう",
+      "english": "eternity,perpetuity,immortality",
+      "indonesian": "keabadian,kekekalan,kekal",
+      "romaji": "eikyuu"
+    },
+    {
+      "kanji": "影響",
+      "hiragana": "えいきょう",
+      "english": "influence,effect",
+      "indonesian": "pengaruh,efek",
+      "romaji": "eikyou"
+    },
+    {
+      "kanji": "営業",
+      "hiragana": "えいぎょう",
+      "english": "business,trade,management",
+      "indonesian": "bisnis,perdagangan,manajemen",
+      "romaji": "eigyou"
+    },
+    {
+      "kanji": "衛星",
+      "hiragana": "えいせい",
+      "english": "satellite",
+      "indonesian": "satelit",
+      "romaji": "eisei"
+    },
+    {
+      "kanji": "加減",
+      "hiragana": "かげん",
+      "english": "addition and subtraction,allowance for",
+      "indonesian": "penambahan dan pengurangan,alokasi untuk",
+      "romaji": "kagen"
+    },
+    {
+      "kanji": "過去",
+      "hiragana": "かこ",
+      "english": "the past,bygone days,the previous",
+      "indonesian": "masa lalu,hari-hari yang telah berlalu,yang sebelumnya",
+      "romaji": "kako"
+    },
+    {
+      "kanji": "籠",
+      "hiragana": "かご",
+      "english": "basket,cage",
+      "indonesian": "keranjang,kandang",
+      "romaji": "kago"
+    },
+    {
+      "kanji": "囲む",
+      "hiragana": "かこむ",
+      "english": "to surround,to encircle",
+      "indonesian": "mengelilingi,menghimpun",
+      "romaji": "kakomu"
+    },
+    {
+      "kanji": "火災",
+      "hiragana": "かさい",
+      "english": "conflagration,fire",
+      "indonesian": "kebakaran,api",
+      "romaji": "kasai"
+    },
+    {
+      "kanji": "貸し",
+      "hiragana": "かし",
+      "english": "loan,lending",
+      "indonesian": "pinjaman,peminjaman",
+      "romaji": "kashi"
+    },
+    {
+      "kanji": "菓子",
+      "hiragana": "かし",
+      "english": "pastry",
+      "indonesian": "kue",
+      "romaji": "kashi"
+    },
+    {
+      "kanji": "家事",
+      "hiragana": "かじ",
+      "english": "housework,domestic chores",
+      "indonesian": "pekerjaan rumah,tugas domestik",
+      "romaji": "kajI"
+    },
+    {
+      "kanji": "賢い",
+      "hiragana": "かしこい",
+      "english": "wise,clever,smart",
+      "indonesian": "bijaksana,pintar,cerdas",
+      "romaji": "kashikoi"
+    },
+    {
+      "kanji": "歌手",
+      "hiragana": "かしゅ",
+      "english": "singer",
+      "indonesian": "penyanyi",
+      "romaji": "kashu"
+    },
+    {
+      "kanji": "数",
+      "hiragana": "かず",
+      "english": "number,figure",
+      "indonesian": "angka,nomor",
+      "romaji": "kazu"
+    },
+    {
+      "kanji": "稼ぐ",
+      "hiragana": "かせぐ",
+      "english": "to earn income,to labor",
+      "indonesian": "mendapatkan penghasilan,bekerja",
+      "romaji": "kasegu"
+    },
+    {
+      "kanji": "数える",
+      "hiragana": "かぞえる",
+      "english": "to count",
+      "indonesian": "menghitung",
+      "romaji": "kazoeru"
+    },
+    {
+      "kanji": "型",
+      "hiragana": "かた",
+      "english": "mold,model,style,shape,data-type",
+      "indonesian": "cetakan,model,gaya,bentuk,jenis data",
+      "romaji": "kata"
+    },
+    {
+      "kanji": "肩",
+      "hiragana": "かた",
+      "english": "shoulder",
+      "indonesian": "bahu",
+      "romaji": "kata"
+    },
+    {
+      "kanji": "硬い",
+      "hiragana": "かたい",
+      "english": "solid,hard (esp. metal, stone),unpolished writing",
+      "indonesian": "padat,keras (terutama logam,batu),tulisan yang belum dipoles",
+      "romaji": "katai"
+    },
+    {
+      "kanji": "方々",
+      "hiragana": "かたがた",
+      "english": "persons,this and that,here and there,everywhere",
+      "indonesian": "orang-orang,ini dan itu,di sini dan di sana,di mana-mana",
+      "romaji": "katakata"
+    },
+    {
+      "kanji": "刀",
+      "hiragana": "かたな",
+      "english": "sword,saber,knife,engraving tool",
+      "indonesian": "pedang,saber,pisau,alat ukir",
+      "romaji": "katan"
+    },
+    {
+      "kanji": "語る",
+      "hiragana": "かたる",
+      "english": "to talk,to tell,to recite",
+      "indonesian": "berbicara,menceritakan,membacakan",
+      "romaji": "kataru"
+    },
+    {
+      "kanji": "勝ち",
+      "hiragana": "かち",
+      "english": "win,victory",
+      "indonesian": "menang,kemenangan",
+      "romaji": "kachi"
+    },
+    {
+      "kanji": "髪の毛",
+      "hiragana": "かみのけ",
+      "english": "hair (head)",
+      "indonesian": "rambut (kepala)",
+      "romaji": "kaminoke"
+    },
+    {
+      "kanji": "科目",
+      "hiragana": "かもく",
+      "english": "(school) subject,curriculum,course",
+      "indonesian": "(mata pelajaran) subjek,kurikulum,kursus",
+      "romaji": "kamoku"
+    },
+    {
+      "kanji": null,
+      "hiragana": "かもしれない",
+      "english": "may,might,perhaps,may be,possibly",
+      "indonesian": "mungkin,barangkali,kemungkinan",
+      "romaji": "kamoshirenai"
+    },
+    {
+      "kanji": "火曜",
+      "hiragana": "かよう",
+      "english": "(abbr) Tuesday",
+      "indonesian": "(singkatan) Selasa",
+      "romaji": "kayou"
+    },
+    {
+      "kanji": "空",
+      "hiragana": "から",
+      "english": "sky",
+      "indonesian": "langit",
+      "romaji": "kara"
+    },
+    {
+      "kanji": "柄",
+      "hiragana": "がら",
+      "english": "hilt (of a sword),haft (of a dagger),handgrip",
+      "indonesian": "gagang (pedang),pegangan (belati),pegangan tangan",
+      "romaji": "gara"
+    },
+    {
+      "kanji": "刈る",
+      "hiragana": "かる",
+      "english": "to cut (hair),to mow (grass),to harvest",
+      "indonesian": "memotong (rambut),memotong (rumput),memanen",
+      "romaji": "karu"
+    },
+    {
+      "kanji": "彼等",
+      "hiragana": "かれら",
+      "english": "they (usually male)",
+      "indonesian": "mereka (biasanya laki-laki)",
+      "romaji": "karera"
+    },
+    {
+      "kanji": "川",
+      "hiragana": "かわ",
+      "english": "river",
+      "indonesian": "sungai",
+      "romaji": "kawa"
+    },
+    {
+      "kanji": "河",
+      "hiragana": "かわ",
+      "english": "river,stream",
+      "indonesian": "sungai,aliran",
+      "romaji": "kawa"
+    },
+    {
+      "kanji": "皮",
+      "hiragana": "かわ",
+      "english": "skin,hide,leather,fur,pelt,bark,shell",
+      "indonesian": "kulit,penutup,kulit,buluh,kerang",
+      "romaji": "kawa"
+    },
+    {
+      "kanji": "革",
+      "hiragana": "かわ",
+      "english": "leather",
+      "indonesian": "kulit",
+      "romaji": "kawa"
+    },
+    {
+      "kanji": null,
+      "hiragana": "かわいそう",
+      "english": "poor,pitiable,pathetic",
+      "indonesian": "miskin,menyedihkan,patetik",
+      "romaji": "kawaisou"
+    },
+    {
+      "kanji": null,
+      "hiragana": "かわいらしい",
+      "english": "lovely,sweet",
+      "indonesian": "manis,indah",
+      "romaji": "kawairashii"
+    },
+    {
+      "kanji": "缶",
+      "hiragana": "かん",
+      "english": "can,tin",
+      "indonesian": "kaleng,tin",
+      "romaji": "kan"
+    },
+    {
+      "kanji": "勘",
+      "hiragana": "かん",
+      "english": "perception,intuition,the sixth sense",
+      "indonesian": "persepsi,intuisi,indera keenam",
+      "romaji": "kan"
+    },
+    {
+      "kanji": "考え",
+      "hiragana": "かんがえ",
+      "english": "thinking,thought,ideas,intention",
+      "indonesian": "pemikiran,pikiran,ide,niat",
+      "romaji": "kangae"
+    },
+    {
+      "kanji": "感覚",
+      "hiragana": "かんかく",
+      "english": "sense,sensation",
+      "indonesian": "indera,sensasi",
+      "romaji": "kankaku"
+    },
+    {
+      "kanji": "観客",
+      "hiragana": "かんきゃく",
+      "english": "audience,spectator(s)",
+      "indonesian": "audiens,pengamat",
+      "romaji": "kankyaku"
+    },
+    {
+      "kanji": "環境",
+      "hiragana": "かんきょう",
+      "english": "environment,circumstance",
+      "indonesian": "lingkungan,keadaan",
+      "romaji": "kankyou"
+    },
+    {
+      "kanji": null,
+      "hiragana": "ぐっすり",
+      "english": "sound asleep,fast asleep",
+      "indonesian": "tidur nyenyak,tidur lelap",
+      "romaji": "gussuri"
+    },
+    {
+      "kanji": "区別",
+      "hiragana": "くべつ",
+      "english": "distinction,differentiation,classification",
+      "indonesian": "perbedaan,diferensiasi,klasifikasi",
+      "romaji": "kubetsu"
+    },
+    {
+      "kanji": "組",
+      "hiragana": "くみ",
+      "english": "class,group,team,set",
+      "indonesian": "kelas,grup,tim,set",
+      "romaji": "kumi"
+    },
+    {
+      "kanji": "組合",
+      "hiragana": "くみあい",
+      "english": "association,union",
+      "indonesian": "asosiasi,serikat",
+      "romaji": "kumiai"
+    },
+    {
+      "kanji": "組む",
+      "hiragana": "くむ",
+      "english": "to put together",
+      "indonesian": "menggabungkan",
+      "romaji": "kumu"
+    },
+    {
+      "kanji": "曇",
+      "hiragana": "くもり",
+      "english": "cloudiness,cloudy weather,shadow",
+      "indonesian": "keburaman,cuaca mendung,bayangan",
+      "romaji": "kumori"
+    },
+    {
+      "kanji": "位",
+      "hiragana": "くらい",
+      "english": "grade,rank,about",
+      "indonesian": "tingkat,pangkat,sekitar",
+      "romaji": "kurai"
+    },
+    {
+      "kanji": "暮らし",
+      "hiragana": "くらし",
+      "english": "living,livelihood,subsistence,circumstances",
+      "indonesian": "kehidupan,nafkah,subsistensi,kondisi",
+      "romaji": "kurashi"
+    },
+    {
+      "kanji": null,
+      "hiragana": "クラシック",
+      "english": "classic(s)",
+      "indonesian": "klasik",
+      "romaji": "kurashikku"
+    },
+    {
+      "kanji": "暮らす",
+      "hiragana": "くらす",
+      "english": "to live,to get along",
+      "indonesian": "hidup,bergaul",
+      "romaji": "kurasu"
+    },
+    {
+      "kanji": null,
+      "hiragana": "グラス",
+      "english": "(1) glass,(2) grass",
+      "indonesian": "gelas,rumput",
+      "romaji": "gurasu"
+    },
+    {
+      "kanji": null,
+      "hiragana": "グランド",
+      "english": "gland,grand,(electrical) ground",
+      "indonesian": "kelenjar,megah,ground (listrik)",
+      "romaji": "gurando"
+    },
+    {
+      "kanji": null,
+      "hiragana": "クリーム",
+      "english": "cream",
+      "indonesian": "krim",
+      "romaji": "kurīmu"
+    },
+    {
+      "kanji": "繰り返す",
+      "hiragana": "くりかえす",
+      "english": "to repeat,to do something over again",
+      "indonesian": "mengulang,mengerjakan sesuatu lagi",
+      "romaji": "kurikaesu"
+    },
+    {
+      "kanji": null,
+      "hiragana": "クリスマス",
+      "english": "Christmas",
+      "indonesian": "Natal",
+      "romaji": "kurisumasu"
+    },
+    {
+      "kanji": "狂う",
+      "hiragana": "くるう",
+      "english": "to go mad,to get out of order",
+      "indonesian": "menjadi gila,keluar dari urutan",
+      "romaji": "kuruu"
+    },
+    {
+      "kanji": null,
+      "hiragana": "グループ",
+      "english": "group",
+      "indonesian": "grup",
+      "romaji": "gurūpu"
+    },
+    {
+      "kanji": "苦しい",
+      "hiragana": "くるしい",
+      "english": "painful,difficult",
+      "indonesian": "menyakitkan,sulit",
+      "romaji": "kurushii"
+    },
+    {
+      "kanji": "苦しむ",
+      "hiragana": "くるしむ",
+      "english": "to suffer,to groan,to be worried",
+      "indonesian": "menderita,merintih,khawatir",
+      "romaji": "kurushimu"
+    },
+    {
+      "kanji": "暮れ",
+      "hiragana": "くれ",
+      "english": "year end,sunset,nightfall,end",
+      "indonesian": "akhir tahun,sunset,sore,hujan",
+      "romaji": "kure"
+    },
+    {
+      "kanji": "苦労",
+      "hiragana": "くろう",
+      "english": "troubles,hardships",
+      "indonesian": "masalah,penderitaan",
+      "romaji": "kurou"
+    },
+    {
+      "kanji": "加える",
+      "hiragana": "くわえる",
+      "english": "to append,to sum up,to add (up)",
+      "indonesian": "menambahkan,menggabungkan,menghitung (tambahan)",
+      "romaji": "kuwaeru"
+    },
+    {
+      "kanji": "詳しい",
+      "hiragana": "くわしい",
+      "english": "knowing very well,detailed,full,accurate",
+      "indonesian": "mengetahui dengan sangat baik,detail,penuh,akurat",
+      "romaji": "kuwashii"
+    },
+    {
+      "kanji": "加わる",
+      "hiragana": "くわわる",
+      "english": "to join in,to accede to,to increase,to gain in (influence)",
+      "indonesian": "bergabung,menyetujui,meningkat,menambah (pengaruh)",
+      "romaji": "kuwawaru"
+    },
+    {
+      "kanji": "訓",
+      "hiragana": "くん",
+      "english": "native Japanese reading of a Chinese character",
+      "indonesian": "bacaan asli Jepang dari karakter Cina",
+      "romaji": "kun"
+    },
+    {
+      "kanji": "軍",
+      "hiragana": "ぐん",
+      "english": "army,force,troops",
+      "indonesian": "tentara,kuat,angkatan bersenjata",
+      "romaji": "gun"
+    },
+    {
+      "kanji": "軍隊",
+      "hiragana": "ぐんたい",
+      "english": "army,troops",
+      "indonesian": "tentara,angkatan bersenjata",
+      "romaji": "guntai"
+    },
+    {
+      "kanji": "訓練",
+      "hiragana": "くんれん",
+      "english": "practice,training",
+      "indonesian": "latihan,pelatihan",
+      "romaji": "kunren"
+    },
+    {
+      "kanji": "下",
+      "hiragana": "げ",
+      "english": "under,below,beneath",
+      "indonesian": "di bawah,di bawah,di bawah",
+      "romaji": "ge"
+    },
+    {
+      "kanji": "計",
+      "hiragana": "けい",
+      "english": "plan",
+      "indonesian": "rencana",
+      "romaji": "kei"
+    },
+    {
+      "kanji": "敬意",
+      "hiragana": "けいい",
+      "english": "respect,honour",
+      "indonesian": "penghormatan,hormat",
+      "romaji": "keii"
+    },
+    {
+      "kanji": "経営",
+      "hiragana": "けいえい",
+      "english": "management,administration",
+      "indonesian": "manajemen,administrasi",
+      "romaji": "keiei"
+    },
+    {
+      "kanji": "計画",
+      "hiragana": "けいかく",
+      "english": "plan,project,schedule,scheme,program",
+      "indonesian": "rencana,proyek,jadwal,skema,program",
+      "romaji": "keikaku"
+    },
+    {
+      "kanji": "景気",
+      "hiragana": "けいき",
+      "english": "condition,state,business (condition)",
+      "indonesian": "kondisi,keadaan,keadaan bisnis",
+      "romaji": "keiki"
+    },
+    {
+      "kanji": "経験",
+      "hiragana": "けいけん",
+      "english": "experience",
+      "indonesian": "pengalaman",
+      "romaji": "keiken"
+    },
+    {
+      "kanji": "傾向",
+      "hiragana": "けいこう",
+      "english": "tendency,trend,inclination",
+      "indonesian": "kecenderungan,trendi,kemauan",
+      "romaji": "keikou"
+    },
+    {
+      "kanji": "警告",
+      "hiragana": "けいこく",
+      "english": "warning,advice",
+      "indonesian": "peringatan,nasihat",
+      "romaji": "keikoku"
+    },
+    {
+      "kanji": "計算",
+      "hiragana": "けいさん",
+      "english": "calculation,reckoning",
+      "indonesian": "perhitungan,rekayasa",
+      "romaji": "keisan"
+    },
+    {
+      "kanji": "掲示",
+      "hiragana": "けいじ",
+      "english": "notice,bulletin",
+      "indonesian": "pengumuman,bulettin",
+      "romaji": "keiji"
+    },
+    {
+      "kanji": "刑事",
+      "hiragana": "けいじ",
+      "english": "criminal case,(police) detective",
+      "indonesian": "kasus kriminal,didik (polisi)",
+      "romaji": "keiji"
+    },
+    {
+      "kanji": "広告",
+      "hiragana": "こうこく",
+      "english": "advertisement",
+      "indonesian": "iklan",
+      "romaji": "koukoku"
+    },
+    {
+      "kanji": "交際",
+      "hiragana": "こうさい",
+      "english": "company, friendship,association,society,acquaintance",
+      "indonesian": "pertemanan,asosiasi,society,kenalan",
+      "romaji": "kousai"
+    },
+    {
+      "kanji": "後者",
+      "hiragana": "こうしゃ",
+      "english": "the latter",
+      "indonesian": "yang terakhir",
+      "romaji": "kousha"
+    },
+    {
+      "kanji": "工場",
+      "hiragana": "こうば",
+      "english": "factory, plant, mill, workshop",
+      "indonesian": "pabrik,plant,gergaji,workshop",
+      "romaji": "kouba"
+    },
+    {
+      "kanji": "構成",
+      "hiragana": "こうせい",
+      "english": "organization, composition",
+      "indonesian": "organisasi,komposisi",
+      "romaji": "kousei"
+    },
+    {
+      "kanji": "高速",
+      "hiragana": "こうそく",
+      "english": "high speed,high gear",
+      "indonesian": "kecepatan tinggi,gigi tinggi",
+      "romaji": "kousoku"
+    },
+    {
+      "kanji": "行動",
+      "hiragana": "こうどう",
+      "english": "action, conduct,behaviour,mobilization",
+      "indonesian": "tindakan,perilaku,perilaku,mobilisasi",
+      "romaji": "koudou"
+    },
+    {
+      "kanji": "強盗",
+      "hiragana": "ごうとう",
+      "english": "robbery, burglary",
+      "indonesian": "perampokan,pencurian",
+      "romaji": "goutou"
+    },
+    {
+      "kanji": "幸福",
+      "hiragana": "こうふく",
+      "english": "happiness, blessedness",
+      "indonesian": "kebahagiaan,kebahagiaan",
+      "romaji": "koufuku"
+    },
+    {
+      "kanji": "公平",
+      "hiragana": "こうへい",
+      "english": "fairness, impartial, justice",
+      "indonesian": "keadilan,imparsial,keadilan",
+      "romaji": "kouhei"
+    },
+    {
+      "kanji": "候補",
+      "hiragana": "こうほ",
+      "english": "candidacy",
+      "indonesian": "kandidasi",
+      "romaji": "kouho"
+    },
+    {
+      "kanji": "考慮",
+      "hiragana": "こうりょ",
+      "english": "consideration,taking into account",
+      "indonesian": "pertimbangan,mengambil dalam akun",
+      "romaji": "kouryo"
+    },
+    {
+      "kanji": "越える",
+      "hiragana": "こえる",
+      "english": "to exceed, to cross over, to cross",
+      "indonesian": "melebihi,menghentikan,menghentikan",
+      "romaji": "koeru"
+    },
+    {
+      "kanji": null,
+      "hiragana": "コーチ",
+      "english": "coach",
+      "indonesian": "pelatih",
+      "romaji": "kōchi"
+    },
+    {
+      "kanji": null,
+      "hiragana": "コード",
+      "english": "code,cord,chord",
+      "indonesian": "kode,kabel,akord",
+      "romaji": "kōdo,kōdo,kōdo"
+    },
+    {
+      "kanji": "氷",
+      "hiragana": "こおり",
+      "english": "ice, hail",
+      "indonesian": "es,hujan es",
+      "romaji": "kōri"
+    },
+    {
+      "kanji": "凍る",
+      "hiragana": "こおる",
+      "english": "to freeze, to be frozen over,to congeal",
+      "indonesian": "membeku,terbeku,memadat",
+      "romaji": "kōru"
+    },
+    {
+      "kanji": null,
+      "hiragana": "ゴール",
+      "english": "goal",
+      "indonesian": "tujuan",
+      "romaji": "gōru"
+    },
+    {
+      "kanji": "誤解",
+      "hiragana": "ごかい",
+      "english": "misunderstanding",
+      "indonesian": "kesalahpahaman",
+      "romaji": "gokai"
+    },
+    {
+      "kanji": "語学",
+      "hiragana": "ごがく",
+      "english": "language study",
+      "indonesian": "studi bahasa",
+      "romaji": "gogaku"
+    },
+    {
+      "kanji": "盛り",
+      "hiragana": "さかり",
+      "english": "helping,serving",
+      "indonesian": "porsi,saji",
+      "romaji": "sakari"
+    },
+    {
+      "kanji": "作業",
+      "hiragana": "さぎょう",
+      "english": "work,operation,manufacturing,fatigue duty",
+      "indonesian": "pekerjaan,operasi,produksi,tugas kelelahan",
+      "romaji": "sagyō"
+    },
+    {
+      "kanji": "昨",
+      "hiragana": "さく",
+      "english": "last (year),yesterday",
+      "indonesian": "tahun lalu,kemarin",
+      "romaji": "saku"
+    },
+    {
+      "kanji": "作品",
+      "hiragana": "さくひん",
+      "english": "work,opus,performance,production",
+      "indonesian": "karya,opus,pertunjukan,produksi",
+      "romaji": "sakuhin"
+    },
+    {
+      "kanji": "作物",
+      "hiragana": "さくもつ",
+      "english": "produce (e.g. agricultural),crops",
+      "indonesian": "hasil pertanian,hasil panen",
+      "romaji": "sakumotsu"
+    },
+    {
+      "kanji": "桜",
+      "hiragana": "さくら",
+      "english": "cherry blossom,cherry tree",
+      "indonesian": "bunga sakura,pohon sakura",
+      "romaji": "sakura"
+    },
+    {
+      "kanji": "酒",
+      "hiragana": "さけ",
+      "english": "alcohol,sake",
+      "indonesian": "alkohol,sake",
+      "romaji": "sake"
+    },
+    {
+      "kanji": "叫ぶ",
+      "hiragana": "さけぶ",
+      "english": "to shout,to cry",
+      "indonesian": "berteriak,menangis",
+      "romaji": "sakebu"
+    },
+    {
+      "kanji": "避ける",
+      "hiragana": "さける",
+      "english": "(1) to avoid (physical contact ),(2) to ward off,to avert",
+      "indonesian": "menghindari,(1) menghindari (kontak fisik),(2) menangkis,mengalihkan",
+      "romaji": "sakeru"
+    },
+    {
+      "kanji": "支える",
+      "hiragana": "ささえる",
+      "english": "to be blocked,to choke,to be obstructed",
+      "indonesian": "terhalang,menghimpit,terganggu",
+      "romaji": "sasaeru"
+    },
+    {
+      "kanji": "指す",
+      "hiragana": "さす",
+      "english": "to point,to put up umbrella,to play",
+      "indonesian": "menunjuk,menyebarkan payung,bermain",
+      "romaji": "sasu"
+    },
+    {
+      "kanji": "座席",
+      "hiragana": "ざせき",
+      "english": "seat",
+      "indonesian": "kursi",
+      "romaji": "zaseki"
+    },
+    {
+      "kanji": "誘う",
+      "hiragana": "さそう",
+      "english": "(1) to invite,to ask,(2) to tempt,to lure,to induce",
+      "indonesian": "mengundang,meminta,(2) menggoda,membujuk,mendorong",
+      "romaji": "sason"
+    },
+    {
+      "kanji": "札",
+      "hiragana": "さつ",
+      "english": "(1) token,label,(2) ticket,(3) charm",
+      "indonesian": "(1) token,stiker,(2) tiket,(3) jimat",
+      "romaji": "satsu"
+    },
+    {
+      "kanji": "作家",
+      "hiragana": "さっか",
+      "english": "author,writer,novelist,artist",
+      "indonesian": "pengarang,penulis,novelis,seniman",
+      "romaji": "sakka"
+    },
+    {
+      "kanji": "作曲",
+      "hiragana": "さっきょく",
+      "english": "composition,setting (of music)",
+      "indonesian": "komposisi,pengaturan (musik)",
+      "romaji": "sakkyoku"
+    },
+    {
+      "kanji": null,
+      "hiragana": "ざっと",
+      "english": "roughly,in round numbers",
+      "indonesian": "kasar,dalam angka bulat",
+      "romaji": "zatto"
+    },
+    {
+      "kanji": null,
+      "hiragana": "さっぱり",
+      "english": "feeling refreshed,feeling relieved,neat,trimmed",
+      "indonesian": "merasa segar,merasa lega,rapi,terawat",
+      "romaji": "sappari"
+    },
+    {
+      "kanji": null,
+      "hiragana": "さて",
+      "english": "well,now,then",
+      "indonesian": "baik,sekarang,maka",
+      "romaji": "sate"
+    },
+    {
+      "kanji": "砂漠",
+      "hiragana": "さばく",
+      "english": "desert",
+      "indonesian": "gurun",
+      "romaji": "sabaku"
+    },
+    {
+      "kanji": "自身",
+      "hiragana": "じしん",
+      "english": "by oneself,personally",
+      "indonesian": "sendiri,secara pribadi",
+      "romaji": "jishin"
+    },
+    {
+      "kanji": "沈む",
+      "hiragana": "しずむ",
+      "english": "to sink,to feel depressed",
+      "indonesian": "menenggelamkan,merasa tertekan",
+      "romaji": "shizumu"
+    },
+    {
+      "kanji": "自然",
+      "hiragana": "しぜん",
+      "english": "nature,spontaneous",
+      "indonesian": "alam,spontan",
+      "romaji": "shizen"
+    },
+    {
+      "kanji": "思想",
+      "hiragana": "しそう",
+      "english": "thought,idea",
+      "indonesian": "pemikiran,ide",
+      "romaji": "shisō"
+    },
+    {
+      "kanji": "舌",
+      "hiragana": "した",
+      "english": "tongue",
+      "indonesian": "lidah",
+      "romaji": "shita"
+    },
+    {
+      "kanji": "次第",
+      "hiragana": "しだい",
+      "english": "(1) order,precedence,(2) circumstances,(3) immediate(ly)",
+      "indonesian": "(1) urutan,precedence,(2) keadaan,(3) segera",
+      "romaji": "shidai"
+    },
+    {
+      "kanji": "事態",
+      "hiragana": "じたい",
+      "english": "situation,present state of affairs",
+      "indonesian": "situasi,keadaan saat ini",
+      "romaji": "jitai"
+    },
+    {
+      "kanji": "従う",
+      "hiragana": "したがう",
+      "english": "to abide (by the rules),to obey,to follow,to accompany",
+      "indonesian": "mematuhi (aturan),taat,ikut,mendampingi",
+      "romaji": "shitagau"
+    },
+    {
+      "kanji": null,
+      "hiragana": "したがって",
+      "english": "therefore,consequently,in accordance with",
+      "indonesian": "oleh karena itu,akibatnya,sesuai dengan",
+      "romaji": "shitagatte"
+    },
+    {
+      "kanji": "支度",
+      "hiragana": "したく",
+      "english": "preparation",
+      "indonesian": "persiapan",
+      "romaji": "shitaku"
+    },
+    {
+      "kanji": "親しい",
+      "hiragana": "したしい",
+      "english": "intimate,close (e.g. friend)",
+      "indonesian": "akrab,dekat (misalnya teman)",
+      "romaji": "shitashii"
+    },
+    {
+      "kanji": "七",
+      "hiragana": "しち",
+      "english": "seven",
+      "indonesian": "tujuh",
+      "romaji": "shichi"
+    },
+    {
+      "kanji": "質",
+      "hiragana": "しつ",
+      "english": "quality,nature (of person)",
+      "indonesian": "kualitas,sifat (orang)",
+      "romaji": "shitsu"
+    },
+    {
+      "kanji": "失業",
+      "hiragana": "しつぎょう",
+      "english": "unemployment",
+      "indonesian": "pengangguran",
+      "romaji": "shitsugyō"
+    },
+    {
+      "kanji": "実験",
+      "hiragana": "じっけん",
+      "english": "experiment",
+      "indonesian": "eksperimen",
+      "romaji": "jikken"
+    },
+    {
+      "kanji": "実現",
+      "hiragana": "じつげん",
+      "english": "implementation,materialization,realization",
+      "indonesian": "implementasi,materialisasi,realization",
+      "romaji": "jitsugen"
+    },
+    {
+      "kanji": "実行",
+      "hiragana": "じっこう",
+      "english": "practice,performance,execution (e.g. program),realization",
+      "indonesian": "praktik,pertunjukan,eksekusi (misalnya program),realization",
+      "romaji": "jikkō"
+    },
+    {
+      "kanji": "実際",
+      "hiragana": "じっさい",
+      "english": "practical,actual condition,status quo",
+      "indonesian": "praktis,kondisi aktual,status quo",
+      "romaji": "jissai"
+    },
+    {
+      "kanji": "実施",
+      "hiragana": "じっし",
+      "english": "enforcement,enact,put into practice,carry out,operation",
+      "indonesian": "penegakan,membuat undang-undang,menerapkan,mengimplementasikan,operasi",
+      "romaji": "jisshi"
+    },
+    {
+      "kanji": "自慢",
+      "hiragana": "じまん",
+      "english": "pride,boast",
+      "indonesian": "kebanggaan,berbangga",
+      "romaji": "jiman"
+    },
+    {
+      "kanji": "事務",
+      "hiragana": "じむ",
+      "english": "business,office work",
+      "indonesian": "bisnis,pekerjaan kantor",
+      "romaji": "jimu"
+    },
+    {
+      "kanji": "示す",
+      "hiragana": "しめす",
+      "english": "to denote,to show,to point out,to indicate",
+      "indonesian": "menunjukkan,menandakan,menunjukkan,mengindikasikan",
+      "romaji": "shimesu"
+    },
+    {
+      "kanji": "占める",
+      "hiragana": "しめる",
+      "english": "(1) to comprise,to account for,to make up (of),(2) to hold,to occupy",
+      "indonesian": "(1) mencakup,memperhitungkan,membentuk (dari),(2) memegang,menghuni",
+      "romaji": "shimeru"
+    },
+    {
+      "kanji": "下",
+      "hiragana": "しも",
+      "english": "under,below,beneath",
+      "indonesian": "di bawah,di bawah,di bawah",
+      "romaji": "shimo"
+    },
+    {
+      "kanji": "霜",
+      "hiragana": "しも",
+      "english": "frost",
+      "indonesian": "embun beku",
+      "romaji": "shimo"
+    },
+    {
+      "kanji": null,
+      "hiragana": "じゃあ",
+      "english": "well,well then",
+      "indonesian": "baiklah,baiklah kalau begitu",
+      "romaji": "jaa"
+    },
+    {
+      "kanji": "借金",
+      "hiragana": "しゃっきん",
+      "english": "debt,loan,liabilities",
+      "indonesian": "utang,pinjaman,kewajiban",
+      "romaji": "shakkin"
+    },
+    {
+      "kanji": null,
+      "hiragana": "しゃべる",
+      "english": "to talk,to chat,to chatter",
+      "indonesian": "berbicara,bercakap,cerewet",
+      "romaji": "shaberu"
+    },
+    {
+      "kanji": "邪魔",
+      "hiragana": "じゃま",
+      "english": "hindrance,intrusion",
+      "indonesian": "hambatan,gangguan",
+      "romaji": "jama"
+    },
+    {
+      "kanji": "週",
+      "hiragana": "しゅう",
+      "english": "week",
+      "indonesian": "minggu",
+      "romaji": "shuu"
+    },
+    {
+      "kanji": "州",
+      "hiragana": "しゅう",
+      "english": "sandbank",
+      "indonesian": "tanah pasir",
+      "romaji": "shuu"
+    },
+    {
+      "kanji": "十",
+      "hiragana": "じゅう",
+      "english": "10,ten",
+      "indonesian": "10,sepuluh",
+      "romaji": "juu"
+    },
+    {
+      "kanji": "銃",
+      "hiragana": "じゅう",
+      "english": "gun",
+      "indonesian": "senjata api",
+      "romaji": "juu"
+    },
+    {
+      "kanji": "周囲",
+      "hiragana": "しゅうい",
+      "english": "surroundings,circumference,environs",
+      "indonesian": "lingkungan,keliling,daerah sekitar",
+      "romaji": "shuu-i"
+    },
+    {
+      "kanji": "収穫",
+      "hiragana": "しゅうかく",
+      "english": "harvest,crop,ingathering",
+      "indonesian": "panen,hasil pertanian,pengumpulan",
+      "romaji": "shuu-kaku"
+    },
+    {
+      "kanji": "週間",
+      "hiragana": "しゅうかん",
+      "english": "week,weekly",
+      "indonesian": "minggu,mingguan",
+      "romaji": "shuu-kan"
+    },
+    {
+      "kanji": "宗教",
+      "hiragana": "しゅうきょう",
+      "english": "religion",
+      "indonesian": "agama",
+      "romaji": "shuu-kyou"
+    },
+    {
+      "kanji": "重視",
+      "hiragana": "じゅうし",
+      "english": "importance,stress,serious consideration",
+      "indonesian": "pentingnya,penekanan,pertimbangan serius",
+      "romaji": "juushi"
+    },
+    {
+      "kanji": "就職",
+      "hiragana": "しゅうしょく",
+      "english": "finding employment,inauguration",
+      "indonesian": "mencari pekerjaan,pelantikan",
+      "romaji": "shuu-shoku"
+    },
+    {
+      "kanji": null,
+      "hiragana": "ジュース",
+      "english": "juice,soft drink,deuce",
+      "indonesian": "jus,minuman ringan,dua",
+      "romaji": "juusu"
+    },
+    {
+      "kanji": "修正",
+      "hiragana": "しゅうせい",
+      "english": "amendment,correction,revision,modification",
+      "indonesian": "amandemen,koreksi,revisi,modifikasi",
+      "romaji": "shuu-sei"
+    },
+    {
+      "kanji": "渋滞",
+      "hiragana": "じゅうたい",
+      "english": "congestion (e.g. traffic),delay,stagnation",
+      "indonesian": "kemacetan (misalnya lalu lintas),penundaan,stagnasi",
+      "romaji": "juutai"
+    },
+    {
+      "kanji": "重大",
+      "hiragana": "じゅうだい",
+      "english": "serious,important,grave,weighty",
+      "indonesian": "serius,penting,berat,berat",
+      "romaji": "juudai"
+    },
+    {
+      "kanji": "住宅",
+      "hiragana": "じゅうたく",
+      "english": "resident,housing",
+      "indonesian": "penduduk,perumahan",
+      "romaji": "juutaku"
+    },
+    {
+      "kanji": "集団",
+      "hiragana": "しゅうだん",
+      "english": "group,mass",
+      "indonesian": "kelompok,massa",
+      "romaji": "shuu-dan"
+    },
+    {
+      "kanji": "集中",
+      "hiragana": "しゅうちゅう",
+      "english": "concentration,focusing the mind",
+      "indonesian": "konsentrasi,fokus pikiran",
+      "romaji": "shuu-chuu"
+    },
+    {
+      "kanji": "収入",
+      "hiragana": "しゅうにゅう",
+      "english": "income,receipts,revenue",
+      "indonesian": "pendapatan,pemasukan,revenue",
+      "romaji": "shuu-nyuu"
+    },
+    {
+      "kanji": "住民",
+      "hiragana": "じゅうみん",
+      "english": "citizens,inhabitants,residents,population",
+      "indonesian": "warga negara,penghuni,pemukim,populasi",
+      "romaji": "juumin"
+    },
+    {
+      "kanji": "重要",
+      "hiragana": "じゅうよう",
+      "english": "important,momentous,essential,principal,major",
+      "indonesian": "penting,penting,esensial,utama,besar",
+      "romaji": "juuyou"
+    },
+    {
+      "kanji": "修理",
+      "hiragana": "しゅうり",
+      "english": "repairing,mending",
+      "indonesian": "perbaikan,perbaikan",
+      "romaji": "shuu-ri"
+    },
+    {
+      "kanji": "主義",
+      "hiragana": "しゅぎ",
+      "english": "doctrine,rule,principle",
+      "indonesian": "doktrin,aturan,prinsip",
+      "romaji": "shugi"
+    },
+    {
+      "kanji": "宿泊",
+      "hiragana": "しゅくはく",
+      "english": "lodging",
+      "indonesian": "penginapan",
+      "romaji": "shuku-haku"
+    },
+    {
+      "kanji": "手術",
+      "hiragana": "しゅじゅつ",
+      "english": "surgical operation",
+      "indonesian": "operasi bedah",
+      "romaji": "shuu-jutsu"
+    },
+    {
+      "kanji": "首相",
+      "hiragana": "しゅしょう",
+      "english": "Prime Minister",
+      "indonesian": "Perdana Menteri",
+      "romaji": "shuu-shou"
+    },
+    {
+      "kanji": "手段",
+      "hiragana": "しゅだん",
+      "english": "means,way,measure",
+      "indonesian": "cara,jalan,ukuran",
+      "romaji": "shuu-dan"
+    },
+    {
+      "kanji": "主張",
+      "hiragana": "しゅちょう",
+      "english": "claim,request,insistence,assertion",
+      "indonesian": "klaim,permintaan,penekanan,pernyataan",
+      "romaji": "shuu-chou"
+    },
+    {
+      "kanji": "出身",
+      "hiragana": "しゅっしん",
+      "english": "graduate from,come from",
+      "indonesian": "lulus dari,berasal dari",
+      "romaji": "shuu-sshin"
+    },
+    {
+      "kanji": "出席",
+      "hiragana": "しゅっせき",
+      "english": "attendance,presence",
+      "indonesian": "kehadiran,keberadaan",
+      "romaji": "shuu-sseki"
+    },
+    {
+      "kanji": "出発",
+      "hiragana": "しゅっぱつ",
+      "english": "departure",
+      "indonesian": "keberangkatan",
+      "romaji": "shuu-patsu"
+    },
+    {
+      "kanji": "状況",
+      "hiragana": "じょうきょう",
+      "english": "state of affairs,situation,circumstances",
+      "indonesian": "keadaan, situasi, keadaan, kondisi",
+      "romaji": "jou-kyou"
+    },
+    {
+      "kanji": "条件",
+      "hiragana": "じょうけん",
+      "english": "conditions,terms",
+      "indonesian": "syarat,kondisi",
+      "romaji": "jou-ken"
+    },
+    {
+      "kanji": "正午",
+      "hiragana": "しょうご",
+      "english": "noon,mid-day",
+      "indonesian": "siang, tengah hari",
+      "romaji": "shou-go"
+    },
+    {
+      "kanji": "正直",
+      "hiragana": "しょうじき",
+      "english": "honesty,integrity,frankness",
+      "indonesian": "kejujuran,integritas,keterusterangan",
+      "romaji": "shou-jiki"
+    },
+    {
+      "kanji": "常識",
+      "hiragana": "じょうしき",
+      "english": "common sense",
+      "indonesian": "akal sehat",
+      "romaji": "jou-shiki"
+    },
+    {
+      "kanji": "少女",
+      "hiragana": "しょうじょ",
+      "english": "daughter,young lady,virgin,maiden,little girl",
+      "indonesian": "putri,wanita muda,perawan,maiden,gadis kecil",
+      "romaji": "shou-jyo"
+    },
+    {
+      "kanji": "少々",
+      "hiragana": "しょうしょう",
+      "english": "just a minute,small quantity",
+      "indonesian": "sebentar,kuantitas kecil",
+      "romaji": "shou-shou"
+    },
+    {
+      "kanji": "症状",
+      "hiragana": "しょうじょう",
+      "english": "symptoms,condition",
+      "indonesian": "gejala,kondisi",
+      "romaji": "shou-jou"
+    },
+    {
+      "kanji": "生じる",
+      "hiragana": "しょうじる",
+      "english": "to produce,to yield,to result from,to arise,to be generated",
+      "indonesian": "menghasilkan,memberikan,berasal dari,muncul,dihasilkan",
+      "romaji": "shou-jiru"
+    },
+    {
+      "kanji": "招待",
+      "hiragana": "しょうたい",
+      "english": "invitation",
+      "indonesian": "undangan",
+      "romaji": "shou-tai"
+    },
+    {
+      "kanji": "状態",
+      "hiragana": "じょうたい",
+      "english": "condition,situation,circumstances,state",
+      "indonesian": "kondisi,situasi,keadaan,status",
+      "romaji": "jou-tai"
+    },
+    {
+      "kanji": "上達",
+      "hiragana": "じょうたつ",
+      "english": "improvement,advance,progress",
+      "indonesian": "perbaikan,kemajuan,kemajuan",
+      "romaji": "jou-tatsu"
+    },
+    {
+      "kanji": "冗談",
+      "hiragana": "じょうだん",
+      "english": "jest,joke",
+      "indonesian": "lelucon,guyonan",
+      "romaji": "jou-dan"
+    },
+    {
+      "kanji": "承知",
+      "hiragana": "しょうち",
+      "english": "consent,acceptance,assent,admitting",
+      "indonesian": "persetujuan,penerimaan,kesepakatan,mengakui",
+      "romaji": "shou-chi"
+    },
+    {
+      "kanji": "上等",
+      "hiragana": "じょうとう",
+      "english": "superiority,first class,very good",
+      "indonesian": "superioritas,kualitas pertama,sangat baik",
+      "romaji": "jōtō"
+    },
+    {
+      "kanji": "衝突",
+      "hiragana": "しょうとつ",
+      "english": "collision,conflict",
+      "indonesian": "tabrakan,konflik",
+      "romaji": "shōtotsu"
+    },
+    {
+      "kanji": "商人",
+      "hiragana": "しょうにん",
+      "english": "trader,shopkeeper,merchant",
+      "indonesian": "pedagang,toko,merchant",
+      "romaji": "shōnin"
+    },
+    {
+      "kanji": "承認",
+      "hiragana": "しょうにん",
+      "english": "recognition,acknowledgement,approval,consent,agreement",
+      "indonesian": "pengakuan,pengesahan,persetujuan,konsen,perjanjian",
+      "romaji": "shōnin"
+    },
+    {
+      "kanji": "少年",
+      "hiragana": "しょうねん",
+      "english": "boys,juveniles",
+      "indonesian": "anak laki-laki,remaja",
+      "romaji": "shōnen"
+    },
+    {
+      "kanji": null,
+      "hiragana": "スイッチ",
+      "english": "switch",
+      "indonesian": "saklar",
+      "romaji": "suicchi"
+    },
+    {
+      "kanji": "随分",
+      "hiragana": "ずいぶん",
+      "english": "extremely",
+      "indonesian": "sangat",
+      "romaji": "zuibun"
+    },
+    {
+      "kanji": "睡眠",
+      "hiragana": "すいみん",
+      "english": "sleep",
+      "indonesian": "tidur",
+      "romaji": "suimin"
+    },
+    {
+      "kanji": "数",
+      "hiragana": "すう",
+      "english": "number,figure",
+      "indonesian": "angka,figura",
+      "romaji": "sū"
+    },
+    {
+      "kanji": "数字",
+      "hiragana": "すうじ",
+      "english": "numeral,figure",
+      "indonesian": "numeral,figura",
+      "romaji": "sūji"
+    },
+    {
+      "kanji": null,
+      "hiragana": "スープ",
+      "english": "(Western) soup",
+      "indonesian": "(sup) sup",
+      "romaji": "sūpu"
+    },
+    {
+      "kanji": "末",
+      "hiragana": "すえ",
+      "english": "the end of,powder",
+      "indonesian": "ujung,powder",
+      "romaji": "sue"
+    },
+    {
+      "kanji": "姿",
+      "hiragana": "すがた",
+      "english": "figure,shape,appearance",
+      "indonesian": "figura,bentuk,penampilan",
+      "romaji": "sugata"
+    },
+    {
+      "kanji": null,
+      "hiragana": "スキー",
+      "english": "skiing",
+      "indonesian": "ski",
+      "romaji": "sukī"
+    },
+    {
+      "kanji": "空く",
+      "hiragana": "すく",
+      "english": "(1) to open,to become empty,(2) to be less crowded",
+      "indonesian": "(1) terbuka,membuat kosong,(2) menjadi kurang ramai",
+      "romaji": "suku"
+    },
+    {
+      "kanji": "救う",
+      "hiragana": "すくう",
+      "english": "to rescue from,to help out of",
+      "indonesian": "menyelamatkan,dari,membantu keluar dari",
+      "romaji": "sukuu"
+    },
+    {
+      "kanji": "優れる",
+      "hiragana": "すぐれる",
+      "english": "to surpass,to outstrip,to excel",
+      "indonesian": "melampaui,mengungguli,unggul",
+      "romaji": "sugureru"
+    },
+    {
+      "kanji": null,
+      "hiragana": "スケート",
+      "english": "skate(s),skating",
+      "indonesian": "skate,ski",
+      "romaji": "susumeru"
+    },
+    {
+      "kanji": null,
+      "hiragana": "すごい",
+      "english": "terrible,dreadful,terrific,amazing,great",
+      "indonesian": "mengerikan,mengerikan,hebat,menakjubkan,besar",
+      "romaji": "susumeru"
+    },
+    {
+      "kanji": "少しも",
+      "hiragana": "すこしも",
+      "english": "anything of,not one bit",
+      "indonesian": "apa pun dari,tidak sedikit pun",
+      "romaji": "sutā"
+    },
+    {
+      "kanji": "過ごす",
+      "hiragana": "すごす",
+      "english": "to pass,to spend,to go through,to tide over",
+      "indonesian": "menghabiskan,menghabiskan,menghadapi,mengatasi",
+      "romaji": "sutairu"
+    },
+    {
+      "kanji": "筋",
+      "hiragana": "すじ",
+      "english": "muscle,string,line",
+      "indonesian": "otot,benang,garis",
+      "romaji": "sutando"
+    },
+    {
+      "kanji": "進める",
+      "hiragana": "すすめる",
+      "english": "to advance,to promote,to hasten",
+      "indonesian": "memajukan,mempromosikan,mempercepat",
+      "romaji": "zutsū"
+    },
+    {
+      "kanji": "勧める",
+      "hiragana": "すすめる",
+      "english": "to recommend,to advise,to encourage,to offer (wine)",
+      "indonesian": "merekomendasikan,membimbing,mendorong,membuat tawaran (anggur)",
+      "romaji": "zutto"
+    },
+    {
+      "kanji": null,
+      "hiragana": "スター",
+      "english": "star",
+      "indonesian": "bintang",
+      "romaji": "suteki"
+    },
+    {
+      "kanji": null,
+      "hiragana": "スタイル",
+      "english": "style",
+      "indonesian": "gaya",
+      "romaji": "sudeni"
+    },
+    {
+      "kanji": null,
+      "hiragana": "スタンド",
+      "english": "stand",
+      "indonesian": "stand",
+      "romaji": "sunawachi"
+    },
+    {
+      "kanji": "頭痛",
+      "hiragana": "ずつう",
+      "english": "headache",
+      "indonesian": "sakit kepala",
+      "romaji": "subarashii"
+    },
+    {
+      "kanji": null,
+      "hiragana": "ずっと",
+      "english": "consecutively,throughout,a lot",
+      "indonesian": "secara berturut-turut,sepanjang,banyak",
+      "romaji": "supīchi"
+    },
+    {
+      "kanji": null,
+      "hiragana": "すてき",
+      "english": "lovely,dreamy,beautiful,great",
+      "indonesian": "indah,impian,indah,besar",
+      "romaji": "subete"
+    },
+    {
+      "kanji": "既に",
+      "hiragana": "すでに",
+      "english": "already,too late",
+      "indonesian": "sudah,terlambat",
+      "romaji": "sumaseru"
+    },
+    {
+      "kanji": null,
+      "hiragana": "すなわち",
+      "english": "that is,namely,i.e.",
+      "indonesian": "yaitu,yakni,misalnya",
+      "romaji": "sumi"
+    },
+    {
+      "kanji": "素晴らしい",
+      "hiragana": "すばらしい",
+      "english": "wonderful,splendid,magnificent",
+      "indonesian": "ajaib,megah,luar biasa",
+      "romaji": "sumimasen"
+    },
+    {
+      "kanji": null,
+      "hiragana": "スピーチ",
+      "english": "speech",
+      "indonesian": "pidato",
+      "romaji": "suru"
+    },
+    {
+      "kanji": "全て",
+      "hiragana": "すべて",
+      "english": "all,the whole,entirely,in general,wholly",
+      "indonesian": "semua,seluruhnya,secara keseluruhan,sepenuhnya",
+      "romaji": "suruto"
+    },
+    {
+      "kanji": "済ませる",
+      "hiragana": "すませる",
+      "english": "to be finished",
+      "indonesian": "selesai",
+      "romaji": "surudoi"
+    },
+    {
+      "kanji": "角",
+      "hiragana": "すみ",
+      "english": "horn",
+      "indonesian": "sudut",
+      "romaji": "sei"
+    },
+    {
+      "kanji": "すみません",
+      "hiragana": "すみません",
+      "english": "sorry,excuse me",
+      "indonesian": "maaf,permisi",
+      "romaji": "sei"
+    },
+    {
+      "kanji": "為る",
+      "hiragana": "する",
+      "english": "to change,to be of use,to reach to",
+      "indonesian": "berubah,berguna,mencapai",
+      "romaji": "sei"
+    },
+    {
+      "kanji": null,
+      "hiragana": "すると",
+      "english": "thereupon,hereupon",
+      "indonesian": "setelah itu,di sini",
+      "romaji": "daibubun"
+    },
+    {
+      "kanji": "鋭い",
+      "hiragana": "するどい",
+      "english": "pointed,sharp",
+      "indonesian": "tajam,menusuk",
+      "romaji": "taipuraitā"
+    },
+    {
+      "kanji": "背",
+      "hiragana": "せい",
+      "english": "height,stature",
+      "indonesian": "tinggi,postur",
+      "romaji": "taihen"
+    },
+    {
+      "kanji": "正",
+      "hiragana": "せい",
+      "english": "(logical) true,regular",
+      "indonesian": "benar,(logis) benar,reguler",
+      "romaji": "taiho"
+    },
+    {
+      "kanji": "生",
+      "hiragana": "せい",
+      "english": "(1) draft (beer),(2) raw,unprocessed",
+      "indonesian": "(1) draft (bir),(2) mentah,tak diproses",
+      "romaji": "daiya"
+    },
+    {
+      "kanji": "大部分",
+      "hiragana": "だいぶぶん",
+      "english": "most part,greater part,majority",
+      "indonesian": "bagian terbesar,bagian yang lebih besar,mayoritas",
+      "romaji": "taiyō"
+    },
+    {
+      "kanji": null,
+      "hiragana": "タイプライター",
+      "english": "typewriter",
+      "indonesian": "mesin ketik"
+    },
+    {
+      "kanji": "大変",
+      "hiragana": "たいへん",
+      "english": "awful,dreadful,terrible,very",
+      "indonesian": "mengerikan,mengerikan,sangat"
+    },
+    {
+      "kanji": "逮捕",
+      "hiragana": "たいほ",
+      "english": "arrest,apprehension,capture",
+      "indonesian": "penangkapan,penahanan,penangkapan"
+    },
+    {
+      "kanji": null,
+      "hiragana": "ダイヤ",
+      "english": "(1) dyer,(2) diagram,(3) (railway) schedule,(4) diamond",
+      "indonesian": "(1) pewarna,(2) diagram,(3) jadwal (kereta),(4) berlian"
+    },
+    {
+      "kanji": "太陽",
+      "hiragana": "たいよう",
+      "english": "sun,solar",
+      "indonesian": "matahari,sinar matahari"
+    },
+    {
+      "kanji": "平ら",
+      "hiragana": "たいら",
+      "english": "flatness,level,smooth,calm,plain",
+      "indonesian": "datar,tingkat,halus,tenang,dataran",
+      "romaji": "taira"
+    },
+    {
+      "kanji": "代理",
+      "hiragana": "だいり",
+      "english": "representation,agency,proxy,deputy,agent",
+      "indonesian": "perwakilan,agen,proxy,deputi,agen",
+      "romaji": "dairi"
+    },
+    {
+      "kanji": "大陸",
+      "hiragana": "たいりく",
+      "english": "continent",
+      "indonesian": "benua",
+      "romaji": "tairiku"
+    },
+    {
+      "kanji": "倒す",
+      "hiragana": "たおす",
+      "english": "to throw down,to beat,to bring down,to blow down",
+      "indonesian": "melempar,menang,menjatuhkan,menghancurkan",
+      "romaji": "taosu"
+    },
+    {
+      "kanji": null,
+      "hiragana": "タオル",
+      "english": "(hand) towel",
+      "indonesian": "(hand) handuk",
+      "romaji": "taoru"
+    },
+    {
+      "kanji": "だが",
+      "hiragana": "だが",
+      "english": "",
+      "indonesian": "",
+      "romaji": "daga"
+    },
+    {
+      "kanji": "互い",
+      "hiragana": "たがい",
+      "english": "mutual,reciprocal",
+      "indonesian": "saling,saling timbal balik",
+      "romaji": "tagai"
+    },
+    {
+      "kanji": "宝",
+      "hiragana": "たから",
+      "english": "treasure",
+      "indonesian": "harta karun",
+      "romaji": "takara"
+    },
+    {
+      "kanji": "だから",
+      "hiragana": "だから",
+      "english": "so,therefore",
+      "indonesian": "jadi,oleh karena itu",
+      "romaji": "dakara"
+    },
+    {
+      "kanji": "宅",
+      "hiragana": "たく",
+      "english": "house,home,husband",
+      "indonesian": "rumah,domisili,suami",
+      "romaji": "taku"
+    },
+    {
+      "kanji": null,
+      "hiragana": "だけど",
+      "english": "however",
+      "indonesian": "namun",
+      "romaji": "dakedo"
+    },
+    {
+      "kanji": "確かめる",
+      "hiragana": "たしかめる",
+      "english": "to ascertain",
+      "indonesian": "memastikan",
+      "romaji": "tashikameru"
+    },
+    {
+      "kanji": "多少",
+      "hiragana": "たしょう",
+      "english": "more or less,somewhat,a little,some",
+      "indonesian": "lebih kurang,sedikit,agak,beberapa",
+      "romaji": "tashou"
+    },
+    {
+      "kanji": "助ける",
+      "hiragana": "たすける",
+      "english": "to help,to save,to rescue",
+      "indonesian": "membantu,menghemat,menyelamatkan",
+      "romaji": "tasukeru"
+    },
+    {
+      "kanji": null,
+      "hiragana": "ただ",
+      "english": "free of charge,mere,only",
+      "indonesian": "gratis,hanya,murni",
+      "romaji": "tada"
+    },
+    {
+      "kanji": "唯",
+      "hiragana": "ただ",
+      "english": "free of charge,mere,sole,only,usual,common",
+      "indonesian": "gratis,hanya,satu-satunya,biasa,umum",
+      "romaji": "tada"
+    },
+    {
+      "kanji": "戦い",
+      "hiragana": "たたかい",
+      "english": "battle,fight,struggle,conflict",
+      "indonesian": "pertempuran,pertarungan,perjuangan,konflik",
+      "romaji": "tatakai"
+    },
+    {
+      "kanji": "戦う",
+      "hiragana": "たたかう",
+      "english": "to fight,to battle,to combat",
+      "indonesian": "bertarung,bertempur,berlawan",
+      "romaji": "tatakau"
+    },
+    {
+      "kanji": "叩く",
+      "hiragana": "たたく",
+      "english": "to strike,to clap,to dust,to beat",
+      "indonesian": "memukul,menghentak,mengibaskan,memukul",
+      "romaji": "tataku"
+    },
+    {
+      "kanji": "直ちに",
+      "hiragana": "ただちに",
+      "english": "at once,immediately,directly,in person",
+      "indonesian": "segera,langsung,pribadi",
+      "romaji": "tadachini"
+    },
+    {
+      "kanji": "立ち上がる",
+      "hiragana": "たちあがる",
+      "english": "to stand up",
+      "indonesian": "bangkit",
+      "romaji": "tachiagaru"
+    },
+    {
+      "kanji": "立場",
+      "hiragana": "たちば",
+      "english": "standpoint,position,situation",
+      "indonesian": "posisi,sudut pandang,situasi",
+      "romaji": "tachiba"
+    },
+    {
+      "kanji": "経つ",
+      "hiragana": "たつ",
+      "english": "to pass,to lapse",
+      "indonesian": "berlalu,terlewat",
+      "romaji": "tatsu"
+    },
+    {
+      "kanji": "達する",
+      "hiragana": "たっする",
+      "english": "to reach,to get to",
+      "indonesian": "mencapai,sampai",
+      "romaji": "tassuru"
+    },
+    {
+      "kanji": "唯",
+      "hiragana": "たった",
+      "english": "free of charge,mere,sole,only,usual,common",
+      "indonesian": "gratis,hanya,satu-satunya,biasa,umum",
+      "romaji": "tatta"
+    },
+    {
+      "kanji": null,
+      "hiragana": "だって",
+      "english": "but,because,even,also,too",
+      "indonesian": "tapi,karena,bahkan,juga",
+      "romaji": "datte"
+    },
+    {
+      "kanji": null,
+      "hiragana": "たっぷり",
+      "english": "full,in plenty,ample",
+      "indonesian": "penuh,banyak,melimpah",
+      "romaji": "tappuri"
+    },
+    {
+      "kanji": "縦",
+      "hiragana": "たて",
+      "english": "length,height",
+      "indonesian": "panjang,tinggi",
+      "romaji": "tate"
+    },
+    {
+      "kanji": null,
+      "hiragana": "たとえ",
+      "english": "simile,metaphor,allegory",
+      "indonesian": "perumpamaan,metafora,allegori",
+      "romaji": "tatoe"
+    },
+    {
+      "kanji": "谷",
+      "hiragana": "たに",
+      "english": "valley",
+      "indonesian": "lembah",
+      "romaji": "tani"
+    },
+    {
+      "kanji": "他人",
+      "hiragana": "たにん",
+      "english": "another person,unrelated person,outsider,stranger",
+      "indonesian": "orang lain,orang yang tidak terkait,orang luar,asing",
+      "romaji": "tanin"
+    },
+    {
+      "kanji": "種",
+      "hiragana": "たね",
+      "english": "(1) seed,(2) material,(3) cause,source",
+      "indonesian": "biji,bahan,penyebab,sumber",
+      "romaji": "tane"
+    },
+    {
+      "kanji": "束",
+      "hiragana": "たば",
+      "english": "handbreadth,bundle",
+      "indonesian": "sepanjang,bundle",
+      "romaji": "tabako"
+    },
+    {
+      "kanji": "度",
+      "hiragana": "たび",
+      "english": "counter for occurrences",
+      "indonesian": "penghitung untuk kejadian",
+      "romaji": "tabi"
+    },
+    {
+      "kanji": "単純",
+      "hiragana": "たんじゅん",
+      "english": "simplicity",
+      "indonesian": "kesederhanaan",
+      "romaji": "tanjun"
+    },
+    {
+      "kanji": "誕生",
+      "hiragana": "たんじょう",
+      "english": "birth",
+      "indonesian": "kelahiran",
+      "romaji": "tanjou"
+    },
+    {
+      "kanji": null,
+      "hiragana": "ダンス",
+      "english": "dance",
+      "indonesian": "tari",
+      "romaji": "dansu"
+    },
+    {
+      "kanji": "団体",
+      "hiragana": "だんたい",
+      "english": "organization, association",
+      "indonesian": "organisasi,asosiasi",
+      "romaji": "dantai"
+    },
+    {
+      "kanji": "担当",
+      "hiragana": "たんとう",
+      "english": "(in) charge",
+      "indonesian": "bertanggung jawab",
+      "romaji": "tantou"
+    },
+    {
+      "kanji": "単なる",
+      "hiragana": "たんなる",
+      "english": "mere, simple,sheer",
+      "indonesian": "hanya,sederhana,murni",
+      "romaji": "tannaru"
+    },
+    {
+      "kanji": "単に",
+      "hiragana": "たんに",
+      "english": "simply, merely, only, solely",
+      "indonesian": "hanya,semata-mata,hanya",
+      "romaji": "tanni"
+    },
+    {
+      "kanji": "地",
+      "hiragana": "ち",
+      "english": "earth",
+      "indonesian": "bumi",
+      "romaji": "chi"
+    },
+    {
+      "kanji": "地位",
+      "hiragana": "ちい",
+      "english": "(social) position, status",
+      "indonesian": "posisi,status (sosial)",
+      "romaji": "chii"
+    },
+    {
+      "kanji": "地域",
+      "hiragana": "ちいき",
+      "english": "area, region",
+      "indonesian": "area,daerah",
+      "romaji": "chiiki"
+    },
+    {
+      "kanji": null,
+      "hiragana": "チーズ",
+      "english": "cheese",
+      "indonesian": "keju",
+      "romaji": "chiizu"
+    },
+    {
+      "kanji": null,
+      "hiragana": "チーム",
+      "english": "team",
+      "indonesian": "tim",
+      "romaji": "chiimu"
+    },
+    {
+      "kanji": "知恵",
+      "hiragana": "ちえ",
+      "english": "wisdom,wit,sagacity,sense,intelligence,advice",
+      "indonesian": "kebijaksanaan,kecerdasan,akal,perasaan,pengetahuan,saran",
+      "romaji": "chie"
+    },
+    {
+      "kanji": "地下",
+      "hiragana": "ちか",
+      "english": "basement, underground",
+      "indonesian": "ruang bawah tanah,underground",
+      "romaji": "chika"
+    },
+    {
+      "kanji": "違い",
+      "hiragana": "ちがい",
+      "english": "difference, discrepancy",
+      "indonesian": "perbedaan,ketidaksesuaian",
+      "romaji": "chigai"
+    },
+    {
+      "kanji": "違いない",
+      "hiragana": "ちがいない",
+      "english": "(phrase) sure, no mistaking it, for certain",
+      "indonesian": "pasti,tanpa kesalahan,untuk pasti",
+      "romaji": "chigainai"
+    },
+    {
+      "kanji": "近頃",
+      "hiragana": "ちかごろ",
+      "english": "lately, recently, nowadays",
+      "indonesian": "akhir-akhir ini,baru-baru ini,saat ini",
+      "romaji": "chikagoro"
+    },
+    {
+      "kanji": "地球",
+      "hiragana": "ちきゅう",
+      "english": "the earth",
+      "indonesian": "bumi",
+      "romaji": "chikyuu"
+    },
+    {
+      "kanji": "地区",
+      "hiragana": "ちく",
+      "english": "district, section, sector",
+      "indonesian": "distrik,bagian,sektor",
+      "romaji": "chiku"
+    },
+    {
+      "kanji": "遅刻",
+      "hiragana": "ちこく",
+      "english": "lateness, late coming",
+      "indonesian": "keterlambatan,kedatangan terlambat",
+      "romaji": "chikoku"
+    },
+    {
+      "kanji": "就く",
+      "hiragana": "つく",
+      "english": "to settle in (place),to take (seat, position),to study (under teacher)",
+      "indonesian": "menetap (di tempat),mengambil (kursi,posisi),belajar (di bawah guru)",
+      "romaji": "tsuku"
+    },
+    {
+      "kanji": "注ぐ",
+      "hiragana": "つぐ",
+      "english": "to pour (into),to irrigate,to pay",
+      "indonesian": "menuangkan (ke dalam),mengairi,membayar",
+      "romaji": "tsugu"
+    },
+    {
+      "kanji": "付ける",
+      "hiragana": "つける",
+      "english": "to attach,to join,to add,to append",
+      "indonesian": "melampirkan,menggabungkan,menambahkan,mengikutkan",
+      "romaji": "tsukeru"
+    },
+    {
+      "kanji": "土",
+      "hiragana": "つち",
+      "english": "earth,soil",
+      "indonesian": "tanah,soil",
+      "romaji": "tsuchi"
+    },
+    {
+      "kanji": "続き",
+      "hiragana": "つづき",
+      "english": "sequel,continuation",
+      "indonesian": "sekuel,lanjutan",
+      "romaji": "tsuzuki"
+    },
+    {
+      "kanji": "包み",
+      "hiragana": "つつみ",
+      "english": "bundle,package,parcel,bale",
+      "indonesian": "bundel,paket,parcel,bale",
+      "romaji": "tsutsumi"
+    },
+    {
+      "kanji": "勤め",
+      "hiragana": "つとめ",
+      "english": "(1) service,duty,business,responsibility,task,(2) Buddhist religious services",
+      "indonesian": "(1) pelayanan,tugas,bisnis,tanggung jawab,tugas,(2) layanan keagamaan Buddha",
+      "romaji": "tsutome"
+    },
+    {
+      "kanji": "務め",
+      "hiragana": "つとめ",
+      "english": "(1) service,duty,(2) Buddhist religious services",
+      "indonesian": "(1) pelayanan,tugas,(2) layanan keagamaan Buddha",
+      "romaji": "tsutome"
+    },
+    {
+      "kanji": "繋ぐ",
+      "hiragana": "つなぐ",
+      "english": "to tie,to fasten,to connect,to transfer (phone call)",
+      "indonesian": "mengikat,mengencangkan,menghubungkan,meneruskan (panggilan telepon)",
+      "romaji": "tsunagu"
+    },
+    {
+      "kanji": "常に",
+      "hiragana": "つねに",
+      "english": "always,constantly",
+      "indonesian": "selalu,secara konstan",
+      "romaji": "tsuneni"
+    },
+    {
+      "kanji": "翼",
+      "hiragana": "つばさ",
+      "english": "wings",
+      "indonesian": "sayap",
+      "romaji": "tsubasa"
+    },
+    {
+      "kanji": null,
+      "hiragana": "つまり",
+      "english": "in short,in brief,in other words",
+      "indonesian": "singkatnya,secara singkat,dengan kata lain",
+      "romaji": "tsumari"
+    },
+    {
+      "kanji": "罪",
+      "hiragana": "つみ",
+      "english": "crime,fault,indiscretion",
+      "indonesian": "kejahatan,kesalahan,kecerobohan",
+      "romaji": "tsumi"
+    },
+    {
+      "kanji": "詰める",
+      "hiragana": "つめる",
+      "english": "to pack,to shorten,to work out (details)",
+      "indonesian": "mengemas,mendekatkan,menyusun (detail)",
+      "romaji": "tsumeru"
+    },
+    {
+      "kanji": "積もる",
+      "hiragana": "つもる",
+      "english": "to pile up",
+      "indonesian": "menumpuk",
+      "romaji": "tsumoru"
+    },
+    {
+      "kanji": "梅雨",
+      "hiragana": "つゆ",
+      "english": "rainy season,rain during the rainy season",
+      "indonesian": "musim hujan,hujan selama musim hujan",
+      "romaji": "tsuyu"
+    },
+    {
+      "kanji": "辛い",
+      "hiragana": "つらい",
+      "english": "painful,heart-breaking",
+      "indonesian": "menyakitkan,menyentuh hati",
+      "romaji": "tsurai"
+    },
+    {
+      "kanji": "釣",
+      "hiragana": "つり",
+      "english": "",
+      "indonesian": "memancing",
+      "romaji": "tsuri"
+    },
+    {
+      "kanji": "連れ",
+      "hiragana": "つれ",
+      "english": "companion,company",
+      "indonesian": "teman,perusahaan",
+      "romaji": "tsure"
+    },
+    {
+      "kanji": null,
+      "hiragana": "で",
+      "english": "outflow,coming (going) out,graduate (of)",
+      "indonesian": "aliran,keluar (pergi),lulusan (dari)",
+      "romaji": "de"
+    },
+    {
+      "kanji": "出会い",
+      "hiragana": "であい",
+      "english": "meeting,rendezvous,encounter",
+      "indonesian": "pertemuan,pertemuan,pertemuan",
+      "romaji": "deai"
+    },
+    {
+      "kanji": "出会う",
+      "hiragana": "であう",
+      "english": "to meet by chance,to come across,to happen to encounter",
+      "indonesian": "bertemu secara kebetulan,menemukan,terjadi untuk bertemu",
+      "romaji": "deau"
+    },
+    {
+      "kanji": "提案",
+      "hiragana": "ていあん",
+      "english": "proposal,proposition,suggestion",
+      "indonesian": "usulan,proposal,saran",
+      "romaji": "teian"
+    },
+    {
+      "kanji": "定期",
+      "hiragana": "ていき",
+      "english": "fixed term",
+      "indonesian": "jangka tetap",
+      "romaji": "teiki"
+    },
+    {
+      "kanji": "抵抗",
+      "hiragana": "ていこう",
+      "english": "electrical resistance,resistance,opposition",
+      "indonesian": "resistansi listrik,resistansi,oposisi",
+      "romaji": "teikou"
+    },
+    {
+      "kanji": "提出",
+      "hiragana": "ていしゅつ",
+      "english": "presentation,submission,filing",
+      "indonesian": "presentasi,pengajuan,pengarsipan",
+      "romaji": "teishutsu"
+    },
+    {
+      "kanji": "程度",
+      "hiragana": "ていど",
+      "english": "degree,amount,grade,standard,of the order of (following a number)",
+      "indonesian": "derajat,jumlah,tingkat,standar,sekitar (setelah angka)",
+      "romaji": "teido"
+    },
+    {
+      "kanji": "停留所",
+      "hiragana": "ていりゅうじょ",
+      "english": "bus or tram stop",
+      "indonesian": "halte bus atau trem",
+      "romaji": "teiryuujo"
+    },
+    {
+      "kanji": null,
+      "hiragana": "デート",
+      "english": "date,go on a date",
+      "indonesian": "kencan,pergi berkencan",
+      "romaji": "deeto"
+    },
+    {
+      "kanji": "敵",
+      "hiragana": "てき",
+      "english": "enemy,rival",
+      "indonesian": "musuh,rival",
+      "romaji": "teki"
+    },
+    {
+      "kanji": "出来事",
+      "hiragana": "できごと",
+      "english": "incident,affair,happening,event",
+      "indonesian": "insiden,urusan,kejadian,peristiwa",
+      "romaji": "dekigoto"
+    },
+    {
+      "kanji": "適する",
+      "hiragana": "てきする",
+      "english": "to fit,to suit",
+      "indonesian": "cocok,sesuai",
+      "romaji": "tekisuru"
+    },
+    {
+      "kanji": "適切",
+      "hiragana": "てきせつ",
+      "english": "pertinent,appropriate,adequate,relevance",
+      "indonesian": "relevan,sesuai,memadai,relevansi",
+      "romaji": "tekisetsu"
+    },
+    {
+      "kanji": "適度",
+      "hiragana": "てきど",
+      "english": "moderate",
+      "indonesian": "moderat",
+      "romaji": "tekido"
+    },
+    {
+      "kanji": "適用",
+      "hiragana": "てきよう",
+      "english": "applying",
+      "indonesian": "penerapan",
+      "romaji": "tekiyou"
+    },
+    {
+      "kanji": "できる",
+      "hiragana": "できる",
+      "notes": "(可能。出現。発生)",
+      "english": "to be able to,to be ready,to occur",
+      "indonesian": "dapat,siap,terjadi",
+      "romaji": "dekiru"
+    },
+    {
+      "kanji": "出来るだけ",
+      "hiragana": "できるだけ",
+      "english": "if at all possible",
+      "indonesian": "jika memungkinkan",
+      "romaji": "dekirudake"
+    },
+    {
+      "kanji": "通り過ぎる",
+      "hiragana": "とおりすぎる",
+      "english": "to pass,to pass through",
+      "indonesian": "melewati,lewat",
+      "romaji": "toorisugiru"
+    },
+    {
+      "kanji": "都会",
+      "hiragana": "とかい",
+      "english": "city",
+      "indonesian": "kota",
+      "romaji": "tokai"
+    },
+    {
+      "kanji": "時",
+      "hiragana": "とき",
+      "english": "(1) time,hour,(2) occasion,moment",
+      "indonesian": "(1) waktu,jam,(2) kesempatan,momen",
+      "romaji": "toki"
+    },
+    {
+      "kanji": "解く",
+      "hiragana": "とく",
+      "english": "to unfasten",
+      "indonesian": "melepaskan",
+      "romaji": "toku"
+    },
+    {
+      "kanji": "毒",
+      "hiragana": "どく",
+      "english": "poison,toxicant",
+      "indonesian": "racun,zat beracun",
+      "romaji": "doku"
+    },
+    {
+      "kanji": "得意",
+      "hiragana": "とくい",
+      "english": "pride,triumph,prosperity",
+      "indonesian": "kebanggaan,kejayaan,kemakmuran",
+      "romaji": "tokui"
+    },
+    {
+      "kanji": "読書",
+      "hiragana": "どくしょ",
+      "english": "reading",
+      "indonesian": "membaca",
+      "romaji": "dokusho"
+    },
+    {
+      "kanji": "独身",
+      "hiragana": "どくしん",
+      "english": "bachelorhood,single,unmarried,celibate",
+      "indonesian": "status lajang,tidak menikah,selibat",
+      "romaji": "dokushin"
+    },
+    {
+      "kanji": "特徴",
+      "hiragana": "とくちょう",
+      "english": "feature,characteristic",
+      "indonesian": "fitur,karakteristik",
+      "romaji": "tokuchou"
+    },
+    {
+      "kanji": "独特",
+      "hiragana": "どくとく",
+      "english": "peculiarity,uniqueness,characteristic",
+      "indonesian": "keunikan,keunikan,ciri khas",
+      "romaji": "dokutoku"
+    },
+    {
+      "kanji": "独立",
+      "hiragana": "どくりつ",
+      "english": "independence (e.g. Ind. Day),self-support",
+      "indonesian": "independensi (mis. Hari Ind.),mandiri",
+      "romaji": "dokuritsu"
+    },
+    {
+      "kanji": "解ける",
+      "hiragana": "とける",
+      "english": "to come untied,to come apart",
+      "indonesian": "terurai,terpisah",
+      "romaji": "tokeru"
+    },
+    {
+      "kanji": null,
+      "hiragana": "どこか",
+      "english": "somewhere,anywhere",
+      "indonesian": "di suatu tempat,di mana saja",
+      "romaji": "dokoka"
+    },
+    {
+      "kanji": null,
+      "hiragana": "ところが",
+      "english": "however,while,even if",
+      "indonesian": "namun,saat,sungguh pun",
+      "romaji": "tokoroga"
+    },
+    {
+      "kanji": null,
+      "hiragana": "ところで",
+      "english": "by the way,even if,no matter what",
+      "indonesian": "ngomong-ngomong,sungguh pun,tak peduli apa",
+      "romaji": "tokorode"
+    },
+    {
+      "kanji": "登山",
+      "hiragana": "とざん",
+      "english": "mountain-climbing",
+      "indonesian": "pendakian gunung",
+      "romaji": "tozan"
+    },
+    {
+      "kanji": "都市",
+      "hiragana": "とし",
+      "english": "town,city,municipal,urban",
+      "indonesian": "kota,kota,munisipal,perkotaan",
+      "romaji": "toshi"
+    },
+    {
+      "kanji": "年月",
+      "hiragana": "としつき",
+      "english": "months and years",
+      "indonesian": "bulan dan tahun",
+      "romaji": "toshitsuki"
+    },
+    {
+      "kanji": "図書",
+      "hiragana": "としょ",
+      "english": "books",
+      "indonesian": "buku",
+      "romaji": "tosho"
+    },
+    {
+      "kanji": "年寄",
+      "hiragana": "としより",
+      "english": "old people,the aged",
+      "indonesian": "orang tua,kaum lanjut usia",
+      "romaji": "toshiyori"
+    },
+    {
+      "kanji": "縄",
+      "hiragana": "なわ",
+      "english": "rope,hemp",
+      "indonesian": "tali,serat rami",
+      "romaji": "nawa"
+    },
+    {
+      "kanji": "何で",
+      "hiragana": "なんで",
+      "english": "Why?,What for?",
+      "indonesian": "Mengapa?,Untuk apa?",
+      "romaji": "nande"
+    },
+    {
+      "kanji": "何でも",
+      "hiragana": "なんでも",
+      "english": "by all means,everything",
+      "indonesian": "dengan segala cara,segala sesuatu",
+      "romaji": "nandemo"
+    },
+    {
+      "kanji": "何とか",
+      "hiragana": "なんとか",
+      "english": "somehow,anyhow,one way or another",
+      "indonesian": "entah bagaimana,bagaimanapun,jalan atau cara lain",
+      "romaji": "nantoka"
+    },
+    {
+      "kanji": "似合う",
+      "hiragana": "にあう",
+      "english": "to suit,to match,to become,to be like",
+      "indonesian": "cocok,serasi,menjadi,mirip",
+      "romaji": "niau"
+    },
+    {
+      "kanji": "匂い",
+      "hiragana": "におい",
+      "english": "odour,scent,smell,stench",
+      "indonesian": "bau,aroma,bau,bau busuk",
+      "romaji": "nioi"
+    },
+    {
+      "kanji": "苦手",
+      "hiragana": "にがて",
+      "english": "poor (at),weak (in),dislike (of)",
+      "indonesian": "kurang baik (dalam),lemah (dalam),tidak suka (terhadap)",
+      "romaji": "nigate"
+    },
+    {
+      "kanji": "握る",
+      "hiragana": "にぎる",
+      "english": "to grasp,to seize,to mould sushi",
+      "indonesian": "menggenggam,merebut,membentuk sushi",
+      "romaji": "nigiru"
+    },
+    {
+      "kanji": "日",
+      "hiragana": "にち",
+      "english": "sun,sunshine,day",
+      "indonesian": "matahari,sinar matahari,hari",
+      "romaji": "nichi"
+    },
+    {
+      "kanji": "日常",
+      "hiragana": "にちじょう",
+      "english": "ordinary,regular,everyday,usual",
+      "indonesian": "biasa,reguler,sehari-hari,umum",
+      "romaji": "nichijou"
+    },
+    {
+      "kanji": "日曜",
+      "hiragana": "にちよう",
+      "english": "Sunday",
+      "indonesian": "Minggu",
+      "romaji": "nichiyou"
+    },
+    {
+      "kanji": "日光",
+      "hiragana": "にっこう",
+      "english": "sunlight",
+      "indonesian": "cahaya matahari",
+      "romaji": "nikkou"
+    },
+    {
+      "kanji": "日中",
+      "hiragana": "にっちゅう",
+      "english": "daytime,broad daylight",
+      "indonesian": "siang hari,cahaya terang",
+      "romaji": "nicchuu"
+    },
+    {
+      "kanji": null,
+      "hiragana": "にっこり",
+      "english": "smile sweetly,smile,grin",
+      "indonesian": "tersenyum manis,tersenyum,senyum lebar",
+      "romaji": "nikkoori"
+    },
+    {
+      "kanji": "日本",
+      "hiragana": "にっぽん",
+      "english": "Japan",
+      "indonesian": "Jepang",
+      "romaji": "nippon"
+    },
+    {
+      "kanji": "日本",
+      "hiragana": "にほん",
+      "english": "Japan",
+      "indonesian": "Jepang",
+      "romaji": "nihon"
+    },
+    {
+      "kanji": "入院",
+      "hiragana": "にゅういん",
+      "english": "hospitalization",
+      "indonesian": "rawat inap",
+      "romaji": "nyuuin"
+    },
+    {
+      "kanji": "入学",
+      "hiragana": "にゅうがく",
+      "english": "entry to school or university,matriculation",
+      "indonesian": "masuk sekolah atau universitas,matrikulasi",
+      "romaji": "nyuugaku"
+    },
+    {
+      "kanji": "入場",
+      "hiragana": "にゅうじょう",
+      "english": "entrance,admission,entering",
+      "indonesian": "masuk,admission,memasuki",
+      "romaji": "nyuujou"
+    },
+    {
+      "kanji": "人気",
+      "hiragana": "にんき",
+      "english": "sign of life",
+      "indonesian": "tanda kehidupan",
+      "romaji": "ninki"
+    },
+    {
+      "kanji": "発行",
+      "hiragana": "はっこう",
+      "english": "issue (publications)",
+      "indonesian": "penerbitan (publikasi)",
+      "romaji": "hakkou"
+    },
+    {
+      "kanji": "発車",
+      "hiragana": "はっしゃ",
+      "english": "departure of a vehicle",
+      "indonesian": "keberangkatan kendaraan",
+      "romaji": "hassha"
+    },
+    {
+      "kanji": "罰する",
+      "hiragana": "ばっする",
+      "english": "to punish,to penalize",
+      "indonesian": "untuk menghukum,untuk menjatuhkan sanksi",
+      "romaji": "bassuru"
+    },
+    {
+      "kanji": "発達",
+      "hiragana": "はったつ",
+      "english": "development,growth",
+      "indonesian": "perkembangan,pertumbuhan",
+      "romaji": "hattatsu"
+    },
+    {
+      "kanji": null,
+      "hiragana": "ばったり",
+      "english": "with a clash (thud),with a bang,plump,flop",
+      "indonesian": "dengan benturan (dengung),dengan suara keras,jatuh,terjatuh",
+      "romaji": "battari"
+    },
+    {
+      "kanji": "発展",
+      "hiragana": "はってん",
+      "english": "development,growth",
+      "indonesian": "perkembangan,pertumbuhan",
+      "romaji": "hatten"
+    },
+    {
+      "kanji": "発表",
+      "hiragana": "はっぴょう",
+      "english": "announcement, publication",
+      "indonesian": "pengumuman,publikasi",
+      "romaji": "happyou"
+    },
+    {
+      "kanji": "発明",
+      "hiragana": "はつめい",
+      "english": "invention",
+      "indonesian": "penemuan",
+      "romaji": "hatsumei"
+    },
+    {
+      "kanji": "話し合う",
+      "hiragana": "はなしあう",
+      "english": "to discuss, to talk together",
+      "indonesian": "untuk berdiskusi, untuk berbicara bersama",
+      "romaji": "hanashiau"
+    },
+    {
+      "kanji": "離す",
+      "hiragana": "はなす",
+      "english": "to part, divide, separate",
+      "indonesian": "memisahkan,membagi,membelah",
+      "romaji": "hanasu"
+    },
+    {
+      "kanji": "放す",
+      "hiragana": "はなす",
+      "english": "to separate, to set free",
+      "indonesian": "memisahkan,membebaskan",
+      "romaji": "hanasu"
+    },
+    {
+      "kanji": "離れる",
+      "hiragana": "はなれる",
+      "english": "to be separated from,to leave,to go away, to be a long way off",
+      "indonesian": "terpisah dari,meninggalkan,pergi jauh,berada jauh",
+      "romaji": "hanareru"
+    },
+    {
+      "kanji": "羽",
+      "hiragana": "はね",
+      "english": "counter for birds, counter for rabbits",
+      "indonesian": "counter untuk burung,counter untuk kelinci",
+      "romaji": "hane"
+    },
+    {
+      "kanji": "幅",
+      "hiragana": "はば",
+      "english": "width, breadth",
+      "indonesian": "lebar,jarak",
+      "romaji": "haba"
+    },
+    {
+      "kanji": "母親",
+      "hiragana": "ははおや",
+      "english": "mother",
+      "indonesian": "ibu",
+      "romaji": "hahaoya"
+    },
+    {
+      "kanji": "省く",
+      "hiragana": "はぶく",
+      "english": "to omit, to eliminate, to curtail,to economize",
+      "indonesian": "menghilangkan,menghapus,mengurangi,berhemat",
+      "romaji": "habuku"
+    },
+    {
+      "kanji": "場面",
+      "hiragana": "ばめん",
+      "english": "scene, setting (e.g. of novel)",
+      "indonesian": "adegan,seting (mis. novel)",
+      "romaji": "bamen"
+    },
+    {
+      "kanji": "腹",
+      "hiragana": "はら",
+      "english": "abdomen, belly, stomach",
+      "indonesian": "perut,badan,perut",
+      "romaji": "hara"
+    },
+    {
+      "kanji": "原",
+      "hiragana": "はら",
+      "english": "field, plain, prairie,tundra,moor,wilderness",
+      "indonesian": "ladang,dataran,padang rumput,tundra,moor,hutan",
+      "romaji": "hara"
+    },
+    {
+      "kanji": "針",
+      "hiragana": "はり",
+      "english": "needle, hand (e.g. clock)",
+      "indonesian": "jarum,tangan (mis. jam)",
+      "romaji": "hari"
+    },
+    {
+      "kanji": "風呂",
+      "hiragana": "ふろ",
+      "english": "bath",
+      "indonesian": "mandi",
+      "romaji": "furo"
+    },
+    {
+      "kanji": null,
+      "hiragana": "プロ",
+      "english": "professional",
+      "indonesian": "profesional",
+      "romaji": "puro"
+    },
+    {
+      "kanji": "分",
+      "hiragana": "ぶん",
+      "english": "dividing,part,segment",
+      "indonesian": "pembagian,bagian,segmen",
+      "romaji": "bun"
+    },
+    {
+      "kanji": "文",
+      "hiragana": "ぶん",
+      "english": "sentence",
+      "indonesian": "kalimat",
+      "romaji": "bun"
+    },
+    {
+      "kanji": "雰囲気",
+      "hiragana": "ふんいき",
+      "english": "atmosphere (e.g. musical),mood,ambience",
+      "indonesian": "atmosfer (mis. musik),suasana,ambien",
+      "romaji": "fun'iki"
+    },
+    {
+      "kanji": "分析",
+      "hiragana": "ぶんせき",
+      "english": "analysis",
+      "indonesian": "analisis",
+      "romaji": "bunseki"
+    },
+    {
+      "kanji": "文明",
+      "hiragana": "ぶんめい",
+      "english": "civilization,culture",
+      "indonesian": "peradaban,budaya",
+      "romaji": "bunmei"
+    },
+    {
+      "kanji": "分野",
+      "hiragana": "ぶんや",
+      "english": "field,sphere,realm,division,branch",
+      "indonesian": "bidang,sfera,realm,pembagian,cabang",
+      "romaji": "bunya"
+    },
+    {
+      "kanji": "塀",
+      "hiragana": "へい",
+      "english": "wall,fence",
+      "indonesian": "tembok,pagar",
+      "romaji": "hei"
+    },
+    {
+      "kanji": "平均",
+      "hiragana": "へいきん",
+      "english": "equilibrium,balance,average,mean",
+      "indonesian": "keseimbangan,imbang,rata-rata,mean",
+      "romaji": "heikin"
+    },
+    {
+      "kanji": "平和",
+      "hiragana": "へいわ",
+      "english": "peace,harmony",
+      "indonesian": "perdamaian,harmoni",
+      "romaji": "heiwa"
+    },
+    {
+      "kanji": "別に",
+      "hiragana": "べつに",
+      "english": "(not) particularly,nothing",
+      "indonesian": "(tidak) khususnya,tidak ada",
+      "romaji": "betsu ni"
+    },
+    {
+      "kanji": "減らす",
+      "hiragana": "へらす",
+      "english": "to abate,to decrease,to diminish,to shorten",
+      "indonesian": "mengurangi,menurunkan,mengurangi,mendekatkan",
+      "romaji": "herasu"
+    },
+    {
+      "kanji": "減る",
+      "hiragana": "へる",
+      "english": "to decrease (in size or number),to diminish,to abate",
+      "indonesian": "berkurang (dalam ukuran atau jumlah),mengurangi,mengurangi",
+      "romaji": "heru"
+    },
+    {
+      "kanji": null,
+      "hiragana": "ベルト",
+      "english": "Belt for western clothes",
+      "indonesian": "sabuk untuk pakaian barat",
+      "romaji": "beruto"
+    },
+    {
+      "kanji": "変化",
+      "hiragana": "へんか",
+      "english": "goblin,ghost,apparition,bugbear",
+      "indonesian": "perubahan,modifikasi,alterasi",
+      "romaji": "henka"
+    },
+    {
+      "kanji": null,
+      "hiragana": "ペンキ",
+      "english": "(n) paint (nl: pek)",
+      "indonesian": "bangku",
+      "romaji": "penki"
+    },
+    {
+      "kanji": "勉強",
+      "hiragana": "べんきょう",
+      "english": "study,diligence,discount,reduction",
+      "indonesian": "nasi kotak",
+      "romaji": "benkyou"
+    },
+    {
+      "kanji": "変更",
+      "hiragana": "へんこう",
+      "english": "change,modification,alteration",
+      "indonesian": "sisi",
+      "romaji": "henkou"
+    },
+    {
+      "kanji": null,
+      "hiragana": "ベンチ",
+      "english": "bench",
+      "indonesian": "Undang-Undang (hukum: Undang-Undang X)",
+      "romaji": "benchi"
+    },
+    {
+      "kanji": "弁当",
+      "hiragana": "べんとう",
+      "english": "box lunch",
+      "indonesian": "tiang,batang,stik",
+      "romaji": "bentou"
+    },
+    {
+      "kanji": "方",
+      "hiragana": "ほう",
+      "english": "side",
+      "indonesian": "risiko,usaha,petualangan",
+      "romaji": "hou"
+    },
+    {
+      "kanji": "法",
+      "hiragana": "ほう",
+      "english": "Act (law: the X Act)",
+      "indonesian": "arah,jalur,jalan",
+      "romaji": "hou"
+    },
+    {
+      "kanji": "棒",
+      "hiragana": "ぼう",
+      "english": "pole,rod,stick",
+      "indonesian": "laporan,informasi",
+      "romaji": "bou"
+    },
+    {
+      "kanji": "冒険",
+      "hiragana": "ぼうけん",
+      "english": "risk,venture,adventure",
+      "indonesian": "permata,perhiasan",
+      "romaji": "bouken"
+    },
+    {
+      "kanji": "方向",
+      "hiragana": "ほうこう",
+      "english": "direction,course,way",
+      "indonesian": "siaran,penyiaran",
+      "romaji": "houkou"
+    },
+    {
+      "kanji": "報告",
+      "hiragana": "ほうこく",
+      "english": "report,information",
+      "indonesian": "kelimpahan,kekayaan,banyak,bounty",
+      "romaji": "houkoku"
+    },
+    {
+      "kanji": "宝石",
+      "hiragana": "ほうせき",
+      "english": "gem,jewel",
+      "indonesian": "metode,cara,jalan,alat,teknik",
+      "romaji": "houseki"
+    },
+    {
+      "kanji": "放送",
+      "hiragana": "ほうそう",
+      "english": "broadcast,broadcasting",
+      "indonesian": "orang-orang,ini dan itu,di sini dan di sana,di mana-mana",
+      "romaji": "housou"
+    },
+    {
+      "kanji": "豊富",
+      "hiragana": "ほうふ",
+      "english": "abundance,wealth,plenty,bounty",
+      "indonesian": "kunjungan,kunjungan",
+      "romaji": "houfu"
+    },
+    {
+      "kanji": "方法",
+      "hiragana": "ほうほう",
+      "english": "method,manner,way,means,technique",
+      "indonesian": "menggonggong,menggeram,menghujam,menggelegar,menggeram,berteriak",
+      "romaji": "houhou"
+    },
+    {
+      "kanji": "方々",
+      "hiragana": "ほうぼう",
+      "english": "persons,this and that,here and there,everywhere",
+      "indonesian": "anak laki-laki",
+      "romaji": "houbou"
+    },
+    {
+      "kanji": "訪問",
+      "hiragana": "ほうもん",
+      "english": "call,visit",
+      "indonesian": "perahu dayung",
+      "romaji": "houmon"
+    },
+    {
+      "kanji": "吠える",
+      "hiragana": "ほえる",
+      "english": "to bark,to bay,to howl,to bellow,to roar,to cry",
+      "indonesian": "(1) platform,(2) rumah",
+      "romaji": "hoeru"
+    },
+    {
+      "kanji": null,
+      "hiragana": "ボーイ",
+      "english": "boy",
+      "indonesian": "bola,mangkuk",
+      "romaji": "booi"
+    },
+    {
+      "kanji": null,
+      "hiragana": "ボート",
+      "english": "rowing boat",
+      "indonesian": "lain (terutama tempat dan benda)",
+      "romaji": "booto"
+    },
+    {
+      "kanji": null,
+      "hiragana": "ホーム",
+      "english": "(1) platform,(2) home",
+      "indonesian": "tempat lain,sisa",
+      "romaji": "hoomu"
+    },
+    {
+      "kanji": null,
+      "hiragana": "ボール",
+      "english": "ball,bowl",
+      "indonesian": "harga",
+      "romaji": "booru"
+    },
+    {
+      "kanji": "他",
+      "hiragana": "ほか",
+      "english": "other (esp. places and things)",
+      "indonesian": "debu",
+      "romaji": "hoka"
+    },
+    {
+      "kanji": "外",
+      "hiragana": "ほか",
+      "english": "other place,the rest",
+      "indonesian": "jaminan,jaminan,asuransi,janji,garansi",
+      "romaji": "hoka"
+    },
+    {
+      "kanji": "誇り",
+      "hiragana": "ほこり",
+      "english": "pride",
+      "indonesian": "pelestarian,konservasi,penyimpanan,pemeliharaan",
+      "romaji": "hokori"
+    },
+    {
+      "kanji": "埃",
+      "hiragana": "ほこり",
+      "english": "dust",
+      "indonesian": "derajat,tingkat,batas,batas",
+      "romaji": "hokori"
+    },
+    {
+      "kanji": "保証",
+      "hiragana": "ほしょう",
+      "english": "guarantee,security,assurance,pledge,warranty",
+      "indonesian": "jalur pejalan kaki,jalan setapak,trotoar",
+      "romaji": "hoshou"
+    },
+    {
+      "kanji": "保存",
+      "hiragana": "ほぞん",
+      "english": "preservation,conservation,storage,maintenance",
+      "indonesian": "Buddha,orang yang penyayang,gambar Buddha,orang yang meninggal",
+      "romaji": "hozon"
+    },
+    {
+      "kanji": "程",
+      "hiragana": "ほど",
+      "english": "degree,extent,bounds,limit",
+      "indonesian": "tulang",
+      "romaji": "hodo"
+    },
+    {
+      "kanji": "歩道",
+      "hiragana": "ほどう",
+      "english": "footpath,walkway,sidewalk",
+      "indonesian": "nyala api",
+      "romaji": "hodou"
+    },
+    {
+      "kanji": "仏",
+      "hiragana": "ほとけ",
+      "english": "Buddha,merciful person,Buddhist image,the dead",
+      "romaji": "hotoke"
+    },
+    {
+      "kanji": "骨",
+      "hiragana": "ほね",
+      "english": "bone",
+      "romaji": "hone"
+    },
+    {
+      "kanji": "炎",
+      "hiragana": "ほのお",
+      "english": "flame",
+      "romaji": "honoo"
+    },
+    {
+      "kanji": "頬",
+      "hiragana": "ほほ",
+      "english": "cheek (of face)",
+      "indonesian": "pipi",
+      "romaji": "hoho"
+    },
+    {
+      "kanji": "頬",
+      "hiragana": "ほお",
+      "english": "cheek (of face)",
+      "indonesian": "pipi",
+      "romaji": "hoo"
+    },
+    {
+      "kanji": null,
+      "hiragana": "ほぼ",
+      "english": "almost,roughly,approximately",
+      "indonesian": "hampir,kasar,kira-kira",
+      "romaji": "hobo"
+    },
+    {
+      "kanji": "微笑む",
+      "hiragana": "ほほえむ",
+      "english": "to smile",
+      "indonesian": "tersenyum",
+      "romaji": "hohoemu"
+    },
+    {
+      "kanji": "褒める",
+      "hiragana": "ほめる",
+      "english": "to praise,to admire,to speak well",
+      "indonesian": "memuji, mengagumi, berbicara baik",
+      "romaji": "homeru"
+    },
+    {
+      "kanji": "濠",
+      "hiragana": "ほり",
+      "english": "moat",
+      "indonesian": "parit",
+      "romaji": "hori"
+    },
+    {
+      "kanji": "本当",
+      "hiragana": "ほんと",
+      "english": "truth,reality",
+      "indonesian": "kebenaran,realitas",
+      "romaji": "honto"
+    },
+    {
+      "kanji": "本当",
+      "hiragana": "ほんとう",
+      "english": "truth,reality",
+      "indonesian": "kebenaran,realitas",
+      "romaji": "hontou"
+    },
+    {
+      "kanji": "本人",
+      "hiragana": "ほんにん",
+      "english": "the person himself",
+      "indonesian": "orang itu sendiri",
+      "romaji": "hon'nin"
+    },
+    {
+      "kanji": "本物",
+      "hiragana": "ほんもの",
+      "english": "genuine article",
+      "indonesian": "barang asli",
+      "romaji": "honmono"
+    },
+    {
+      "kanji": null,
+      "hiragana": "ぼんやり",
+      "english": "absent-minded,block-head,dim,faint,vague",
+      "indonesian": "lalai, bodoh, samar, samar-samar",
+      "romaji": "bonyari"
+    },
+    {
+      "kanji": "無",
+      "hiragana": "む",
+      "english": "nothing,naught,nil,zero",
+      "indonesian": "tidak ada, nol",
+      "romaji": "mu"
+    },
+    {
+      "kanji": "向かい",
+      "hiragana": "むかい",
+      "english": "facing,opposite,across the street,other side",
+      "indonesian": "menghadap, seberang, di seberang jalan, sisi lain",
+      "romaji": "mukai"
+    },
+    {
+      "kanji": "迎え",
+      "hiragana": "むかえ",
+      "english": "meeting,person sent to pick up an arrival",
+      "indonesian": "pertemuan, orang yang dikirim untuk menjemput kedatangan",
+      "romaji": "mukae"
+    },
+    {
+      "kanji": "向く",
+      "hiragana": "むく",
+      "english": "to face",
+      "indonesian": "menghadap",
+      "romaji": "muku"
+    },
+    {
+      "kanji": "向ける",
+      "hiragana": "むける",
+      "english": "to turn towards,to point",
+      "indonesian": "mengarah, menunjuk",
+      "romaji": "mukeru"
+    },
+    {
+      "kanji": "無視",
+      "hiragana": "むし",
+      "english": "disregard,ignore",
+      "indonesian": "mengabaikan, mengabaikan",
+      "romaji": "mushi"
+    },
+    {
+      "kanji": "虫歯",
+      "hiragana": "むしば",
+      "english": "cavity,tooth decay,decayed tooth,caries",
+      "indonesian": "karies, gigi berlubang, gigi yang membusuk",
+      "romaji": "mushiba"
+    },
+    {
+      "kanji": "寧ろ",
+      "hiragana": "むしろ",
+      "english": "rather,better,instead",
+      "indonesian": "lebih baik, sebaliknya",
+      "romaji": "mushiro"
+    },
+    {
+      "kanji": "結ぶ",
+      "hiragana": "むすぶ",
+      "english": "to tie,to bind,to link",
+      "indonesian": "mengikat, menghubungkan",
+      "romaji": "musubu"
+    },
+    {
+      "kanji": "無駄",
+      "hiragana": "むだ",
+      "english": "futility,uselessness",
+      "indonesian": "kekosongan, ketidakbergunaan",
+      "romaji": "muda"
+    },
+    {
+      "kanji": "夢中",
+      "hiragana": "むちゅう",
+      "english": "daze,(in a) trance,ecstasy,delirium,engrossment",
+      "indonesian": "keterpukauan, trance, ekstasi, delirium, keterlibatan",
+      "romaji": "mucyu"
+    },
+    {
+      "kanji": "胸",
+      "hiragana": "むね",
+      "english": "breast,chest",
+      "indonesian": "dada, payudara",
+      "romaji": "mune"
+    },
+    {
+      "kanji": "無料",
+      "hiragana": "むりょう",
+      "english": "free,no charge",
+      "indonesian": "gratis, tanpa biaya",
+      "romaji": "muryou"
+    },
+    {
+      "kanji": "芽",
+      "hiragana": "め",
+      "english": "sprout",
+      "indonesian": "tunas",
+      "romaji": "me"
+    },
+    {
+      "kanji": "明確",
+      "hiragana": "めいかく",
+      "english": "clear up,clarify,define",
+      "indonesian": "jelas, memperjelas, mendefinisikan",
+      "romaji": "meikaku"
+    },
+    {
+      "kanji": "命じる",
+      "hiragana": "めいじる",
+      "english": "to order,to command,to appoint",
+      "indonesian": "memerintahkan, menginstruksikan, menunjuk",
+      "romaji": "meijiru"
+    },
+    {
+      "kanji": "名人",
+      "hiragana": "めいじん",
+      "english": "master,expert",
+      "indonesian": "ahli, master",
+      "romaji": "meijin"
+    },
+    {
+      "kanji": "命令",
+      "hiragana": "めいれい",
+      "english": "order,command,decree,directive,(software) instruction",
+      "indonesian": "perintah, instruksi, dekret, arahan",
+      "romaji": "meirei"
+    },
+    {
+      "kanji": "迷惑",
+      "hiragana": "めいわく",
+      "english": "trouble,bother,annoyance",
+      "indonesian": "masalah, gangguan, ketidaknyamanan",
+      "romaji": "meiwaku"
+    },
+    {
+      "kanji": "飯",
+      "hiragana": "めし",
+      "english": "(sl) meals,food",
+      "indonesian": "makanan, hidangan",
+      "romaji": "meshi"
+    },
+    {
+      "kanji": null,
+      "hiragana": "よると",
+      "english": "according to",
+      "indonesian": "menurut",
+      "romaji": "yoruto"
+    },
+    {
+      "kanji": "喜び",
+      "hiragana": "よろこび",
+      "english": "(a) joy,(a) delight,rapture,pleasure,gratification,rejoicing,congratulations,felicitations",
+      "indonesian": "kebahagiaan, kesenangan, kegembiraan, ucapan selamat",
+      "romaji": "yorokobi"
+    },
+    {
+      "kanji": "宜しい",
+      "hiragana": "よろしい",
+      "english": "(hon) good,OK,all right,fine,very well,will do,may,can",
+      "indonesian": "baik, oke, sangat baik, boleh, bisa",
+      "romaji": "yoroshii"
+    },
+    {
+      "kanji": null,
+      "hiragana": "よろしく (感)",
+      "english": "well,properly,suitably,best regards,please remember me",
+      "indonesian": "dengan baik, dengan tepat, salam terbaik, ingatlah saya",
+      "romaji": "yoroshiku"
+    },
+    {
+      "kanji": "四",
+      "hiragana": "よん",
+      "english": "four",
+      "indonesian": "empat",
+      "romaji": "yon"
+    },
+    {
+      "kanji": "来",
+      "hiragana": "らい",
+      "english": ",for (10 days),next (year)",
+      "indonesian": ", untuk (10 hari), tahun depan",
+      "romaji": "rai"
+    },
+    {
+      "kanji": null,
+      "hiragana": "ライター",
+      "english": "lighter,rider,writer",
+      "indonesian": "pemantik, penunggang, penulis",
+      "romaji": "raitā"
+    },
+    {
+      "kanji": "楽",
+      "hiragana": "らく",
+      "english": "comfort,ease",
+      "indonesian": "kenyamanan, kemudahan",
+      "romaji": "raku"
+    },
+    {
+      "kanji": null,
+      "hiragana": "ラケット",
+      "english": "paddle,racket",
+      "indonesian": "dayung, raket",
+      "romaji": "raketto"
+    },
+    {
+      "kanji": "利益",
+      "hiragana": "りえき",
+      "english": "profits,gains,(political, economic) interest",
+      "indonesian": "keuntungan, hasil, kepentingan (politik, ekonomi)",
+      "romaji": "rieki"
+    },
+    {
+      "kanji": "理解",
+      "hiragana": "りかい",
+      "english": "understanding,comprehension",
+      "indonesian": "pemahaman, pengertian",
+      "romaji": "rikai"
+    },
+    {
+      "kanji": "陸",
+      "hiragana": "りく",
+      "english": "six (used in legal documents)",
+      "indonesian": "enam (digunakan dalam dokumen hukum)",
+      "romaji": "riku"
+    },
+    {
+      "kanji": "利口",
+      "hiragana": "りこう",
+      "english": "clever,shrewd,bright,sharp,wise,intelligent",
+      "indonesian": "cerdas, pintar, tajam, bijaksana, cerdas",
+      "romaji": "rikou"
+    },
+    {
+      "kanji": "離婚",
+      "hiragana": "りこん",
+      "english": "divorce",
+      "indonesian": "perceraian",
+      "romaji": "rikon"
+    },
+    {
+      "kanji": "理想",
+      "hiragana": "りそう",
+      "english": "ideal",
+      "indonesian": "idealis",
+      "romaji": "risou"
+    },
+    {
+      "kanji": "率",
+      "hiragana": "りつ",
+      "english": "rate,ratio,proportion,percentage",
+      "indonesian": "rasio, proporsi, persentase",
+      "romaji": "ritsu"
+    },
+    {
+      "kanji": "立派",
+      "hiragana": "りっぱ",
+      "english": "splendid,fine,handsome,elegant,imposing,prominent,legal,legitimate",
+      "indonesian": "megah, baik, tampan, elegan, mengesankan, menonjol, legal, sah",
+      "romaji": "rippa"
+    },
+    {
+      "kanji": "留学",
+      "hiragana": "りゅうがく",
+      "english": "studying abroad",
+      "indonesian": "belajar di luar negeri",
+      "romaji": "ryuugaku"
+    },
+    {
+      "kanji": "流行",
+      "hiragana": "りゅうこう",
+      "english": "fashionable,fad,in vogue,prevailing",
+      "indonesian": "modis, tren, sedang populer, berlaku",
+      "romaji": "ryuukou"
+    }
+  ]
